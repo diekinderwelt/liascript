@@ -76,7 +76,7 @@ details[open] > *:not(summary) {
 
 ## a) Video "Ballon im Auto" & Quiz
 
-> [Link zum Video](https://example.com) EINBETTUNG VIDEO: Inhalt - Extavium-Mitarbeiter (ich) steht vor einem Kleintransporter (der KW?) und stellt sich vor, inkl. des Hinweises, dass aufkommende fachliche Fragen aufgeschrieben werden sollen und gerne nächste Woche direkt an mich gerichtet werden können. Schnitt in das Innere des Fahrzeugs. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt. Alle Fenster und Türen sind geschlossen. 
+> [Link zum Video](https://example.com) EINBETTUNG VIDEO: Inhalt - Extavium-Mitarbeiter (ich) steht vor einem Kleintransporter (der KW?) und stellt sich vor, inkl. des Hinweises, dass aufkommende fachliche Fragen aufgeschrieben werden sollen und gerne nächste Woche direkt an mich gerichtet werden können. Schnitt in das Innere des Fahrzeugs. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt. Alle Fenster und Türen sind geschlossen. ..
 
 ---
 
