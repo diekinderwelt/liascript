@@ -56,7 +56,7 @@ details[open] > *:not(summary) {
 
 ![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 
-# Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema ...
+# Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
 
 > Ich bin Simon Steffens und ich begleite euch die nächsten sechs Unterrichtsstunden. 
 
