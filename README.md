@@ -63,28 +63,34 @@ details[open] > *:not(summary) {
 
 > Hinweis: Wir empfehlen Ihnen, diesen Abschnitt **0. Hinweise für die begleitende Lehrkraft** auf Ihrem Lehrertablet geöffnet zu haben, so dass Sie hier unabhängig von den Schülern und Schülerinnen zwischendurch bei Bedarf nachschauen können.
 
-1. & 2. Unterrichtsstunde:
+1.&2. Unterrichtsstunde:
+
 - zu den Aufgaben, die die Schüler und Schülerinnen bearbeiten sollen: [Link](https://example.com)
 - zu den (Lern-)Videos: [Link](https://example.com)
 
-3. & 4. Unterrichtsstunde:
+3.&4. Unterrichtsstunde:
+
 - zur Umsetzung der Experimente (in der 3+4 Unterrichtsstunde: [Link](https://example.com)
 - zur Begleitung der Schülerinnen und Schüler während des Unterrichtsprozesses [Link](https://example.com)
 
-5. & 6. Unterrichtsstunde: 
+5.&6. Unterrichtsstunde: 
+
 - zur Reflexion des Lernprozesses 
 
 Übergeordnet: 
+
 - Hier finden Sie alle (Lern-)Videos: [Link](https://example.com)
 - Hier finden Sie eine Liste der notwendigen Materialien für die 3. & 4. Unterrichtsstunde: [Link](https://example.com) 
-- 
 
-Didaktische Hinweise: 
+
+ Didaktische Hinweise: 
+ 
 - Unten finden Sie unter jedem Abschnitt Pfeile, die nach vorwärts oder zurück navigieren. Die Unterrichtsreihe ist so aufgebaut, dass Sie sich hier einfach der Reihe nach durchklicken können. 
 - Sie finden in den einzelnen Abschnitten teilweise folgendes Symbol: 🗝️ **An die Lernbegleitung:** --> es handelt sich dabei um Anmerkungen für Sie, die z.B. auf mögliche Nutzung digitaler Tools hinweisen (diese können Sie nutzen, müssen es aber nicht)
   
 
-Symbole für die begleitende Lehrkraft 
+Symbole für die begleitende Lehrkraft:
+
 - <span style="font-size: 2em;">🗝️</span>  Hier handelt es sich um einen Hinweis für Sie als Lehrkraft - dieser ist meist noch in einer anderen Farbe hinterlegt.
 - <span style="font-size: 2em;">📖🖋️</span>  Hierbei handelt es sich um eine analoge Variante B für eine Aufgabe.
 - <span style="font-size: 2em;">📱 </span> Hierbei handelt es sich um eine digitale Variante B für eine Aufgabe. 
