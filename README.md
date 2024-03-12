@@ -103,16 +103,16 @@ Didaktische Hinweise:
 
 
 > Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
-<span style="font-size: 2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft ruhig.
 
->> Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: 
->> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. 
->> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt. 
+>> <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft ruhig.
+
+>> Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+
+
 
 <span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
 
 
-<span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht. 
 
 
 
@@ -183,14 +183,13 @@ Didaktische Hinweise:
 - [ ] egal
 
 
-<div style="background-color: lightblue;">
-🗝️ **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie diesen Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen udn kurz besprechen zu können. 
-</div>
+<span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
+</span>
 
 ## 1.6) Vermutungen zur Lösung
 <span style="font-size: 2em;">🙋</span> (5 Min.)
 
->> Teilt nun eure Vermutungen in der Klasse: Was glaubt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+>> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
@@ -199,27 +198,13 @@ Didaktische Hinweise:
 > [Link zum Video](https://example.com) Fortsetzung des Videos - Das Video setzt fort und löst auf: Die richtige Antwort ist in beiden Fällen „egal“. Ich schaffe es, sowohl gehockt als auch gestreckt unterzugehen, aber auch in beiden Körperpositionen oben zu bleiben (alle vier Fälle werden im Video gezeigt). Es muss also etwas anderes sein, dass darüber entscheidet, ob ich untergehe oder nicht. Wie habe ich das gemacht? Die Auflösung gibt es am Ende dieser Einheit…
 
 
->> ## <span style="font-size: 2em;">📝⏰</span>(10 Min.) <div style="margin-top: 1em;"></div> AUFGABE 1: <div style="margin-top: 1em;"></div> Tut euch zu Zweit zusammen und benutzt für die Aufgabe nur _ein_ Tablet. <div style="margin-top: 1em;"></div> Klickt auf den folgenden [Link] (https://map.kits.blog/map/6534466b-a859-4838-9b34-5cdb89e7383f#28f7481a-c0c2-4c16-afaf-690134c2de0d), um die Aufgabe zu bearbeiten: Sammelt dort eure Vermutungen zu der folgenden Frage: <div style="margin-top: 1em;"></div> Simon bleibt an der Wasseroberfläche, wenn er eine gehockte / gestreckte Körperhaltung einnimmt oder es ist egal, weil… .
-
----
-
-<span style="color: green;"> **An die Lernbegleitung:** 🗝️ Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/6534466b-a859-4838-9b34-5cdb89e7383f#28f7481a-c0c2-4c16-afaf-690134c2de0d), um die Auswertung zu den Fragen zu sehen! Lassen Sie die Schülerinnen und Schüler dann über folgende Frage abstimmen:</span> 
-
----
-
->> <span style="font-size: 2em;">🙋</span> Was denkt ihr, ist die richtige Antwort und warum? 
-
-
----
-
-[Antwort überprüfen](javascript:checkAnswer() - hier könnte [Link zum Video](https://example.com) kommen, in dem Antwort gegeben wird -->  
 
 
 ## c) Einstiegsfragen
 
->> ## <span style="font-size: 2em;">📝⏰</span> (10 Min.) <div style="margin-top: 1em;"></div> Es folgt eine Aufgabe, für die ihr euch bitte zu Zweit zusammentut. <div style="margin-top: 1em;"></div>Nehmt euch zu Zweit ein Tablet und scannt den QR-Code zu Aufgabe 2. 
+>> ## <span style="font-size: 2em;">📝⏰</span> (10 Min.) <div style="margin-top: 1em;"></div> Es folgt eine Aufgabe, für die ihr euch bitte zu Zweit zusammentut. <div style="margin-top: 1em;"></div>Nehmt euch zu Zweit ein Tablet und geht auf den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320).
 
-Ihr werdet auf die folgenden Fragen treffen:
+Ihr werdet hier auf die folgenden Fragen treffen:
 
 * Was schwimmt alles?
 * Was schwimmt nicht? 
@@ -227,7 +212,7 @@ Ihr werdet auf die folgenden Fragen treffen:
 
 ---
 
-<span style="color: green;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! </span> 
+<div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! </div> 
 
 
 
