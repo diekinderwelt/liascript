@@ -56,11 +56,41 @@ details[open] > *:not(summary) {
 
 ![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 
+
+# 0. Hinweise für die begleitende Lehrkraft
+
+> Die Unterrichtsreihe ist so aufgebaut, dass Sie möglichst intuitiv hindurchführen können, ohne sich vorher großartig vorbereitet zu haben. <div style="margin-top: 1em;"></div> Sollten während der Durchführung der Unterrichtsreihe Fragen auftauchen, sehen Sie im Folgenden eine Reihe von Links, die Sie zu möglichen auftauchenden Fragen inklusive der Antworten führt. 
+
+> Hinweis: Wir empfehlen Ihnen, diesen Abschnitt 0.1 auf Ihrem Lehrertablet geöffnet zu haben, so dass Sie hier unabhängig von den Schülern und Schülerinnen zwischendurch bei Bedarf nachschauen können.
+
+1.+2. Unterrichtsstunde
+- zu den Aufgaben, die die Schüler und Schülerinnen bearbeiten sollen: [Link](https://example.com)
+- zu den (Lern-)Videos: [Link](https://example.com)
+
+3.+4. Unterrichtsstunde
+- zur Umsetzung der Experimente (in der 3+4 Unterrichtsstunde: [Link](https://example.com)
+- zur Begleitung der Schülerinnen und Schüler während des Unterrichtsprozesses [Link](https://example.com)
+
+5.+6. Unterrichtsstunde
+- zur Reflexion des Lernprozesses 
+
+Übergeordnet
+- Hier finden Sie alle (Lern-)Videos: [Link](https://example.com)
+- Hier finden Sie eine Liste der notwendigen Materialien für die 3.+.4 Unterrichtsstunde: [Link](https://example.com) 
+- Hier finden Sie 
+
+>> Geben Sie uns [hier](https://example.com) Hinweise, auf welche Fragen Sie wähernd der Umsetzung der Unterrichtsreihe noch Antworten gebraucht hätten
+
+
+
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
 
 > Ich bin Simon Steffens und ich begleite euch die nächsten sechs Unterrichtsstunden. 
 
 <iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
+
+
+# 0. Hinweise für die Schüler und Schülerinnen 
 
 
 
@@ -74,7 +104,7 @@ details[open] > *:not(summary) {
 
 
 
-## a) Video "Ballon im Auto" & Quiz
+## 1.1) Video "Ballon im Auto" 
 
 > [Link zum Video](https://example.com) EINBETTUNG VIDEO: Inhalt - Extavium-Mitarbeiter (ich) steht vor einem Kleintransporter (der KW?) und stellt sich vor, inkl. des Hinweises, dass aufkommende fachliche Fragen aufgeschrieben werden sollen und gerne nächste Woche direkt an mich gerichtet werden können. Schnitt in das Innere des Fahrzeugs. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt. Alle Fenster und Türen sind geschlossen. ..
 
@@ -84,6 +114,7 @@ details[open] > *:not(summary) {
 > [Link zum Video](https://example.com) Fortsetzung Video: Antwort: Das Video wird fortgesetzt und die Frage aufgelöst. Der Ballon geht nach hinten, wie vermutlich die meisten erwartet und geantwortet haben. Beim Bremsen neigt er sich nach vorne   . Erklärung des Phänomens anhand von Kraftpfeilen (die bei einer Wiederholung in das Video eingeblendet werden) […] Nun wird ein Heliumballon an einer Schnur am Boden des Fahrzeugs befestigt. Erneut die Frage von oben stellen.
 
 
+## 1.2) Frage zum Video "Ballon im Auto" 
 
 >> <span style="font-size: 2em;">❓</span> Was passiert beim Bremsen?
 
@@ -95,20 +126,17 @@ details[open] > *:not(summary) {
 - [ ] luft vor/helium zurück
 - [ ] bleiben aufrecht
 
+>> Teilt eure Vermutungen der Klasse mit.
+
+## 1.3) Fortsetzung Video "Ballon im Auto"
+
 > [Link zum Video](https://example.com) Fortsetzung Video: Antwort: Das Video wird fortgesetzt und die Frage aufgelöst. Der Ballon geht beim Beschleunigen nach vorne und beim Bremsen nach hinten. Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtseinheit. Gerne könnt ihr aber bis in zwei Wochen selbst überlegen und eigene Tests mit euren Eltern machen, wenn ihr die Möglichkeit habt. Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
 
 
 
+## 1.4) Video "Toter Mann"
 
-
-
-
-
-
-
-## b) Video "Toter Mann", Quiz 
-
-> [Link zum Video](https://example.com) Fortsetzung Video "Toter Mann“: Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. Text: Bestimmt könnt ihr schwimmen, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr auch schwimmen, also an der Wasseroberfläche bleiben, ohne euch zu bewegen? Denn für einen Physiker bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Person (Simon) befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) (ggf. mit Unterwasserkamera ergänzen)
+> [Link zum Video](https://example.com) Fortsetzung Video "Toter Mann“: Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. Text: Bestimmt könnt ihr schwimmen, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr auch schwimmen, also an der Wasseroberfläche bleiben, ohne euch zu bewegen? Denn für einen Physiker bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Person (Simon) befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) (ggf. mit Unterwasserkamera ergänzen) 
 
 ---
 
