@@ -105,9 +105,9 @@ Didaktische Hinweise:
 > Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
 <span style="font-size: 2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft ruhig.
 
-Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: 
-<span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. 
-<span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt. 
+>> Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: 
+>> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. 
+>> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt. 
 
 <span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
 
@@ -137,7 +137,7 @@ Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weitere
 
 
 ## 1.2) Frage zum Video "Ballon im Auto" 
-<span style="font-size: 2em;">📝⏰</span>(5 Min.)
+>> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
 
 <span style="font-size: 2em;">🤔</span>  Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der folgenden Frage aus: 
 >> <span style="font-size: 2em;">❓</span> Was passiert beim Bremsen? (Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...)
@@ -166,7 +166,7 @@ Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weitere
 
 ## 1.5) Fragen zum Video "Toter Mann"
 
-<span style="font-size: 2em;">📝⏰</span>(5 Min.)
+>> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
 <span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen fünf Minuten <span style="font-size: 2em;">⏰</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?
 
 >> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
