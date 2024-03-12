@@ -61,23 +61,28 @@ details[open] > *:not(summary) {
 
 > Die Unterrichtsreihe ist so aufgebaut, dass Sie möglichst intuitiv hindurchführen können, ohne sich vorher großartig vorbereitet zu haben. <div style="margin-top: 1em;"></div> Sollten während der Durchführung der Unterrichtsreihe Fragen auftauchen, sehen Sie im Folgenden eine Reihe von Links, die Sie zu möglichen auftauchenden Fragen inklusive der Antworten führt. 
 
-> Hinweis: Wir empfehlen Ihnen, diesen Abschnitt 0.1 auf Ihrem Lehrertablet geöffnet zu haben, so dass Sie hier unabhängig von den Schülern und Schülerinnen zwischendurch bei Bedarf nachschauen können.
+> Hinweis: Wir empfehlen Ihnen, diesen Abschnitt **0. Hinweise für die begleitende Lehrkraft** auf Ihrem Lehrertablet geöffnet zu haben, so dass Sie hier unabhängig von den Schülern und Schülerinnen zwischendurch bei Bedarf nachschauen können.
 
-1.+2. Unterrichtsstunde
+1.+2. Unterrichtsstunde:
 - zu den Aufgaben, die die Schüler und Schülerinnen bearbeiten sollen: [Link](https://example.com)
 - zu den (Lern-)Videos: [Link](https://example.com)
 
-3.+4. Unterrichtsstunde
+3.+4. Unterrichtsstunde:
 - zur Umsetzung der Experimente (in der 3+4 Unterrichtsstunde: [Link](https://example.com)
 - zur Begleitung der Schülerinnen und Schüler während des Unterrichtsprozesses [Link](https://example.com)
 
-5.+6. Unterrichtsstunde
+5.+6. Unterrichtsstunde: 
 - zur Reflexion des Lernprozesses 
 
-Übergeordnet
+Übergeordnet: 
 - Hier finden Sie alle (Lern-)Videos: [Link](https://example.com)
 - Hier finden Sie eine Liste der notwendigen Materialien für die 3.+.4 Unterrichtsstunde: [Link](https://example.com) 
-- Hier finden Sie 
+- Hier finden Sie
+
+Didaktische Hinweise: 
+- Unten finden Sie unter jedem Abschnitt Pfeile, die nach vorwärts oder zurück navigieren. Die Unterrichtsreihe ist so aufgebaut, dass Sie sich hier einfach der Reihe nach durchklicken können. 
+- Sie finden in den einzelnen Abschnitten teilweise folgendes Symbol: 🗝️ **An die Lernbegleitung:** --> es handelt sich dabei um Anmerkungen für Sie, die z.B. auf mögliche Nutzung digitaler Tools hinweisen (diese können Sie nutzen, müssen es aber nicht)
+- 
 
 >> Geben Sie uns [hier](https://example.com) Hinweise, auf welche Fragen Sie wähernd der Umsetzung der Unterrichtsreihe noch Antworten gebraucht hätten
 
@@ -90,7 +95,24 @@ details[open] > *:not(summary) {
 <iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
 
 
-# 0. Hinweise für die Schüler und Schülerinnen 
+# 0. Hinweise für die ersten beiden Unterrichtsreinheiten 
+
+> Ihr braucht folgendes:
+- [ ] Jeder benötigt ein Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines.
+- [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
+
+
+> Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
+<span style="font-size: 2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft ruhig.
+
+Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: 
+<span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. 
+<span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt. 
+
+<span style="color: darkblue; background-color: darkyellow;"> <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
+
+
+<span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht. 
 
 
 
@@ -115,16 +137,18 @@ details[open] > *:not(summary) {
 
 
 ## 1.2) Frage zum Video "Ballon im Auto" 
+## <span style="font-size: 2em;">📝⏰</span>(5 Min.)
 
->> <span style="font-size: 2em;">❓</span> Was passiert beim Bremsen?
+<span style="font-size: 2em;">🤔</span>  Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der folgenden Frage aus: 
+>> <span style="font-size: 2em;">❓</span> Was passiert beim Bremsen? (Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...)
 
-<span style="font-size: 2em;">🤔</span>  Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr und was ist eure Erklärung dafür?
+- [ ] beide Ballons gehen nach vorne, weil...
+- [ ] beide Ballons gehen nach hinten, weil...
+- [ ] Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
+- [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
+- [ ] Beide Ballons bleiben aufrecht
 
-- [ ] beide gehen nach vorne, weil...
-- [ ] beide gehen nach hinten, weil...
-- [ ] Helium vor / luft zurück, weil...
-- [ ] luft vor/helium zurück
-- [ ] bleiben aufrecht
+>> Schreibt euch eure Antwort und die Vermutung auf.
 
 >> Teilt eure Vermutungen der Klasse mit.
 
@@ -142,8 +166,8 @@ details[open] > *:not(summary) {
 
 ## 1.5) Fragen zum Video "Toter Mann"
 
- ## <span style="font-size: 2em;">📝⏰</span>(10 Min.)
-<span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die richtige Antwort und was ist eure Erklärung dafür? 
+## <span style="font-size: 2em;">📝⏰</span>(5 Min.)
+<span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen fünf Minuten <span style="font-size: 2em;">⏰</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?
 
 >> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
 
@@ -158,9 +182,22 @@ details[open] > *:not(summary) {
 - [ ] gestreckt
 - [ ] egal
 
->> ## Teilt dann eure Vermutungen in der Klasse: Was glaubt ihr, ist die richtige Antwort? Und warum? 
 
----
+<div style="background-color: lightblue;">
+🗝️ **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie diesen Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen udn kurz besprechen zu können. 
+</div>
+
+## 1.6) Vermutungen zur Lösung
+## <span style="font-size: 2em;">🙋</span> (5 Min.)
+
+>> Teilt nun eure Vermutungen in der Klasse: Was glaubt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+
+
+
+# 1.6) Auflösung 
+
+> [Link zum Video](https://example.com) Fortsetzung des Videos - Das Video setzt fort und löst auf: Die richtige Antwort ist in beiden Fällen „egal“. Ich schaffe es, sowohl gehockt als auch gestreckt unterzugehen, aber auch in beiden Körperpositionen oben zu bleiben (alle vier Fälle werden im Video gezeigt). Es muss also etwas anderes sein, dass darüber entscheidet, ob ich untergehe oder nicht. Wie habe ich das gemacht? Die Auflösung gibt es am Ende dieser Einheit…
+
 
 >> ## <span style="font-size: 2em;">📝⏰</span>(10 Min.) <div style="margin-top: 1em;"></div> AUFGABE 1: <div style="margin-top: 1em;"></div> Tut euch zu Zweit zusammen und benutzt für die Aufgabe nur _ein_ Tablet. <div style="margin-top: 1em;"></div> Klickt auf den folgenden [Link] (https://map.kits.blog/map/6534466b-a859-4838-9b34-5cdb89e7383f#28f7481a-c0c2-4c16-afaf-690134c2de0d), um die Aufgabe zu bearbeiten: Sammelt dort eure Vermutungen zu der folgenden Frage: <div style="margin-top: 1em;"></div> Simon bleibt an der Wasseroberfläche, wenn er eine gehockte / gestreckte Körperhaltung einnimmt oder es ist egal, weil… .
 
@@ -170,12 +207,12 @@ details[open] > *:not(summary) {
 
 ---
 
->> <span style="font-size: 2em;">🙋</span> Was denkt ihr, ist die richtige Antwort und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+>> <span style="font-size: 2em;">🙋</span> Was denkt ihr, ist die richtige Antwort und warum? 
 
 
 ---
 
-[Antwort überprüfen](javascript:checkAnswer() - hier könnte [Link zum Video](https://example.com) kommen, in dem Antwort gegeben wird -->  Fortsetzung des Videos - Das Video setzt fort und löst auf: Die richtige Antwort ist in beiden Fällen „egal“. Ich schaffe es, sowohl gehockt als auch gestreckt unterzugehen, aber auch in beiden Körperpositionen oben zu bleiben (alle vier Fälle werden im Video gezeigt). Es muss also etwas anderes sein, dass darüber entscheidet, ob ich untergehe oder nicht. Wie habe ich das gemacht? Die Auflösung gibt es am Ende dieser Einheit…
+[Antwort überprüfen](javascript:checkAnswer() - hier könnte [Link zum Video](https://example.com) kommen, in dem Antwort gegeben wird -->  
 
 
 ## c) Einstiegsfragen
