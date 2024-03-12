@@ -82,7 +82,7 @@ details[open] > *:not(summary) {
 Didaktische Hinweise: 
 - Unten finden Sie unter jedem Abschnitt Pfeile, die nach vorwärts oder zurück navigieren. Die Unterrichtsreihe ist so aufgebaut, dass Sie sich hier einfach der Reihe nach durchklicken können. 
 - Sie finden in den einzelnen Abschnitten teilweise folgendes Symbol: 🗝️ **An die Lernbegleitung:** --> es handelt sich dabei um Anmerkungen für Sie, die z.B. auf mögliche Nutzung digitaler Tools hinweisen (diese können Sie nutzen, müssen es aber nicht)
-- 
+  
 
 >> Geben Sie uns [hier](https://example.com) Hinweise, auf welche Fragen Sie wähernd der Umsetzung der Unterrichtsreihe noch Antworten gebraucht hätten
 
@@ -109,7 +109,7 @@ Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weitere
 <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. 
 <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt. 
 
-<span style="color: darkblue; background-color: darkyellow;"> <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
+<span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
 
 
 <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht. 
