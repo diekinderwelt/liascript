@@ -93,12 +93,12 @@ details[open] > *:not(summary) {
 
 Symbole für Sie als begleitende Lehrkraft:
 
-- <span style="font-size: 2em;">🗝️</span>  Hier handelt es sich um einen Hinweis für Sie als Lehrkraft - dieser ist meist noch in einer anderen Farbe hinterlegt.
-- <span style="font-size: 2em;">📖🖋️</span>  Hierbei handelt es sich um eine analoge Variante B für eine Aufgabe.
-- <span style="font-size: 2em;">📱 </span> Hierbei handelt es sich um eine digitale Variante B für eine Aufgabe. 
+- <span style="font-size: 1em;">🗝️</span>  Hier handelt es sich um einen Hinweis für Sie als Lehrkraft - dieser ist meist noch in einer anderen Farbe hinterlegt.
+- <span style="font-size: 1em;">📖🖋️</span>  Hierbei handelt es sich um eine analoge Variante B für eine Aufgabe.
+- <span style="font-size: 1em;">📱 </span> Hierbei handelt es sich um eine digitale Variante B für eine Aufgabe. 
   
 
->> Geben Sie uns [hier](https://example.com) Hinweise, auf welche Fragen Sie wähernd der Umsetzung der Unterrichtsreihe noch Antworten gebraucht hätten
+>> Geben Sie uns [hier](https://example.com) Hinweise, auf welche Fragen Sie während der Umsetzung der Unterrichtsreihe noch Antworten gewünscht hätten.
 
 
 
@@ -111,11 +111,17 @@ Symbole für Sie als begleitende Lehrkraft:
 
 # 0. Hinweise für die ersten beiden Unterrichtsreinheiten 
 
-> Ihr braucht folgendes:
+> Ihr braucht _heute_ folgendes:
 
-- [ ] Jeder benötigt ein Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines.
-- [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
+- [ ] Jeder benötigt ein Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
+- [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt.
+      
 
+## 0. ... Fortsetzung Hinweise
+
+- [ ]  Wenn ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard & navigiert dann in der Unterrichtsreihe bis zu diesem Punkt: .... 
+
+- [ ]  Wenn ihr auf dem Tablet hier angekommen seid, navigiert euch weiter bis zu Punkt _xy_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch. 
 
 > Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
 
@@ -129,9 +135,7 @@ Symbole für Sie als begleitende Lehrkraft:
 <span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
 
 
-
-
-
+Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) Hinweise geben, was ihr bis jetzt an der Einführung im Unterricht schon gut fandet und was weniger. Das hilft uns, die Unterrichtsreihen weiter zu verbessern. 
 
 
 # 1. Unterrichtsstunde - Einstieg 🔍
@@ -144,9 +148,9 @@ Symbole für Sie als begleitende Lehrkraft:
 
 
 
-## 1.1) Video "Ballon im Auto" 
+## 1.1 Video "Ballon im Auto" 
 
-> [Link zum Video](https://example.com) EINBETTUNG VIDEO: Inhalt - Extavium-Mitarbeiter (ich) steht vor einem Kleintransporter (der KW?) und stellt sich vor, inkl. des Hinweises, dass aufkommende fachliche Fragen aufgeschrieben werden sollen und gerne nächste Woche direkt an mich gerichtet werden können. Schnitt in das Innere des Fahrzeugs. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt. Alle Fenster und Türen sind geschlossen. ..
+> [Link zum Video](https://example.com) Inhalt - Extavium-Mitarbeiter (ich) steht vor einem Kleintransporter (der KW?) und stellt sich vor, inkl. des Hinweises, dass aufkommende fachliche Fragen aufgeschrieben werden sollen und gerne nächste Woche direkt an mich gerichtet werden können. Schnitt in das Innere des Fahrzeugs. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt. Alle Fenster und Türen sind geschlossen. ..
 
 ---
 
@@ -154,7 +158,7 @@ Symbole für Sie als begleitende Lehrkraft:
 > [Link zum Video](https://example.com) Fortsetzung Video: Antwort: Das Video wird fortgesetzt und die Frage aufgelöst. Der Ballon geht nach hinten, wie vermutlich die meisten erwartet und geantwortet haben. Beim Bremsen neigt er sich nach vorne   . Erklärung des Phänomens anhand von Kraftpfeilen (die bei einer Wiederholung in das Video eingeblendet werden) […] Nun wird ein Heliumballon an einer Schnur am Boden des Fahrzeugs befestigt. Erneut die Frage von oben stellen.
 
 
-## 1.2) Frage zum Video "Ballon im Auto" 
+## 1.2 Frage zum Video "Ballon im Auto" 
 >> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
 
 <span style="font-size: 2em;">🤔</span>  Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der folgenden Frage aus: 
@@ -169,10 +173,8 @@ Symbole für Sie als begleitende Lehrkraft:
 >> Schreibt euch eure Antwort und die Vermutung auf.
 
 
-## 1.3) Vermutungen zur Lösung
->> <span style="font-size: 2em;">🙋</span>(5 Min.)
-
->> Teilt eure Vermutungen der Klasse mit.
+## 1.) Vermutungen zur Lösung
+>> <span style="font-size: 2em;">🙋</span>(5 Min.) Teilt eure Vermutungen der Klasse mit.
 
 Wir glauben Folgendes: 
 
@@ -184,21 +186,21 @@ Wir glauben Folgendes:
 
 
 
-## 1.4) Fortsetzung Video "Ballon im Auto"
+## 1.4 Fortsetzung Video "Ballon im Auto"
 
 > [Link zum Video](https://example.com) Fortsetzung Video: Antwort: Das Video wird fortgesetzt und die Frage aufgelöst. Der Ballon geht beim Beschleunigen nach vorne und beim Bremsen nach hinten. Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtseinheit. Gerne könnt ihr aber bis in zwei Wochen selbst überlegen und eigene Tests mit euren Eltern machen, wenn ihr die Möglichkeit habt. Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
 
 
 
-## 2.1) Video "Toter Mann"
+## 2.1 Video "Toter Mann"
 
 > [Link zum Video](https://example.com) Fortsetzung Video "Toter Mann“: Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. Text: Bestimmt könnt ihr schwimmen, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr auch schwimmen, also an der Wasseroberfläche bleiben, ohne euch zu bewegen? Denn für einen Physiker bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Person (Simon) befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) (ggf. mit Unterwasserkamera ergänzen) 
 
 
-## 2.2) Fragen zum Video "Toter Mann"
+## 2.2 Fragen zum Video "Toter Mann"
 
 >> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
-<span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen fünf Minuten <span style="font-size: 2em;">⏰</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?
+<span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?
 
 >> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
 
@@ -218,7 +220,7 @@ Wir glauben Folgendes:
 </span>
 
 
-## 2.3) Vermutungen zur Lösung
+## 2.3 Vermutungen zur Lösung
 
 <span style="font-size: 2em;">🙋</span> (5 Min.)
 
@@ -226,14 +228,14 @@ Wir glauben Folgendes:
 
 
 
-## 2.4) Auflösung 
+## 2.4 Auflösung 
 
 > [Link zum Video](https://example.com) Fortsetzung des Videos - Das Video setzt fort und löst auf: Die richtige Antwort ist in beiden Fällen „egal“. Ich schaffe es, sowohl gehockt als auch gestreckt unterzugehen, aber auch in beiden Körperpositionen oben zu bleiben (alle vier Fälle werden im Video gezeigt). Es muss also etwas anderes sein, dass darüber entscheidet, ob ich untergehe oder nicht. Wie habe ich das gemacht? Die Auflösung gibt es am Ende dieser Einheit…
 
 
 
 
-## 3.1) Einstiegsfragen
+## 3.1 Einstiegsfragen
 
 >> ## <span style="font-size: 2em;">📝⏰</span> (10 Min.) <div style="margin-top: 1em;"></div> Es folgt eine Aufgabe, für die ihr euch bitte zu Zweit zusammentut. <div style="margin-top: 1em;"></div>Nehmt euch zu Zweit ein Tablet und geht auf den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320).
 
@@ -266,7 +268,7 @@ Ihr werdet hier auf die folgenden Fragen treffen:
 
 
 
-## 4) Worum geht es?
+## 4 Worum geht es?
 
 >> ## Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
@@ -349,7 +351,7 @@ Umrechnung der Einheiten:<div style="margin-top: 1em;"></div>
 >> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
 
->>  <span style="font-size: 2em;">📖🖋️ </span> ANALOGE VARIANTE: 
+>>  <span style="font-size: 2em;">📖🖋️ </span> ANALOGE VARIANTE: ...
 
 ## 2.3 Gruppenaufgabe: Vermutungen zur Lösung
 
@@ -399,31 +401,26 @@ Wie kann man die Dichte experimentell bestimmen und ausrechnen
 
 # 3. + 4. Unterrichtsstunde - Wir experimentieren! 🧪 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/4ah0igooeeQYQNifeE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/guavajuice-funny-roi-guava-juice-4ah0igooeeQYQNifeE">via GIPHY</a></p>
+>> Beginnt schon einmal und beantwortet die folgenden Fragen: <div style="margin-top: 1em;"></div>
+1. Überlegt, was die Wichtigsten Dinge der letzten Physikstunde waren, die ihr dazugelernt habt. Schreibt euch drei Punkte dazu auf. <div style="margin-top: 1em;"></div> 2. Habt ihr noch Fragen zum Thema (z.B. gibt es z.B. etwas, was wir noch nicht verstanden habt)?
 
-<div style="margin-top: 10em;"></div>
-
->> # 📝⏰ (5 Min.) Aufgabe in Einzelarbeit (schreibt die Antworten zu den folgenden Fragen auf): <div style="margin-top: 1em;"></div> 1. Überlegt, was die Wichtigsten Dinge der letzten Physikstunde waren, die ihr dazugelernt habt. Schreibt euch drei Punkte dazu auf. <div style="margin-top: 1em;"></div> 2. Habt ihr noch Fragen zum Thema (z.B. gibt es z.B. etwas, was wir noch nicht verstanden habt)?
-
-
-
-
-
-
-## a) Was wurde bis hierher gelernt? 
+## Wiederholung 
 
 >> # <span style="font-size: 2em;">🙋</span> (5 Min.) Teilt euren Mitschülern und Mitschülerinnen mit, was für euch die wichtigsten Dinge waren, die ihr gelernt habt.
 
-<div style="margin-top: 10em;"></div>
+<div style="margin-top: 5em;"></div>
 
->> # <span style="font-size: 2em;">🙋</span> (5 Min.) Welche Fragen habt ihr noch? 
+>> # <span style="font-size: 2em;">🙋</span> (5 Min.) Welche Fragen zum Thema Dichte habt ihr noch? 
 
-<span style="color: green;"> 🗝️ **An die Lernbegleitung:** Schreiben Sie die Fragen [hier](https://lms.paedagogika.com/mod/forum/view.php?id=3602) im Forum auf. Diese gehen dann direkt an Simon. </span> 
+<span style="color: green;"> 🗝️ **An die Lernbegleitung:** Notieren Sie die Fragen & sammeln Sie die Fragen in diesem Chat [hier](https://cloud.die-kinderwelt.com/call/nk5g2cqt). Diese gehen dann direkt an Simon. </span> 
 
 
-## b) Vorbereitung für das Experimentieren
 
->> # Das Forschungsprotokoll
+
+## 1.1) Vorbereitung für das Experimentieren
+
+>> # Das Forschungsprotokoll: Schreibt euch entsprechend der folgenden Struktur ein Forschungsprotokoll in euren Hefter -
+
 
 
 >> # Die benötigten Materialien
