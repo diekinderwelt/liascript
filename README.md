@@ -128,6 +128,7 @@ details[open] > *:not(summary) {
 
 >> Teilt eure Vermutungen der Klasse mit.
 
+
 ## 1.3) Fortsetzung Video "Ballon im Auto"
 
 > [Link zum Video](https://example.com) Fortsetzung Video: Antwort: Das Video wird fortgesetzt und die Frage aufgelöst. Der Ballon geht beim Beschleunigen nach vorne und beim Bremsen nach hinten. Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtseinheit. Gerne könnt ihr aber bis in zwei Wochen selbst überlegen und eigene Tests mit euren Eltern machen, wenn ihr die Möglichkeit habt. Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
@@ -138,12 +139,13 @@ details[open] > *:not(summary) {
 
 > [Link zum Video](https://example.com) Fortsetzung Video "Toter Mann“: Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. Text: Bestimmt könnt ihr schwimmen, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr auch schwimmen, also an der Wasseroberfläche bleiben, ohne euch zu bewegen? Denn für einen Physiker bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Person (Simon) befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) (ggf. mit Unterwasserkamera ergänzen) 
 
----
 
+## 1.5) Fragen zum Video "Toter Mann"
+
+ ## <span style="font-size: 2em;">📝⏰</span>(10 Min.)
 <span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die richtige Antwort und was ist eure Erklärung dafür? 
 
 >> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
-
 
 - [ ] gehockt
 - [ ] gestreckt
@@ -156,9 +158,11 @@ details[open] > *:not(summary) {
 - [ ] gestreckt
 - [ ] egal
 
+>> ## Teilt dann eure Vermutungen in der Klasse: Was glaubt ihr, ist die richtige Antwort? Und warum? 
+
 ---
 
->> ## <span style="font-size: 2em;">📝⏰</span>(10 Min.) <div style="margin-top: 1em;"></div> AUFGABE 1: <div style="margin-top: 1em;"></div>Nehmt euch zu Zweit ein Tablet und scannt den QR-Code zu Aufgabe 1. <div style="margin-top: 1em;"></div> Sammelt dort eure Vermutungen zu der folgenden Frage: <div style="margin-top: 1em;"></div> Simon bleibt an der Wasseroberfläche, wenn er eine gehockte / gestreckte Körperhaltung einnimmt oder es ist egal, weil… .
+>> ## <span style="font-size: 2em;">📝⏰</span>(10 Min.) <div style="margin-top: 1em;"></div> AUFGABE 1: <div style="margin-top: 1em;"></div> Tut euch zu Zweit zusammen und benutzt für die Aufgabe nur _ein_ Tablet. <div style="margin-top: 1em;"></div> Klickt auf den folgenden [Link] (https://map.kits.blog/map/6534466b-a859-4838-9b34-5cdb89e7383f#28f7481a-c0c2-4c16-afaf-690134c2de0d), um die Aufgabe zu bearbeiten: Sammelt dort eure Vermutungen zu der folgenden Frage: <div style="margin-top: 1em;"></div> Simon bleibt an der Wasseroberfläche, wenn er eine gehockte / gestreckte Körperhaltung einnimmt oder es ist egal, weil… .
 
 ---
 
