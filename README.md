@@ -137,7 +137,7 @@ Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weitere
 
 
 ## 1.2) Frage zum Video "Ballon im Auto" 
-## <span style="font-size: 2em;">📝⏰</span>(5 Min.)
+<span style="font-size: 2em;">📝⏰</span>(5 Min.)
 
 <span style="font-size: 2em;">🤔</span>  Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der folgenden Frage aus: 
 >> <span style="font-size: 2em;">❓</span> Was passiert beim Bremsen? (Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...)
@@ -166,7 +166,7 @@ Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weitere
 
 ## 1.5) Fragen zum Video "Toter Mann"
 
-## <span style="font-size: 2em;">📝⏰</span>(5 Min.)
+<span style="font-size: 2em;">📝⏰</span>(5 Min.)
 <span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen fünf Minuten <span style="font-size: 2em;">⏰</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?
 
 >> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
@@ -188,7 +188,7 @@ Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weitere
 </div>
 
 ## 1.6) Vermutungen zur Lösung
-## <span style="font-size: 2em;">🙋</span> (5 Min.)
+<span style="font-size: 2em;">🙋</span> (5 Min.)
 
 >> Teilt nun eure Vermutungen in der Klasse: Was glaubt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
