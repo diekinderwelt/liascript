@@ -150,21 +150,33 @@ Didaktische Hinweise:
 
 >> Schreibt euch eure Antwort und die Vermutung auf.
 
+
+## 1.3) Vermutungen zur Lösung
+>> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
+
 >> Teilt eure Vermutungen der Klasse mit.
 
+Wir glauben, dass ... 
+- [ ] beide Ballons gehen nach vorne, weil...
+- [ ] beide Ballons gehen nach hinten, weil...
+- [ ] Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
+- [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
+- [ ] Beide Ballons bleiben aufrecht
 
-## 1.3) Fortsetzung Video "Ballon im Auto"
+
+
+## 1.4) Fortsetzung Video "Ballon im Auto"
 
 > [Link zum Video](https://example.com) Fortsetzung Video: Antwort: Das Video wird fortgesetzt und die Frage aufgelöst. Der Ballon geht beim Beschleunigen nach vorne und beim Bremsen nach hinten. Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtseinheit. Gerne könnt ihr aber bis in zwei Wochen selbst überlegen und eigene Tests mit euren Eltern machen, wenn ihr die Möglichkeit habt. Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
 
 
 
-## 1.4) Video "Toter Mann"
+## 2.1) Video "Toter Mann"
 
 > [Link zum Video](https://example.com) Fortsetzung Video "Toter Mann“: Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. Text: Bestimmt könnt ihr schwimmen, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr auch schwimmen, also an der Wasseroberfläche bleiben, ohne euch zu bewegen? Denn für einen Physiker bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Person (Simon) befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) (ggf. mit Unterwasserkamera ergänzen) 
 
 
-## 1.5) Fragen zum Video "Toter Mann"
+## 2.2) Fragen zum Video "Toter Mann"
 
 >> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
 <span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen fünf Minuten <span style="font-size: 2em;">⏰</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?
@@ -186,21 +198,21 @@ Didaktische Hinweise:
 <span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
 </span>
 
-## 1.6) Vermutungen zur Lösung
+## 2.3) Vermutungen zur Lösung
 <span style="font-size: 2em;">🙋</span> (5 Min.)
 
 >> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
-# 1.6) Auflösung 
+## 2.4) Auflösung 
 
 > [Link zum Video](https://example.com) Fortsetzung des Videos - Das Video setzt fort und löst auf: Die richtige Antwort ist in beiden Fällen „egal“. Ich schaffe es, sowohl gehockt als auch gestreckt unterzugehen, aber auch in beiden Körperpositionen oben zu bleiben (alle vier Fälle werden im Video gezeigt). Es muss also etwas anderes sein, dass darüber entscheidet, ob ich untergehe oder nicht. Wie habe ich das gemacht? Die Auflösung gibt es am Ende dieser Einheit…
 
 
 
 
-## c) Einstiegsfragen
+## 3.1) Einstiegsfragen
 
 >> ## <span style="font-size: 2em;">📝⏰</span> (10 Min.) <div style="margin-top: 1em;"></div> Es folgt eine Aufgabe, für die ihr euch bitte zu Zweit zusammentut. <div style="margin-top: 1em;"></div>Nehmt euch zu Zweit ein Tablet und geht auf den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320).
 
@@ -210,7 +222,22 @@ Ihr werdet hier auf die folgenden Fragen treffen:
 * Was schwimmt nicht? 
 * Warum schwimmt das eine, aber nicht das andere?
 
+> Sammelt im Brainstorming auf dem Tablet alle eure Ideen.
+
+
+<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine **nicht-digitale Variante** lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
+
+<div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! </div> 
+<p><span style="color: red;"> Wichtiger Hinweis vor Öffnen des Links:</span> Lassen Sie einzelne SuS nochmal kurz berichten, was sie zu den einzelnen Punkten genannt haben (max. 5 Min.)</p>
+
+
 ---
+
+## 3.2 Auflösung zu den Einstiegsfragen
+
+[Hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320) seht ihr nun alle gesammelten Antworten. Eure begleitende Lehrkraft liest nochmal einzelne Antworten vor. 
+
+
 
 <div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! </div> 
 
@@ -223,7 +250,7 @@ Ihr werdet hier auf die folgenden Fragen treffen:
 
 >> <span style="font-size: 2em;">📝</span> Beschreibe den Begriff Dichte mit eigenen Worten in drei Sätzen. Nutze dafür diesen [Link](Link für kollaboratives Whiteboard), um deinen Satz aufzuschreiben.
 
-<span style="color: green;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </span> 
+<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
 
 
