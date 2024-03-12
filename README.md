@@ -63,25 +63,31 @@ details[open] > *:not(summary) {
 
 > Hinweis: Wir empfehlen Ihnen, diesen Abschnitt **0. Hinweise für die begleitende Lehrkraft** auf Ihrem Lehrertablet geöffnet zu haben, so dass Sie hier unabhängig von den Schülern und Schülerinnen zwischendurch bei Bedarf nachschauen können.
 
-1.+2. Unterrichtsstunde:
+1. & 2. Unterrichtsstunde:
 - zu den Aufgaben, die die Schüler und Schülerinnen bearbeiten sollen: [Link](https://example.com)
 - zu den (Lern-)Videos: [Link](https://example.com)
 
-3.+4. Unterrichtsstunde:
+3. & 4. Unterrichtsstunde:
 - zur Umsetzung der Experimente (in der 3+4 Unterrichtsstunde: [Link](https://example.com)
 - zur Begleitung der Schülerinnen und Schüler während des Unterrichtsprozesses [Link](https://example.com)
 
-5.+6. Unterrichtsstunde: 
+5. & 6. Unterrichtsstunde: 
 - zur Reflexion des Lernprozesses 
 
 Übergeordnet: 
 - Hier finden Sie alle (Lern-)Videos: [Link](https://example.com)
-- Hier finden Sie eine Liste der notwendigen Materialien für die 3.+.4 Unterrichtsstunde: [Link](https://example.com) 
-- Hier finden Sie
+- Hier finden Sie eine Liste der notwendigen Materialien für die 3. & 4. Unterrichtsstunde: [Link](https://example.com) 
+- 
 
 Didaktische Hinweise: 
 - Unten finden Sie unter jedem Abschnitt Pfeile, die nach vorwärts oder zurück navigieren. Die Unterrichtsreihe ist so aufgebaut, dass Sie sich hier einfach der Reihe nach durchklicken können. 
 - Sie finden in den einzelnen Abschnitten teilweise folgendes Symbol: 🗝️ **An die Lernbegleitung:** --> es handelt sich dabei um Anmerkungen für Sie, die z.B. auf mögliche Nutzung digitaler Tools hinweisen (diese können Sie nutzen, müssen es aber nicht)
+  
+
+Symbole für die begleitende Lehrkraft 
+- <span style="font-size: 2em;">🗝️</span>  Hier handelt es sich um einen Hinweis für Sie als Lehrkraft - dieser ist meist noch in einer anderen Farbe hinterlegt.
+- <span style="font-size: 2em;">📖🖋️</span>  Hierbei handelt es sich um eine analoge Variante B für eine Aufgabe.
+- <span style="font-size: 2em;">📱 </span> Hierbei handelt es sich um eine digitale Variante B für eine Aufgabe. 
   
 
 >> Geben Sie uns [hier](https://example.com) Hinweise, auf welche Fragen Sie wähernd der Umsetzung der Unterrichtsreihe noch Antworten gebraucht hätten
@@ -98,6 +104,7 @@ Didaktische Hinweise:
 # 0. Hinweise für die ersten beiden Unterrichtsreinheiten 
 
 > Ihr braucht folgendes:
+
 - [ ] Jeder benötigt ein Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines.
 - [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
 
@@ -109,8 +116,11 @@ Didaktische Hinweise:
 >> Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
 
 
+>> Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedacht:
 
 <span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
+
+
 
 
 
@@ -152,11 +162,12 @@ Didaktische Hinweise:
 
 
 ## 1.3) Vermutungen zur Lösung
->> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
+>> <span style="font-size: 2em;">🙋</span>(5 Min.)
 
 >> Teilt eure Vermutungen der Klasse mit.
 
-Wir glauben, dass ... 
+Wir glauben Folgendes: 
+
 - [ ] beide Ballons gehen nach vorne, weil...
 - [ ] beide Ballons gehen nach hinten, weil...
 - [ ] Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
@@ -198,7 +209,9 @@ Wir glauben, dass ...
 <span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
 </span>
 
+
 ## 2.3) Vermutungen zur Lösung
+
 <span style="font-size: 2em;">🙋</span> (5 Min.)
 
 >> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
@@ -227,6 +240,8 @@ Ihr werdet hier auf die folgenden Fragen treffen:
 
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine **nicht-digitale Variante** lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
 
+<div style="margin-top: 2em;"></div>
+
 <div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! </div> 
 <p><span style="color: red;"> Wichtiger Hinweis vor Öffnen des Links:</span> Lassen Sie einzelne SuS nochmal kurz berichten, was sie zu den einzelnen Punkten genannt haben (max. 5 Min.)</p>
 
@@ -237,7 +252,7 @@ Ihr werdet hier auf die folgenden Fragen treffen:
 
 [Hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320) seht ihr nun alle gesammelten Antworten. Eure begleitende Lehrkraft liest nochmal einzelne Antworten vor. 
 
-
+<div style="margin-top: 2em;"></div>
 
 <div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! </div> 
 
