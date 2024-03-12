@@ -109,6 +109,17 @@ Symbole für Sie als begleitende Lehrkraft:
 <iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
 
 
+# 0. Hinweise zu dieser Unterrichtsreihe 
+- Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite.
+- 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen.
+- 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren zu vertiefen.
+- In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren.
+
+
+# ... Fortsetzung der Hinweise zu dieser Unterrichtsreihe 
+
+
+
 # 0. Hinweise für die ersten beiden Unterrichtsreinheiten 
 
 > Ihr braucht _heute_ folgendes:
@@ -291,7 +302,7 @@ Sollte noch Unterrichtszeit übrig sein, wird eure Lernbegleitung nun folgendes 
 </iframe>
 
 
-
+<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Diese Anwendung können die SuS ggf. auch zuhause ausprobieren. </div> 
 
 
 
@@ -320,26 +331,33 @@ Umrechnung der Einheiten: <div style="margin-top: 1em;"></div>
 Umrechnung der Einheiten:<div style="margin-top: 1em;"></div>
 1 g/cm³ = 1 g/ml = 1 kg/L
 
->> Beispiele:  <div style="margin-top: 1em;"></div> Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³
+>> Beispiele:  <div style="margin-top: 1em;"></div> Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³ <div style="margin-top: 1em;"></div> 
 
->< Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
+Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
+
+
 
 
 ## 1.3 EINZELARBEIT: Wie berechnen wir Dichte?
 
->> <span style="font-size: 2em;">📝⏰</span> (10 Min.) Das wollen wir nun einmal **in Einzelarbeit** ausprobieren. Wenn ihr mit einer Aufgabe nicht weiterkommt, könnt ihr euch eine Hilfestellung geben lassen.   
+>> <span style="font-size: 2em;">📝⏰</span> (10 Min.) Das wollen wir nun einmal **in Einzelarbeit** ausprobieren. Wenn ihr mit einer Aufgabe nicht weiterkommt, könnt ihr euch eine Hilfestellung geben lassen. Schreibt euch die Aufgaben in euer Heft / auf einen Zettel.   
 
 1.	Du hast eine Glaskugel, die 500g wiegt. Ihr Volumen beträgt 200cm³. Wie groß ist die Dichte der Glaskugel? (Antwort: 2,5 g/cm³)
 2.	Die Dichte von Öl beträgt 0,9kg/L. Wie viel Gramm wiegen 100ml Öl? (Antwort: 90g)
 3.	Du hast einen Pool, der 10m lang und 10m breit ist. Mit Lkws werden 100t Wasser (Dichte 1 kg/L) angeliefert und in den Pool gefüllt. Wie hoch ist der Pool anschließend mit Wasser gefüllt? (Antwort: 1m)
 
+<div style="margin-top: 2em;"></div>
 
->> Ihr seht hier nochmal einen Überblick: ...
+🌱 Wenn ihr bereits früher fertig seid, überlegt euch noch eigene Beispiele und schreibt diese in euer Heft. 
+
+<div style="margin-top: 2em;"></div>
+
+>> Ihr seht hier nochmal einen Überblick und ein Beispiel zur Berechnung: ...
 
 
 ## 2.1 Dichte bekannter Stoffe
 
->> [Link zum Video](https://example.com) Einbettung Video: Zusammenfassung - Die Dichte ist eine Stoffeigenschaft. Z.B. haben Stoffe wie Eisen, Glas, Alkohol oder Luft eine spezifische Dichte. <div style="margin-top: 1em;"></div> Tabelle mit Dichten (in g/cm³): <div style="margin-top: 1em;"></div> Luft 0,0013 <div style="margin-top: 1em;"></div> Styropor 0,017<div style="margin-top: 1em;"></div>  Buchenholz 0,7 <div style="margin-top: 1em;"></div> Speiseöl 0,8-0,9 <div style="margin-top: 1em;"></div> Aluminium 2,7 <div style="margin-top: 1em;"></div> Eisen 7,9 <div style="margin-top: 1em;"></div> Gold 19,3 <div style="margin-top: 2em;"></div> Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse auf kleinem Raum verteilt. Styropor hingegen hat eine sehr kleine Dichte. Während eine 1kg schwere Kugel Gold sehr gut in eine Hand passt (die Kugel hat einen Durchmesser von 4,6 cm, also ein bisschen größer als ein Golfball), müsstet du 1.135 solcher Golfbälle aus Styropor in deinen Händen halten, um 1kg Gewicht zu tragen. <div style="margin-top: 2em;"></div> Frage: Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
+>> [Link zum Video](https://example.com) Zusammenfassung - Die Dichte ist eine Stoffeigenschaft. Z.B. haben Stoffe wie Eisen, Glas, Alkohol oder Luft eine spezifische Dichte. <div style="margin-top: 1em;"></div> Tabelle mit Dichten (in g/cm³): <div style="margin-top: 1em;"></div> Luft 0,0013 <div style="margin-top: 1em;"></div> Styropor 0,017<div style="margin-top: 1em;"></div>  Buchenholz 0,7 <div style="margin-top: 1em;"></div> Speiseöl 0,8-0,9 <div style="margin-top: 1em;"></div> Aluminium 2,7 <div style="margin-top: 1em;"></div> Eisen 7,9 <div style="margin-top: 1em;"></div> Gold 19,3 <div style="margin-top: 2em;"></div> Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse auf kleinem Raum verteilt. Styropor hingegen hat eine sehr kleine Dichte. Während eine 1kg schwere Kugel Gold sehr gut in eine Hand passt (die Kugel hat einen Durchmesser von 4,6 cm, also ein bisschen größer als ein Golfball), müsstet du 1.135 solcher Golfbälle aus Styropor in deinen Händen halten, um 1kg Gewicht zu tragen. <div style="margin-top: 2em;"></div> Frage: Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
 
 
 ## 2.2 Gruppenaufgabe zur Dichte bekannter Stoffe
@@ -351,18 +369,22 @@ Umrechnung der Einheiten:<div style="margin-top: 1em;"></div>
 >> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
 
->>  <span style="font-size: 2em;">📖🖋️ </span> ANALOGE VARIANTE: ...
+>>  <span style="font-size: 2em;">📖🖋️ </span> ANALOGE VARIANTE: Die Gruppe kann auch eine Person wählen, die die Ergebnisse auf einen Zettel aufschreibt. Die Ergebnisse können dann einfach im Plenum nochmal gesammelt werden.
+
+
 
 ## 2.3 Gruppenaufgabe: Vermutungen zur Lösung
 
-<span style="font-size: 2em;">🙋</span> (5 Min.)
-
->> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? 
+<span style="font-size: 2em;">🙋</span> (5 Min.) Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? 
 
 
 ## 2.4 Lösung zur Gruppenaufgabe
 
 >> [Link zum Video](https://example.com)  Antwort: Das liegt an der Luft im Innern des Schiffs. Hier wird nicht nur die Dichte des Stahls betrachtet, aus dem das Schiff gebaut ist, sondern zusätzlich wie viel Luft im Schiff eingeschlossen ist. Ein solches Schiff schwimmt nur dann, wenn die Kombination aus Luft und Stahl zusammen eine kleinere Dichte als Wasser hat. <div style="margin-top: 1em;"></div> Ggf. Beispiel für eine Berechnung geben, die dann auch als Text unter dem Video erscheint, damit sich die SuS daran orientieren können 
+
+
+<div style="margin-top: 3em;"></div>
+
 
 >> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
@@ -373,7 +395,7 @@ Umrechnung der Einheiten:<div style="margin-top: 1em;"></div>
 >> [Link zum Video](https://example.com) Einbettung Video: Was so ein schweres Schiff letztlich oben hält ist eine Kraft, die das Wasser auf das Schiff ausübt. Die sogenannte Auftriebskraft. Die habt ihr alle schon selbst erlebt. Wenn ihr im Schwimmbad ins Wasser geht, z.B. eine Treppe runtersteigt, fühlt ihr euch mit jedem Schritt leichter. Je tiefer ihr ins Wasser steigt, desto weniger spürt ihr euer eigenes Gewicht. <div style="margin-top: 1em;"></div> Dabei gilt:<div style="margin-top: 1em;"></div>Die Auftriebskraft auf einen Körper ist umso größer, je mehr Wasser er verdrängt. <div style="margin-top: 1em;"></div>Sie ist genauso groß wie die Gewichtskraft des Wassers, das verdrängt wurde.<div style="margin-top: 1em;"></div>Sie ist der Gewichtskraft entgegengesetzt.<div style="margin-top: 1em;"></div> Das heißt: <div style="margin-top: 1em;"></div> Eine Metallkugel mit einem Volumen von 1L verdrängt unter Wasser ja genau 1L Wasser. Die Auftriebskraft, die diese Kugel erfährt ist gleich der Gewichtskraft auf 1L (und damit 1kg) Wasser. Diese Metallkugel würde sich unter Wasser also 1kg leichter anfühlen. <div style="margin-top: 1em;"></div> Eine schwimmende Holzkugel von 1kg Gewicht verdrängt genau 1kg Wasser. Ein schwimmfähiger Körper verdrängt genauso viel Wasser, wie er selbst wiegt. Dadurch erfährt er eine Auftriebskraft nach oben, die genauso groß ist wie die Gewichtskraft, die ihn nach unten zieht. Es herrscht ein Kräftegleichgewicht. <div style="margin-top: 1em;"></div>  Für ein Stahlschiff bedeutet das: Je mehr Wasser ein Schiff verdrängen kann, desto schwerer kann es sein, ohne unterzugehen.
 
 
-## 3.2) Dichte experimentell bestimmen 
+## 3.2 Dichte experimentell bestimmen 
 >> [Link zum Video](https://example.com) Um die Dichte eines Gegenstandes oder Stoffes zu bestimmen benötigt man also die Masse m und das Volumen V und bildet aus beiden den Quotienten m/V.
 
 Experimentell kann die Masse mit einer Waage bestimmt werden. Das Volumen kann durch Abmessen der Außenkanten oder Durchmesser bestimmt werden (bei einfachen geometrischen Formen wie Quader, Zylinder oder Kugel). Bei unregelmäßig geformten Körpern (z.B. Metallschraube oder Porzellanfigur) kann man die Verdrängung einer Flüssigkeit nutzen, um das Volumen zu bestimmen. 
@@ -383,32 +405,53 @@ Ggf Überlaufmethode erklären und Vorgehen bei schwimmfähigen Körpern
 Diese Methoden wenden wir nächste Woche beim Experimentieren an.
 
 
-## 4) Zusammenfassung und Ausblick
->> [Link zum Video](https://example.com)
-Definition Dichte
-Wann schwimmt etwas in Wasser, wann geht es unter
-Verdrängung von Wasser und die daraus resultierende Auftriebskraft
-Wie kann man die Dichte experimentell bestimmen und ausrechnen
+## 4.1 Zusammenfassung und Ausblick - Auflösung Anfangsfrage
 
 >> [Link zum Video](https://example.com) Video Auflösung der Frage der Körperhaltung im Wasser (Fortsetzung von Video 1) - Mein Körper, der zum größten Teil aus Wasser besteht hat ungefähr die Dichte von Wasser. Ich muss also nicht viel ändern, um ein Untergehen oder Schwimmen zu erreichen. Es reicht die Luft in meinem Körper zu verändern. Ich muss tief einatmen und die Luft anhalten, um oben zu bleiben. Will ich auf den Boden sinken, muss ich alles ausatmen. Meine Lunge ist dann wie ein Schwimmärmchen, das mich oben hält. Fülle ich meine Lungen mit Luft, verdrängt mein Körper mehr Wasser und die Auftriebskraft wird größer. Ist die Lunge leer und mein Brustkorb klein, verdränge ich weniger Wasser, die Auftriebskraft ist kleiner. Und wenn die Auftriebskraft kleiner als die Gewichtskraft ist, gehe ich unter.
 
+## 4.2 ... Fortsetzung Zusammenfassung und Ausblick - Mitzubringendes kommende Woche
+
+> Schreibt euch in euer Hausaufgabenheft auf, dass ihr Folgendes nächste Woche mitbringt: ...
 
 
-> Wichtig: Das brauchen wir nächste Woche... 
+
+## 4.3 ... Fortsetzung Zusammenfassung und Ausblick - Lernreflexion
+
+> Lest euch abschließend noch einmal in Ruhe die Zusammenfassung durch und versucht für euch, die dazugehörigen Fragen zu beantworten. Solltet ihr merken, dass ihr an einigen Stellen noch Fragen habt, notiert euch diese für die nächste Woche.
+
+>> ZUSAMMENFASSUNG: Definition Dichte <div style="margin-top: 1em;"></div> Wann schwimmt etwas in Wasser, wann geht es unter <div style="margin-top: 1em;"></div> Verdrängung von Wasser und die daraus resultierende Auftriebskraft <div style="margin-top: 1em;"></div> Wie kann man die Dichte experimentell bestimmen und ausrechnen
+
+<div style="margin-top: 3em;"></div>
+
+>> MERKE:
+
+<div style="margin-top: 3em;"></div>
+
+
+>> Verständnisfragen: ...
+
+
+
+
+
 
 
 
 
 # 3. + 4. Unterrichtsstunde - Wir experimentieren! 🧪 
 
+>> HINWEIS: für diese Physikeinheit braucht ihr kein eigenes Tablet. Ihr werdet experimentieren und eure Lehrkraft navigiert euch am Smartboard durch die zwei Stunden. Am Ende der zwei Stunden wird Simon live aus dem Extavium hinzugeschaltet. Er wird mit euch das Experiment auswerten und kann dann noch eure Fragen beantworten. 
+
 >> Beginnt schon einmal und beantwortet die folgenden Fragen: <div style="margin-top: 1em;"></div>
-1. Überlegt, was die Wichtigsten Dinge der letzten Physikstunde waren, die ihr dazugelernt habt. Schreibt euch drei Punkte dazu auf. <div style="margin-top: 1em;"></div> 2. Habt ihr noch Fragen zum Thema (z.B. gibt es z.B. etwas, was wir noch nicht verstanden habt)?
+1. Überlegt, was die Wichtigsten Dinge der letzten Physikstunde waren, die ihr dazugelernt habt. Schreibt euch auf einem Zettel drei Punkte dazu auf. <div style="margin-top: 1em;"></div> 2. Habt ihr noch Fragen zum Thema (z.B. gibt es z.B. etwas, was wir noch nicht verstanden habt)?
 
 ## Wiederholung 
 
 >> # <span style="font-size: 2em;">🙋</span> (5 Min.) Teilt euren Mitschülern und Mitschülerinnen mit, was für euch die wichtigsten Dinge waren, die ihr gelernt habt.
 
 <div style="margin-top: 5em;"></div>
+
+## ... Fortsetzung Wiederholung
 
 >> # <span style="font-size: 2em;">🙋</span> (5 Min.) Welche Fragen zum Thema Dichte habt ihr noch? 
 
@@ -417,19 +460,43 @@ Wie kann man die Dichte experimentell bestimmen und ausrechnen
 
 
 
-## 1.1) Vorbereitung für das Experimentieren
+## 1.1 Vorbereitung für das Experimentieren - Forschungsprotokoll
 
->> # Das Forschungsprotokoll: Schreibt euch entsprechend der folgenden Struktur ein Forschungsprotokoll in euren Hefter -
+??Hierzu ggf. hilfreich, ein kurzes allgemeines Video zu erstellen?? 
+
+>> # Das Forschungsprotokoll: Schreibt euch die folgende Struktur für das Forschungsprotokoll in euren Hefter. Dieses braucht ihr, während ihr das Experiment durchführt. 
+
+1. (**Fragestellung**) Formulierung der	naturwissenschaftlichen Frage  
+2. (**Hypothese**) basierend auf der naturwissenschaftlichen Frage eine Hypothese aufstellen 
+3. (**Planung / Untersuchungsaufbau**) Beschreibung der Planung des Experimentes, um die Hypothese zu überprüfen 
+4. (**Durchführung**) Beschreibung der Durchführung des Experimentes, also der einzelnen Schritte, um die Hypothese zu überprüfen 
+5. (**Untersuchungsergebnis**) Beschreibung des Untersuchungsergebnisses unter Rückbezug auf die Hypothese
+
+
+## 1.2 ... Fortsetzung Vorbereitung für das Experimentieren - benötigte Materialien
+
+Folgende Gegenstände liegen vorne beim Lernbegleiter/Tutor:
+- Metallmuttern 
+- Golfball
+- Würfel
+- Stein
+- Holzkugel/Holzblock
+- Ebenholz
+- Stößel
+- Reagenzgläser
+- Geschlossenes Schraubglas mit Luft darin
+- Ggf. weitere
+
+>> Zum Experimentieren tut euch in 3-er Gruppen zusammen. Einer von euch holt dann die Materialien. Sobald alle die Materialien haben, wird eure begleitende Lehrkraft euch durch das Experimentieren begleiten.  
 
 
 
->> # Die benötigten Materialien
+## 1.3 ... Fortsetzung Vorbereitung für das Experimentieren - Fragen
+
+>> # ❗ Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann sie unter folgendem [Link](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon stellen.
 
 
->> # Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann Sie unter folgendem [Link](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon zu stellen. 
-
-
-## c) Los geht es mit dem Experimentieren... Dichte von Gegenständen und Stoffen experimentell bestimmen 
+## 2 Los geht es mit dem Experimentieren... Dichte von Gegenständen und Stoffen experimentell bestimmen 
 
 
 <span style="color: green;"> 🗝️ **An die Lernbegleitung:** Öffnen Sie auf dem Smartboard diesen [Link](https://example.com).</span> 
@@ -445,7 +512,7 @@ Wie kann man die Dichte experimentell bestimmen und ausrechnen
 
 
 
-<span style="color: green;"> 🗝️ **An die Lernbegleitung:** Öffnen Sie auf dem Smartboard das [Big Blue Button-Meeting](https://bbb.die-kinderwelt.com/rooms/zmr-21a-nhm-qbi/join).</span> 
+<div style="color: darkgreen; background colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Öffnen Sie auf dem Smartboard das [Big Blue Button-Meeting](https://bbb.die-kinderwelt.com/rooms/zmr-21a-nhm-qbi/join).</div> 
 
 
 
@@ -454,11 +521,10 @@ Wie kann man die Dichte experimentell bestimmen und ausrechnen
 
 
 
-# 5. Unterrichtsstunde - Übertragung des bisher Gelernten
+# 5. Unterrichtsstunde - Übertragung des bisher Gelernten 🕵️‍♀️
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ys9qFFNTytfOvWGuGn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ViniviaAG-think-math-mathematics-ys9qFFNTytfOvWGuGn">via GIPHY</a></p>
-
-
+>> Beginnt schon einmal in Einzelarbeit mit der Beantwortung der folgenden Fragen:
+>> ...
 
 
 
@@ -481,7 +547,7 @@ Wie kann man die Dichte experimentell bestimmen und ausrechnen
 
 > Aufgabe 2: ....
 
-# 6. Unterrichtsstunde - Lernreflexion
+# 6. Unterrichtsstunde - Lernreflexion 🧠
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ZF8GoFOeBDwHFsVYqt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/feedback-thanks-for-our-ZF8GoFOeBDwHFsVYqt">via GIPHY</a></p>
 
 ....
