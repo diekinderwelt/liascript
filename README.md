@@ -128,7 +128,6 @@ Symbole für Sie als begleitende Lehrkraft:
 ## 0. ... Fortsetzung Hinweise
 
 - [ ]  Wenn ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard & navigiert dann in der Unterrichtsreihe bis zu diesem Punkt: .... 
-
 - [ ]  Wenn ihr auf dem Tablet hier angekommen seid, navigiert euch weiter bis zu Punkt _xy_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch. 
 
 > Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
@@ -151,7 +150,7 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 <iframe src="https://giphy.com/embed/l2JecCAExsqUC4HDy" width="100%" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-13-the-simpsons-13x7-l2JecCAExsqUC4HDy">via GIPHY</a></p>
 
 
->> Es geht heute um... <span style="font-size: 4em;">❓</span> Lasst es uns gemeinsam herausfinden... 
+> Es geht heute um... <span style="font-size: 4em;">❓</span> Lasst es uns gemeinsam herausfinden... 
 
 
 
@@ -167,10 +166,13 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 ## 1.2 Frage zum Video "Ballon im Auto" 
->> <span style="font-size: 2em;">⏰</span>(5 Min.)  <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+> <span style="font-size: 2em;">⏰</span>(5 Min.)
+
+>> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
 
 <span style="font-size: 2em;">❓</span> Was passiert beim Bremsen?
+
 - [ ] beide Ballons gehen nach vorne, weil...
 - [ ] beide Ballons gehen nach hinten, weil...
 - [ ] Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
@@ -180,7 +182,9 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 ## 1.3 Vermutungen zur Lösung
->> <span style="font-size: 2em;">⏰</span>(5 Min.)  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
+> <span style="font-size: 2em;">⏰</span>(5 Min.)  
+
+>> </div> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
 
 Wir glauben Folgendes: 
 
@@ -205,17 +209,19 @@ Wir glauben Folgendes:
 
 ## 2.2 Fragen zum Video "Toter Mann"
 
->> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zu den folgenden Fragen  <span style="font-size: ❓em;">🤔</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">📝</span> 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+> <span style="font-size: 2em;">⏰</span>(5 Min.) 
+
+>> **Aufgabenbeschreibung:** <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zu den folgenden Fragen  <span style="font-size: ❓em;">🤔</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">📝</span> 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
 
->> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
+> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
 
 - [ ] gehockt
 - [ ] gestreckt
 - [ ] egal
 
 
->> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich untergehe? 
+> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich untergehe? 
 
 - [ ] gehockt
 - [ ] gestreckt
@@ -241,15 +247,16 @@ Wir glauben Folgendes:
 
 ## 3.1 Einstiegsfragen
 
->> <span style="font-size: 2em;">⏰</span>(10 Min.) <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> Nehmt euch dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320).
+> <span style="font-size: 2em;">⏰</span>(10 Min.)
 
-Ihr werdet hier auf die folgenden Fragen treffen:
+
+>> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Nehmt euch dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
 
 * Was schwimmt alles?
 * Was schwimmt nicht? 
 * Warum schwimmt das eine, aber nicht das andere?
 
-> Sammelt im Brainstorming auf dem Tablet alle eure Ideen. Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wieder in den Lernraum zurück. Es geht dann auf der "nächsten Seite" weiter.
+Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wieder in den Lernraum zurück. Es geht dann auf der "nächsten Seite" weiter.
 
 <div style="margin-top: 4em;"></div>
 
@@ -257,9 +264,9 @@ Ihr werdet hier auf die folgenden Fragen treffen:
 
 
 ## 3.2 Auswertung zu den Einstiegsfragen 
->> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div>
+> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div>
 
->> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> Berichtet noch einmal zusammenfassend, was ihr herausgefunden habt.
+>> <div style="margin-top: 2em;"></div>  Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> Berichtet noch einmal zusammenfassend, was ihr herausgefunden habt.
 
 <div style="margin-top: 2em;"></div>
 
@@ -268,13 +275,14 @@ Ihr werdet hier auf die folgenden Fragen treffen:
 
 
 ## 4. Worum geht es?
->> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
+> <span style="font-size: 2em;">⏰</span>(5 Min.)
+
+>> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
 
 >> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
 
->> <span style="font-size: 2em;">📱</span> Aufgabenbeschreibung: Beschreibe den Begriff Dichte mit eigenen Worten in drei Sätzen.
-
+ <div style="margin-top: 4em;"></div> 
 
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
