@@ -167,11 +167,10 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 ## 1.2 Frage zum Video "Ballon im Auto" 
->> <span style="font-size: 2em;">⏰</span>(5 Min.)  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus.<div style="margin-top: 2em;"></div>
-<span style="font-size: 2em;">📝</span> 2. Schreibt euch eure Antwort und Vermutung auf einem Zettel auf.
+>> <span style="font-size: 2em;">⏰</span>(5 Min.)  <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
-<span style="font-size: 2em;">❓</span> Was passiert beim Bremsen? (Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...)
 
+<span style="font-size: 2em;">❓</span> Was passiert beim Bremsen?
 - [ ] beide Ballons gehen nach vorne, weil...
 - [ ] beide Ballons gehen nach hinten, weil...
 - [ ] Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
@@ -181,8 +180,7 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 ## 1.3 Vermutungen zur Lösung
->> >> <span style="font-size: 2em;">⏰</span>(5 Min.)  <div style="margin-top: 1em;"></div>
->> >> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
+>> <span style="font-size: 2em;">⏰</span>(5 Min.)  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
 
 Wir glauben Folgendes: 
 
@@ -207,8 +205,8 @@ Wir glauben Folgendes:
 
 ## 2.2 Fragen zum Video "Toter Mann"
 
->> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
-<span style="font-size: 2em;">🤔</span> Tauscht euch zu den folgenden Fragen mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?
+>> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zu den folgenden Fragen  <span style="font-size: ❓em;">🤔</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">📝</span> 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+
 
 >> <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
 
@@ -224,15 +222,13 @@ Wir glauben Folgendes:
 - [ ] egal
 
 
-<span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
 </span>
 
 
 ## 2.3 Vermutungen zur Lösung
 
-<span style="font-size: 2em;">🙋</span> (5 Min.)
-
->> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+>> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🙋</span> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
@@ -245,7 +241,7 @@ Wir glauben Folgendes:
 
 ## 3.1 Einstiegsfragen
 
->> ## <span style="font-size: 2em;">📝⏰</span> (10 Min.) <div style="margin-top: 1em;"></div> Es folgt eine Aufgabe, für die ihr euch bitte zu Zweit zusammentut. <div style="margin-top: 1em;"></div>Nehmt euch zu Zweit ein Tablet und geht auf den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320).
+>> <span style="font-size: 2em;">⏰</span>(10 Min.) <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> Nehmt euch dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320).
 
 Ihr werdet hier auf die folgenden Fragen treffen:
 
@@ -253,35 +249,32 @@ Ihr werdet hier auf die folgenden Fragen treffen:
 * Was schwimmt nicht? 
 * Warum schwimmt das eine, aber nicht das andere?
 
-> Sammelt im Brainstorming auf dem Tablet alle eure Ideen.
+> Sammelt im Brainstorming auf dem Tablet alle eure Ideen. Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wieder in den Lernraum zurück. Es geht dann auf der "nächsten Seite" weiter.
+
+<div style="margin-top: 4em;"></div>
+
+<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
 
 
-<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine **nicht-digitale Variante** lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
+## 3.2 Auswertung zu den Einstiegsfragen 
+>> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div>
 
-<div style="margin-top: 2em;"></div>
-
-<div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! </div> 
-<p><span style="color: red;"> Wichtiger Hinweis vor Öffnen des Links:</span> Lassen Sie einzelne SuS nochmal kurz berichten, was sie zu den einzelnen Punkten genannt haben (max. 5 Min.)</p>
-
-
----
-
-## 3.2 Auflösung zu den Einstiegsfragen
-
-[Hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320) seht ihr nun alle gesammelten Antworten. Eure begleitende Lehrkraft liest nochmal einzelne Antworten vor. 
+>> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> Berichtet noch einmal zusammenfassend, was ihr herausgefunden habt.
 
 <div style="margin-top: 2em;"></div>
 
-<div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! </div> 
+<div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! Lassen Sie einzelne SuS nochmal kurz berichten, was sie zu den einzelnen Punkten genannt haben (max. 5 Min.) </div> 
 
 
 
-## 4 Worum geht es?
+## 4. Worum geht es?
+>> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
 
->> ## Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
+>> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
 
->> <span style="font-size: 2em;">📝</span> Beschreibe den Begriff Dichte mit eigenen Worten in drei Sätzen. Nutze dafür diesen [Link](Link für kollaboratives Whiteboard), um deinen Satz aufzuschreiben.
+>> <span style="font-size: 2em;">📱</span> Aufgabenbeschreibung: Beschreibe den Begriff Dichte mit eigenen Worten in drei Sätzen.
+
 
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
