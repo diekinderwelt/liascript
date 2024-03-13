@@ -73,7 +73,7 @@ details[open] > *:not(summary) {
 - zur Umsetzung der Experimente (in der 3+4 Unterrichtsstunde: [Link](https://example.com)
 - zur Begleitung der Schülerinnen und Schüler während des Unterrichtsprozesses [Link](https://example.com)
 
-5.und6. Unterrichtsstunde: 
+5.und 6. Unterrichtsstunde: 
 
 - zur Reflexion des Lernprozesses 
 
@@ -167,8 +167,8 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 ## 1.2 Frage zum Video "Ballon im Auto" 
->> <span style="font-size: 2em;">📝⏰</span>(5 Min.)  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span>  Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage ❓ aus. Schreibt euch eure Antwort und Vermutung auf. 
-
+>> <span style="font-size: 2em;">⏰</span>(5 Min.)  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus.<div style="margin-top: 2em;"></div>
+<span style="font-size: 2em;">📝</span> 2. Schreibt euch eure Antwort und Vermutung auf einem Zettel auf.
 
 <span style="font-size: 2em;">❓</span> Was passiert beim Bremsen? (Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...)
 
@@ -178,11 +178,11 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 - [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
 - [ ] Beide Ballons bleiben aufrecht
 
->> Schreibt euch eure Antwort und die Vermutung auf.
 
 
 ## 1.3 Vermutungen zur Lösung
->> <span style="font-size: 2em;">🙋</span>(5 Min.) Teilt eure Vermutungen der Klasse mit.
+>> >> <span style="font-size: 2em;">⏰</span>(5 Min.)  <div style="margin-top: 1em;"></div>
+>> >> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
 
 Wir glauben Folgendes: 
 
