@@ -8,7 +8,7 @@ icon:     https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo
 version:  0.0.1
 language: de
 narrator: Deutsch Male
-comment:  Dieses DokUnterrichtsreihe  Physik Schulprojekt, Extavium, Unterrichtsreihe, Physik, Klasse 7
+comment:  kUnterrichtsreihe  Physik Schulprojekt, Extavium, Unterrichtsreihe, Physik, Klasse 7
 
 
 @style
