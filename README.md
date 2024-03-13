@@ -63,17 +63,17 @@ details[open] > *:not(summary) {
 
 > Hinweis: Wir empfehlen Ihnen, diesen Abschnitt **0. Hinweise für die begleitende Lehrkraft** auf Ihrem Lehrertablet geöffnet zu haben, so dass Sie hier unabhängig von den Schülern und Schülerinnen zwischendurch bei Bedarf nachschauen können.
 
-1.&2. Unterrichtsstunde:
+1.und 2. Unterrichtsstunde:
 
 - zu den Aufgaben, die die Schüler und Schülerinnen bearbeiten sollen: [Link](https://example.com)
 - zu den (Lern-)Videos: [Link](https://example.com)
 
-3.&4. Unterrichtsstunde:
+3.und 4. Unterrichtsstunde:
 
 - zur Umsetzung der Experimente (in der 3+4 Unterrichtsstunde: [Link](https://example.com)
 - zur Begleitung der Schülerinnen und Schüler während des Unterrichtsprozesses [Link](https://example.com)
 
-5.&6. Unterrichtsstunde: 
+5.und6. Unterrichtsstunde: 
 
 - zur Reflexion des Lernprozesses 
 
@@ -114,9 +114,6 @@ Symbole für Sie als begleitende Lehrkraft:
 - 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen.
 - 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren zu vertiefen.
 - In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren.
-
-
-# ... Fortsetzung der Hinweise zu dieser Unterrichtsreihe 
 
 
 
@@ -170,10 +167,10 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 ## 1.2 Frage zum Video "Ballon im Auto" 
->> <span style="font-size: 2em;">📝⏰</span>(5 Min.)
+>> <span style="font-size: 2em;">📝⏰</span>(5 Min.)  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span>  Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage ❓ aus. Schreibt euch eure Antwort und Vermutung auf. 
 
-<span style="font-size: 2em;">🤔</span>  Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der folgenden Frage aus: 
->> <span style="font-size: 2em;">❓</span> Was passiert beim Bremsen? (Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...)
+
+<span style="font-size: 2em;">❓</span> Was passiert beim Bremsen? (Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...)
 
 - [ ] beide Ballons gehen nach vorne, weil...
 - [ ] beide Ballons gehen nach hinten, weil...
@@ -184,7 +181,7 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 >> Schreibt euch eure Antwort und die Vermutung auf.
 
 
-## 1.) Vermutungen zur Lösung
+## 1.3 Vermutungen zur Lösung
 >> <span style="font-size: 2em;">🙋</span>(5 Min.) Teilt eure Vermutungen der Klasse mit.
 
 Wir glauben Folgendes: 
