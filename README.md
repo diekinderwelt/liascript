@@ -155,7 +155,7 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 
-## 1.1 Video "Ballon im Auto" 
+## 1.1 Video "Ballon im Auto" & Frage
 
 > [Link zum Video](https://example.com) Inhalt - Simon steht vor einem Kleintransporter und stellt sich vor und erklärt das Experiment, das gleich gemacht wird. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt und einen Heliumballon, der mit Schnur am Boden festgemacht ist. Alle Fenster und Türen sind geschlossen. 
 
@@ -164,10 +164,10 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 ## 1.2 Frage zum Video "Ballon im Auto" 
 > <span style="font-size: 2em;">⏰</span>(5 Min.)
 
->> **Aufgabe 1.1:** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+>> **Aufgabe 1a:** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
 
-<span style="font-size: 2em;">❓</span> Was passiert mit den Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
+<span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
 
 - [ ] beide Ballons gehen nach vorne, weil...
 - [ ] beide Ballons gehen nach hinten, weil...
@@ -205,7 +205,7 @@ Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine 
 
 > <span style="font-size: 2em;">⏰</span>(5 Min.) 
 
->> **Aufgabe 1.2:** <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zu den folgenden Fragen  <span style="font-size: ❓em;">🤔</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">📝</span> 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+>> **Aufgabe 1b:** <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zu den folgenden Fragen  <span style="font-size: ❓em;">🤔</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">📝</span> 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
 
 > <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
@@ -248,7 +248,7 @@ Aber wie habe ich das gemacht? Diese Erklärung schauen wir uns am Ende der heut
 > <span style="font-size: 2em;">⏰</span>(10 Min.)
 
 
->> **Aufgabe 1.3:** <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Nehmt euch dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
+>> **Aufgabe 1c:** <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Nehmt euch dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
 
 * Was schwimmt alles?
 * Was schwimmt nicht? 
@@ -271,7 +271,7 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 ## 1.10 Worum geht es?
 > <span style="font-size: 2em;">⏰</span>(5 Min.)
 
->> **Aufgabe 1.4:** <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
+>> **Aufgabe 1d:** <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". <div style="margin-top:1em;"></div> 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
 
 >> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
@@ -304,7 +304,9 @@ Sollte noch Unterrichtszeit übrig sein, wird eure Lernbegleitung nun folgendes 
 
 <iframe src="https://giphy.com/embed/tHufwMDTUi20E" width="100%" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/school-back-guinea-tHufwMDTUi20E">via GIPHY</a></p>
 
-## 2.1Was ist Dichte?
+## 2.1 Was ist Dichte?
+
+>> 📝 Aufgabe 2a: Schreibt euch die wichtigsten Informationen aus dem folgenden Video auf. 
 
 [Link zum Video](https://example.com) Was ist nun eigentlich die Dichte. Eine gute Möglichkeit, sich die Dichte vorzustellen, habe ich hier vor mir liegen. Ich habe hier drei identische Schwämme. Die wiegen alle gleich viel und sind alle gleich groß. Wenn ich jetzt zwei aufeinanderlege und diese zusammendrücke, sodass sie wieder so dick sind wie der eine, dann nehmen die beiden Schwämme zusammen genauso viel Platz ein wie der eine, sind aber doppelt so schwer. Also doppelte Masse, gleiches Volumen wie vorher. Im zweiten Fall ist die Masse dichter beisammen. Die beiden zusammengedrückten Schwämme haben eine größere Dichte wie der erste Schwamm. 
 
@@ -318,23 +320,36 @@ Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Vol
 
 Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
 
+## 2.2 Zusammenfassung Dichte 
+
+>> 💡 Die Dichte ist also definiert als <div style="margin-top:1em;"></div>
+rho= m / V
+<div style="margin-top:1em;"></div>
+Sie beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind.
+<div style="margin-top:1em;"></div>
+_? Könnte man hier ggf. noch die wichtigsten Infos aus dem Video als Schriftform in Stichpunkten aufführen?_
+<div style="margin-top:1em;"></div>
+_? + könnte man hier dann noch Verständnisfragen aufführen, dass die SuS nochmal das Gelernte aus dem Video reaktivieren müssen (die Lehrkraft könnte hierzu die Antworten zur Verfügung gestellt bekommen, dann könnte man es im Multiple Choice Format einfügen)_
 
 
-## 1.2 Wie berechnen wir Dichte?
->> Die Dichte ist also eine zusammengesetzte Größe, die man wie folgt berechnen kann: <div style="margin-top: 1em;"></div> Dichte rho= Masse m / Volumen V 
 
->> Einheiten: <div style="margin-top: 1em;"></div> Die Masse wird meist angegeben in g oder kg. <div style="margin-top: 1em;"></div> Umrechnung der Einheiten: <div style="margin-top: 1em;"></div>
+
+## 2.3 Einheiten der Dichte umrechnen
+
+>> 💡 Je nachdem, wie groß die Masse und das Volumen eines Gegenstandes sind, kommen unterschiedliche Einheiten zum Einsatz. Es wäre ja nicht sinnvoll, das Volumen eines U-Boots in mm³ anzugeben oder die Masse eines Golfballs in Tonnen. Wenn du die Einheiten der Dichte umrechnen musst, gilt Folgendes: 
+<div style="margin-top:1em;"></div>
+Umrechnung der Masse-Einheiten: 
 1t = 1000kg, 1kg = 1000g, 1g = 1000mg
-
->> Das Volumen kann in L oder ml, aber auch in cm³, dm³ oder m³ angegeben werden. <div style="margin-top: 1em;"></div>
-Umrechnung der Einheiten: <div style="margin-top: 1em;"></div>
-1L = 1000ml <div style="margin-top: 1em;"></div>
-1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³ <div style="margin-top: 1em;"></div>
-1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml <div style="margin-top: 1em;"></div>
-
->> Entsprechend kann man die Dichte in g/cm³ oder g/ml oder kg/L angeben.<div style="margin-top: 1em;"></div>
-Umrechnung der Einheiten:<div style="margin-top: 1em;"></div>
+<div style="margin-top:1em;"></div>
+Umrechnung der Volumen-Einheiten: 
+1L = 1000ml
+1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³
+1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml
+<div style="margin-top:1em;"></div>
+Umrechnung der Dichte-Einheiten:
 1 g/cm³ = 1 g/ml = 1 kg/L
+
+> 📝 Du kannst dir dies für die gleich kommende Aufgabe auf deinen Zettel schreiben. 
 
 >> Beispiele:  <div style="margin-top: 1em;"></div> Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³ <div style="margin-top: 1em;"></div> 
 
@@ -342,10 +357,11 @@ Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L
 
 
 
+## 2.4 EINZELARBEIT: Dichte berechnen
 
-## 1.3 EINZELARBEIT: Wie berechnen wir Dichte?
+> <span style="font-size: 2em;">⏰</span> (10 Min.)
 
->> <span style="font-size: 2em;">📝⏰</span> (10 Min.) Das wollen wir nun einmal **in Einzelarbeit** ausprobieren. Wenn ihr mit einer Aufgabe nicht weiterkommt, könnt ihr euch eine Hilfestellung geben lassen. Schreibt euch die Aufgaben in euer Heft / auf einen Zettel.   
+>> 📝 **Aufgabe 2b:** Das wollen wir nun einmal **in Einzelarbeit** ausprobieren. Wenn ihr mit einer Aufgabe nicht weiterkommt, könnt ihr euch eine Hilfestellung geben lassen. Schreibt euch die Aufgaben in euer Heft / auf einen Zettel.   
 
 1.	Du hast eine Glaskugel, die 500g wiegt. Ihr Volumen beträgt 200cm³. Wie groß ist die Dichte der Glaskugel? (Antwort: 2,5 g/cm³)
 2.	Die Dichte von Öl beträgt 0,9kg/L. Wie viel Gramm wiegen 100ml Öl? (Antwort: 90g)
@@ -359,68 +375,89 @@ Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L
 
 >> Ihr seht hier nochmal einen Überblick und ein Beispiel zur Berechnung: ...
 
+## 2.5 Auswertung der Rechenaufgaben
+> <span style="font-size: 2em;">⏰</span> (5 Min.)
 
-## 2.1 Dichte bekannter Stoffe
+>> <span style="font-size: 2em;">🙋</span> Was sind die richtigen Antworten? 
 
->> [Link zum Video](https://example.com) Zusammenfassung - Die Dichte ist eine Stoffeigenschaft. Z.B. haben Stoffe wie Eisen, Glas, Alkohol oder Luft eine spezifische Dichte. <div style="margin-top: 1em;"></div> Tabelle mit Dichten (in g/cm³): <div style="margin-top: 1em;"></div> Luft 0,0013 <div style="margin-top: 1em;"></div> Styropor 0,017<div style="margin-top: 1em;"></div>  Buchenholz 0,7 <div style="margin-top: 1em;"></div> Speiseöl 0,8-0,9 <div style="margin-top: 1em;"></div> Aluminium 2,7 <div style="margin-top: 1em;"></div> Eisen 7,9 <div style="margin-top: 1em;"></div> Gold 19,3 <div style="margin-top: 2em;"></div> Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse auf kleinem Raum verteilt. Styropor hingegen hat eine sehr kleine Dichte. Während eine 1kg schwere Kugel Gold sehr gut in eine Hand passt (die Kugel hat einen Durchmesser von 4,6 cm, also ein bisschen größer als ein Golfball), müsstet du 1.135 solcher Golfbälle aus Styropor in deinen Händen halten, um 1kg Gewicht zu tragen. <div style="margin-top: 2em;"></div> Frage: Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
+## 2.5 Dichte experimentell bestimmen 
+
+>> <span style="font-size: 2em;"> 📝</span> **Aufgabe 2c:** Schreibt euch die wichtigsten Informationen aus dem folgenden Video auf.
+
+VIDEO 3: Um die Dichte eines Gegenstandes oder Stoffes zu bestimmen, benötigt man also die Masse m und das Volumen V und bildet aus beiden den Quotienten m/V.
+
+Wir wollen jetzt mal die Dichte dieser Metallkugel und dieser Holzkugel experimentell bestimmen. Die Massen kann ich mit der Waage bestimmen.
+
+Für das Volumen könnte ich den Durchmesser ausmessen und dann das Volumen ausrechnen. Diese Methode funktioniert bei einfachen geometrischen Formen wie Quader, Zylinder oder Kugel. Aber was machen wir bei unregelmäßig geformten Körpern (z.B. Metallschraube oder Porzellanfigur). Hier können wir die Verdrängung einer Flüssigkeit nutzen, um das Volumen zu bestimmen. 
+
+Dazu nehmen wir einen geeigneten Messbecher und füllen diesen mit Wasser bis zu einer bestimmten Höhe, hier haben wir 1400ml. Wenn wir nun den Gegenstand ins Wasser legen, verdrängt der Gegenstand das Wasser und die Oberfläche steigt. Ist der Gegenstand komplett unter Wasser, können wir am Messbecher einen neuen Wert ablesen. Hier haben wir 1620ml Das Volumen des Gegenstands ist dann die Differenz dieses Werts von der ursprünglichen Füllhöhe. Also 1620 minus 1400ml.  Das Volumen ist also 220ml. 
+
+Nun kann ich die Dichte der Metallkugel ausrechnen.
+
+Bei Gegenständen, die schwimmen, kann man versuchen diesen, mit einem schweren Gegenstand unter Wasser zu halten, dessen Volumen man dann wieder herausrechnen. Beide Kugeln verdrängen 500ml. Da wir das Volumen der Metallkugel kennen, ziehen wir das ab und erhalten das Volumen der Holzkugel. V=500ml-220ml= 280ml. 
+
+## 2.6 Dichte bekannter Stoffe
+
+>> <span style="font-size: 2em;">⏰</span> (5 Min.)
+
+>> Lest den folgenden Text: <div style="margin-top: 1em;"></div> 
+
+> Die Dichte ist eine Stoffeigenschaft. Z.B. haben Stoffe wie Eisen, Glas, Alkohol oder Luft eine spezifische Dichte. <div style="margin-top: 1em;"></div> Tabelle mit Dichten (in g/cm³): <div style="margin-top: 1em;"></div> Luft 0,0013 <div style="margin-top: 1em;"></div> Styropor 0,017<div style="margin-top: 1em;"></div>  Buchenholz 0,7 <div style="margin-top: 1em;"></div> Speiseöl 0,8-0,9 <div style="margin-top: 1em;"></div> Aluminium 2,7 <div style="margin-top: 1em;"></div> Eisen 7,9 <div style="margin-top: 1em;"></div> Gold 19,3 <div style="margin-top: 2em;"></div>
+Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse auf kleinem Raum verteilt. Styropor hingegen hat eine sehr kleine Dichte. Während eine 1kg schwere Kugel Gold sehr gut in eine Hand passt (die Kugel hat einen Durchmesser von 4,6 cm, also ein bisschen größer als ein Golfball), müsstet du 1.135 solcher Golfbälle aus Styropor in deinen Händen halten, um 1kg Gewicht zu tragen. <div style="margin-top: 2em;"></div>
+
+>> ❓ Frage: Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
+
+> 🤔 Wenn ihr schneller fertig seid, dann überlegt schon mal, was die Antwort sein könnte. Wenn alle mit Lesen fertig sind, geht es auf der nächsten Seite weiter. 
 
 
-## 2.2 Gruppenaufgabe zur Dichte bekannter Stoffe
+## 2.7 Auswertung der Frage zur Dichte bekannter Stoffe
+> <span style="font-size: 2em;">⏰</span> (5 Min.)
 
->> <span style="font-size: 2em;">🤔⏰</span> (5 Min.) Gruppenaufgabe zu der folgenden Frage: <div style="margin-top: 1em;"></div> <span style="font-size: 1.5em;"> **Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?**</span> <div style="margin-top: 1em;"></div> Wie erklärt ihr euch, dass Metall untergeht, aber nicht ein Schiff? Sammelt eure Erklärungen / Vermutungen und teilt sie der Gruppe mit. ggf. [Link](einfügen) für Sammeln der Vermutungen (Brainstorming)
+>> ❓ Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?**</span> <div style="margin-top: 1em;"></div> 
 
+>> <span style="font-size: 2em;">🙋</span> Wie erklärt ihr euch, dass Metall untergeht, aber nicht ein Schiff? Sammelt Erklärungen / Vermutungen im Plenum. 
 
 
 >> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
 
->>  <span style="font-size: 2em;">📖🖋️ </span> ANALOGE VARIANTE: Die Gruppe kann auch eine Person wählen, die die Ergebnisse auf einen Zettel aufschreibt. Die Ergebnisse können dann einfach im Plenum nochmal gesammelt werden.
+>> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ <span style="font-size: 2em;">📱 </span> DIGITALE VARIANTE: SuS können ihre Erklärungen / Vermutungen im Brainstorming [Link](einfügen) sammeln.
 
 
 
-## 2.3 Gruppenaufgabe: Vermutungen zur Lösung
+## 2.8 Auflösung der Frage: Verdrängung und Auftrieb - Archimedisches Prinzip 
 
-<span style="font-size: 2em;">🙋</span> (5 Min.) Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? 
+>> ❓ Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
 
+VIDEO: Das liegt an der Luft im Innern des Schiffs. Hier wird nicht nur die Dichte des Stahls betrachtet, aus dem das Schiff gebaut ist, sondern zusätzlich wie viel Luft im Schiff eingeschlossen ist. Ein solches Schiff schwimmt nur dann, wenn die Kombination aus Luft und Stahl zusammen eine kleinere Dichte als Wasser hat.
 
-## 2.4 Lösung zur Gruppenaufgabe
+Was so ein schweres Schiff letztlich oben hält, ist eine Kraft, die das Wasser auf das Schiff ausübt. Die sogenannte Auftriebskraft. Die habt ihr alle schon selbst erlebt. Wenn ihr im Schwimmbad ins Wasser geht, z.B. eine Treppe runtersteigt, fühlt ihr euch mit jedem Schritt leichter. Je tiefer ihr ins Wasser steigt, desto weniger spürt ihr euer eigenes Gewicht.
 
->> [Link zum Video](https://example.com)  Antwort: Das liegt an der Luft im Innern des Schiffs. Hier wird nicht nur die Dichte des Stahls betrachtet, aus dem das Schiff gebaut ist, sondern zusätzlich wie viel Luft im Schiff eingeschlossen ist. Ein solches Schiff schwimmt nur dann, wenn die Kombination aus Luft und Stahl zusammen eine kleinere Dichte als Wasser hat. <div style="margin-top: 1em;"></div> Ggf. Beispiel für eine Berechnung geben, die dann auch als Text unter dem Video erscheint, damit sich die SuS daran orientieren können 
+Dabei gilt:
+Die Auftriebskraft auf einen Körper ist umso größer, je mehr Wasser er verdrängt. 
+Sie ist genauso groß wie die Gewichtskraft des Wassers, das verdrängt wurde.
+Sie ist der Gewichtskraft entgegengesetzt.
 
+Das heißt: 
+-	Eine Metallkugel mit einem Volumen von 1L verdrängt unter Wasser ja genau 1L Wasser. Die Auftriebskraft, die diese Kugel erfährt, ist gleich der Gewichtskraft auf 1L (und damit 1kg) Wasser. Diese Metallkugel würde sich unter Wasser also 1kg leichter anfühlen.
 
-<div style="margin-top: 3em;"></div>
+-	Eine schwimmende Holzkugel von 1kg Gewicht verdrängt genau 1kg Wasser. Ein schwimmfähiger Körper verdrängt genauso viel Wasser, wie er selbst wiegt. Dadurch erfährt er eine Auftriebskraft nach oben, die genauso groß ist wie die Gewichtskraft, die ihn nach unten zieht. Es herrscht ein Kräftegleichgewicht.
 
-
->> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
-
-
-
-## 3.1 Verdrängung und Auftrieb - Archimedisches Prinzip 
-
->> [Link zum Video](https://example.com) Einbettung Video: Was so ein schweres Schiff letztlich oben hält ist eine Kraft, die das Wasser auf das Schiff ausübt. Die sogenannte Auftriebskraft. Die habt ihr alle schon selbst erlebt. Wenn ihr im Schwimmbad ins Wasser geht, z.B. eine Treppe runtersteigt, fühlt ihr euch mit jedem Schritt leichter. Je tiefer ihr ins Wasser steigt, desto weniger spürt ihr euer eigenes Gewicht. <div style="margin-top: 1em;"></div> Dabei gilt:<div style="margin-top: 1em;"></div>Die Auftriebskraft auf einen Körper ist umso größer, je mehr Wasser er verdrängt. <div style="margin-top: 1em;"></div>Sie ist genauso groß wie die Gewichtskraft des Wassers, das verdrängt wurde.<div style="margin-top: 1em;"></div>Sie ist der Gewichtskraft entgegengesetzt.<div style="margin-top: 1em;"></div> Das heißt: <div style="margin-top: 1em;"></div> Eine Metallkugel mit einem Volumen von 1L verdrängt unter Wasser ja genau 1L Wasser. Die Auftriebskraft, die diese Kugel erfährt ist gleich der Gewichtskraft auf 1L (und damit 1kg) Wasser. Diese Metallkugel würde sich unter Wasser also 1kg leichter anfühlen. <div style="margin-top: 1em;"></div> Eine schwimmende Holzkugel von 1kg Gewicht verdrängt genau 1kg Wasser. Ein schwimmfähiger Körper verdrängt genauso viel Wasser, wie er selbst wiegt. Dadurch erfährt er eine Auftriebskraft nach oben, die genauso groß ist wie die Gewichtskraft, die ihn nach unten zieht. Es herrscht ein Kräftegleichgewicht. <div style="margin-top: 1em;"></div>  Für ein Stahlschiff bedeutet das: Je mehr Wasser ein Schiff verdrängen kann, desto schwerer kann es sein, ohne unterzugehen.
-
-
-## 3.2 Dichte experimentell bestimmen 
->> [Link zum Video](https://example.com) Um die Dichte eines Gegenstandes oder Stoffes zu bestimmen benötigt man also die Masse m und das Volumen V und bildet aus beiden den Quotienten m/V.
-
-Experimentell kann die Masse mit einer Waage bestimmt werden. Das Volumen kann durch Abmessen der Außenkanten oder Durchmesser bestimmt werden (bei einfachen geometrischen Formen wie Quader, Zylinder oder Kugel). Bei unregelmäßig geformten Körpern (z.B. Metallschraube oder Porzellanfigur) kann man die Verdrängung einer Flüssigkeit nutzen, um das Volumen zu bestimmen. 
-
-Ggf Überlaufmethode erklären und Vorgehen bei schwimmfähigen Körpern
-
-Diese Methoden wenden wir nächste Woche beim Experimentieren an.
+Für ein Stahlschiff bedeutet das: Je mehr Wasser ein Schiff verdrängen kann, desto schwerer kann es sein, ohne unterzugehen. 
 
 
-## 4.1 Zusammenfassung und Ausblick - Auflösung Anfangsfrage
+
+## 2.9 Zusammenfassung und Ausblick & Auflösung Anfangsfrage
 
 >> [Link zum Video](https://example.com) Video Auflösung der Frage der Körperhaltung im Wasser (Fortsetzung von Video 1) - Mein Körper, der zum größten Teil aus Wasser besteht hat ungefähr die Dichte von Wasser. Ich muss also nicht viel ändern, um ein Untergehen oder Schwimmen zu erreichen. Es reicht die Luft in meinem Körper zu verändern. Ich muss tief einatmen und die Luft anhalten, um oben zu bleiben. Will ich auf den Boden sinken, muss ich alles ausatmen. Meine Lunge ist dann wie ein Schwimmärmchen, das mich oben hält. Fülle ich meine Lungen mit Luft, verdrängt mein Körper mehr Wasser und die Auftriebskraft wird größer. Ist die Lunge leer und mein Brustkorb klein, verdränge ich weniger Wasser, die Auftriebskraft ist kleiner. Und wenn die Auftriebskraft kleiner als die Gewichtskraft ist, gehe ich unter.
 
-## 4.2 ... Fortsetzung Zusammenfassung und Ausblick - Mitzubringendes kommende Woche
+## ... Fortsetzung Zusammenfassung und Ausblick - Mitzubringendes kommende Woche
 
 > Schreibt euch in euer Hausaufgabenheft auf, dass ihr Folgendes nächste Woche mitbringt: ...
 
 
 
-## 4.3 ... Fortsetzung Zusammenfassung und Ausblick - Lernreflexion
+## ... Fortsetzung Zusammenfassung und Ausblick - Lernreflexion
 
 > Lest euch abschließend noch einmal in Ruhe die Zusammenfassung durch und versucht für euch, die dazugehörigen Fragen zu beantworten. Solltet ihr merken, dass ihr an einigen Stellen noch Fragen habt, notiert euch diese für die nächste Woche.
 
