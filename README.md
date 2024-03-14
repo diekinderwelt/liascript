@@ -157,28 +157,23 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 ## 1.1 Video "Ballon im Auto" 
 
-> [Link zum Video](https://example.com) Inhalt - Extavium-Mitarbeiter (ich) steht vor einem Kleintransporter (der KW?) und stellt sich vor, inkl. des Hinweises, dass aufkommende fachliche Fragen aufgeschrieben werden sollen und gerne nächste Woche direkt an mich gerichtet werden können. Schnitt in das Innere des Fahrzeugs. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt. Alle Fenster und Türen sind geschlossen. ..
+> [Link zum Video](https://example.com) Inhalt - Simon steht vor einem Kleintransporter und stellt sich vor und erklärt das Experiment, das gleich gemacht wird. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt und einen Heliumballon, der mit Schnur am Boden festgemacht ist. Alle Fenster und Türen sind geschlossen. 
 
----
-
-
-> [Link zum Video](https://example.com) Fortsetzung Video: Antwort: Das Video wird fortgesetzt und die Frage aufgelöst. Der Ballon geht nach hinten, wie vermutlich die meisten erwartet und geantwortet haben. Beim Bremsen neigt er sich nach vorne   . Erklärung des Phänomens anhand von Kraftpfeilen (die bei einer Wiederholung in das Video eingeblendet werden) […] Nun wird ein Heliumballon an einer Schnur am Boden des Fahrzeugs befestigt. Erneut die Frage von oben stellen.
 
 
 ## 1.2 Frage zum Video "Ballon im Auto" 
 > <span style="font-size: 2em;">⏰</span>(5 Min.)
 
->> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+>> **Aufgabe 1.1:** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
 
-<span style="font-size: 2em;">❓</span> Was passiert beim Bremsen?
+<span style="font-size: 2em;">❓</span> Was passiert mit den Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
 
 - [ ] beide Ballons gehen nach vorne, weil...
 - [ ] beide Ballons gehen nach hinten, weil...
 - [ ] Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
 - [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
 - [ ] Beide Ballons bleiben aufrecht
-
 
 
 ## 1.3 Vermutungen zur Lösung
@@ -195,23 +190,22 @@ Wir glauben Folgendes:
 - [ ] Beide Ballons bleiben aufrecht
 
 
+## 1.4 Fortsetzung Video "Ballon im Auto" & "Toter Mann"
 
-## 1.4 Fortsetzung Video "Ballon im Auto"
+[Link zum Video](https://example.com) Fortsetzung Video: Das Video wird fortgesetzt und die Frage aufgelöst. Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
+Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtseinheit. 
 
-> [Link zum Video](https://example.com) Fortsetzung Video: Antwort: Das Video wird fortgesetzt und die Frage aufgelöst. Der Ballon geht beim Beschleunigen nach vorne und beim Bremsen nach hinten. Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtseinheit. Gerne könnt ihr aber bis in zwei Wochen selbst überlegen und eigene Tests mit euren Eltern machen, wenn ihr die Möglichkeit habt. Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
+Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
+Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. 
 
+Wahrscheinlich schafft ihr es, in einem Schwimmbecken an der Wasseroberfläche zu bleiben, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr das auch ohne euch zu bewegen? Denn für einen Physiker wie mich bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Also ist meine nächste Frage an euch: Was müsst ihr tun, damit ihr oben bleibt? 
+Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine an mich ranziehen und gehockt sein oder ist es egal, ob gestreckt oder gehockt?
 
-
-## 2.1 Video "Toter Mann"
-
-> [Link zum Video](https://example.com) Fortsetzung Video "Toter Mann“: Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. Text: Bestimmt könnt ihr schwimmen, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr auch schwimmen, also an der Wasseroberfläche bleiben, ohne euch zu bewegen? Denn für einen Physiker bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Person (Simon) befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) (ggf. mit Unterwasserkamera ergänzen) 
-
-
-## 2.2 Fragen zum Video "Toter Mann"
+## 1.5 Fragen zum Video "Toter Mann"
 
 > <span style="font-size: 2em;">⏰</span>(5 Min.) 
 
->> **Aufgabenbeschreibung:** <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zu den folgenden Fragen  <span style="font-size: ❓em;">🤔</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">📝</span> 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+>> **Aufgabe 1.2:** <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zu den folgenden Fragen  <span style="font-size: ❓em;">🤔</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">📝</span> 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
 
 > <span style="font-size: 2em;">❓</span> Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
@@ -232,25 +226,29 @@ Wir glauben Folgendes:
 </span>
 
 
-## 2.3 Vermutungen zur Lösung
+## 1.6 Vermutungen zur Lösung
 
 >> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🙋</span> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
-## 2.4 Auflösung 
+## 1.7 Auflösung 
 
-> [Link zum Video](https://example.com) Fortsetzung des Videos - Das Video setzt fort und löst auf: Die richtige Antwort ist in beiden Fällen „egal“. Ich schaffe es, sowohl gehockt als auch gestreckt unterzugehen, aber auch in beiden Körperpositionen oben zu bleiben (alle vier Fälle werden im Video gezeigt). Es muss also etwas anderes sein, dass darüber entscheidet, ob ich untergehe oder nicht. Wie habe ich das gemacht? Die Auflösung gibt es am Ende dieser Einheit…
+> [Link zum Video](https://example.com) Das Video setzt fort und löst auf: Simon befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) und schafft es in beiden Fällen sowohl oben zu bleiben als auch unterzugehen.
+ 
+Die richtige Antwort ist in beiden Fällen „egal“. Ich schaffe es, sowohl gehockt als auch gestreckt unterzugehen, aber ich schaffe es auch in beiden Körperpositionen oben zu bleiben (alle vier Fälle werden im Video gezeigt). Es muss also etwas anderes sein, dass darüber entscheidet, ob ich untergehe oder nicht. 
+
+Aber wie habe ich das gemacht? Diese Erklärung schauen wir uns am Ende der heutigen Doppelstunde an. Euch jetzt erstmal viel Spaß beim Einstieg in das Thema. Und noch ein Hinweis: Falls heute und in den nächsten Stunden Fragen aufkommen, die eure Lernbegleitung nicht beantworten kann, schreibt diese doch gerne auf und richtet sie nächste Woche direkt an mich, wenn wir uns zum Experimentieren wiedersehen. Bis dann!
 
 
 
 
-## 3.1 Einstiegsfragen
+## 1.8 Einstiegsfragen
 
 > <span style="font-size: 2em;">⏰</span>(10 Min.)
 
 
->> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Nehmt euch dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
+>> **Aufgabe 1.3:** <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Nehmt euch dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
 
 * Was schwimmt alles?
 * Was schwimmt nicht? 
@@ -263,30 +261,28 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
 
 
-## 3.2 Auswertung zu den Einstiegsfragen 
+## 1.9 Auswertung zu den Einstiegsfragen 
 > <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div>
 
->> <div style="margin-top: 2em;"></div>  Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> Berichtet noch einmal zusammenfassend, was ihr herausgefunden habt.
-
-<div style="margin-top: 2em;"></div>
-
-<div style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn die 10 Minuten vorbei sind, dann klicken Sie bitte [hier](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! Lassen Sie einzelne SuS nochmal kurz berichten, was sie zu den einzelnen Punkten genannt haben (max. 5 Min.) </div> 
+>> <div style="margin-top: 2em;"></div>  Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt.
 
 
 
-## 4. Worum geht es?
+## 1.10 Worum geht es?
 > <span style="font-size: 2em;">⏰</span>(5 Min.)
 
->> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
+>> **Aufgabe 1.4:** <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
 
 >> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
 
  <div style="margin-top: 4em;"></div> 
 
-<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
+<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lehrkraft:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](...). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
+ <div style="margin-top: 4em;"></div> 
 
+<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS die Aufgabe auf einem Blatt Papier beantworten und sammeln Sie dann einzelne Antworten im Plenum. </div>
 
 
 ## OPTIONAL
@@ -308,9 +304,20 @@ Sollte noch Unterrichtszeit übrig sein, wird eure Lernbegleitung nun folgendes 
 
 <iframe src="https://giphy.com/embed/tHufwMDTUi20E" width="100%" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/school-back-guinea-tHufwMDTUi20E">via GIPHY</a></p>
 
-## 1.1 Was ist Dichte?
+## 2.1Was ist Dichte?
 
->> [Link zum Video](https://example.com) Video einbetten: Bild oder Video von zwei Schwämmen, die auf die Größe eines Schwammes zusammengedrückt werden. Doppelte Masse, gleiches Volumen wie vorher. Im zweiten Fall ist die Masse dichter beisammen. Die beiden zusammengeddrückten Schwämme haben eine doppelt so große Dichte wie der erste Schwamm. <div style="margin-top: 2em;"></div> Die Dichte beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind. <div style="margin-top: 2em;"></div> Die Dichte ist also eine zusammengesetzte Größe, die man wie folgt berechnen kann: <div style="margin-top: 2em;"></div> Dichte rho= Masse m / Volumen V <div style="margin-top: 2em;"></div> Einheiten: <div style="margin-top: 2em;"></div>  Die Masse wird meist angegeben in g oder kg. <div style="margin-top: 2em;"></div> Das Volumen kann in L oder ml, aber auch in cm³, dm³ oder m³ angegeben werden. 1cm³ entspricht 1ml, 1dm³ entspricht 1L, 1m³ entspricht 1000 L. <div style="margin-top: 2em;"></div>  Entsprechend kann man die Dichte in g/cm³ oder g/ml angeben.
+[Link zum Video](https://example.com) Was ist nun eigentlich die Dichte. Eine gute Möglichkeit, sich die Dichte vorzustellen, habe ich hier vor mir liegen. Ich habe hier drei identische Schwämme. Die wiegen alle gleich viel und sind alle gleich groß. Wenn ich jetzt zwei aufeinanderlege und diese zusammendrücke, sodass sie wieder so dick sind wie der eine, dann nehmen die beiden Schwämme zusammen genauso viel Platz ein wie der eine, sind aber doppelt so schwer. Also doppelte Masse, gleiches Volumen wie vorher. Im zweiten Fall ist die Masse dichter beisammen. Die beiden zusammengedrückten Schwämme haben eine größere Dichte wie der erste Schwamm. 
+
+Jetzt haben wir auch schon die beiden Messgrößen gehört, mit denen man die Dichte berechnen kann. Die Masse und das Volumen. Die Dichte ist eine zusammengesetzte Größe, die man wie folgt berechnen kann:
+Dichte rho= Masse m / Volumen V
+
+So ist die Dichte definiert. Die Dichte beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist.  Jetzt brauchen wir noch die Einheit der Dichte. Die Masse wird meist angegeben in g oder kg. Das Volumen kann in L oder ml, aber auch in cm³, dm³ oder m³ angegeben werden. Entsprechend kann man die Dichte in g/cm³ oder g/ml oder kg/L angeben. 
+
+Hier noch ein paar Beispiele:
+Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³
+
+Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
+
 
 
 ## 1.2 Wie berechnen wir Dichte?
