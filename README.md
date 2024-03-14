@@ -175,7 +175,7 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 
-## 1.2 Vermutungen zur Lösung & Fortsetzung Video "Ballon im Auto" & "Toter Mann"
+## 1.3 Vermutungen zur Lösung & Fortsetzung Video "Ballon im Auto" & "Toter Mann"
 > <span style="font-size: 1em;">⏰</span>(5 Min.)  
 
 >> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
@@ -192,7 +192,7 @@ Für die Lösung geht es auf der nächsten Seite weiter...
 
 
 
-## 1.3 Auflösung "Ballons im Auto" und "Toter Mann"
+## 1.4 Auflösung "Ballons im Auto" und "Toter Mann"
 
 >> Hier seht ihr die Aufösung - [Link] zum Video: 
 Das Video wird fortgesetzt und die Frage aufgelöst. Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
@@ -205,7 +205,7 @@ Wahrscheinlich schafft ihr es, in einem Schwimmbecken an der Wasseroberfläche z
 Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine an mich ranziehen und gehockt sein oder ist es egal, ob gestreckt oder gehockt?
 
 
-## 1.4 Fragen zum Video "Toter Mann"
+## 1.5 Fragen zum Video "Toter Mann"
 
 > <span style="font-size: 1em;">⏰</span>(5 Min.) 
 
@@ -230,13 +230,13 @@ Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine 
 </span>
 
 
-## 1.4 Vermutungen zur Lösung
+## 1.6 Vermutungen zur Lösung
 
 >> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🙋</span> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
-## 1.5 Auflösung 
+## 1.7 Auflösung 
 
 > [Link zum Video](https://example.com) Das Video setzt fort und löst auf: Simon befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) und schafft es in beiden Fällen sowohl oben zu bleiben als auch unterzugehen.
  
@@ -247,7 +247,7 @@ Aber wie habe ich das gemacht? Diese Erklärung schauen wir uns am Ende der heut
 
 
 
-## 1.6 Einstiegsfragen
+## 1.8 Einstiegsfragen
 
 > <span style="font-size: 2em;">⏰</span>(10 Min.)
 
@@ -265,14 +265,14 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
 
 
-## 1.7 Auswertung zu den Einstiegsfragen 
+## 1.9 Auswertung zu den Einstiegsfragen 
 > <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div>
 
 >> <div style="margin-top: 2em;"></div>  Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt.
 
 
 
-## 1.8 Worum geht es?
+## 1.10 Worum geht es?
 > <span style="font-size: 2em;">⏰</span>(5 Min.)
 
 >> **Aufgabe 1d:** <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". <div style="margin-top:1em;"></div> 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
@@ -415,7 +415,7 @@ Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse 
 
 
 ## 2.7 Auswertung der Frage zur Dichte bekannter Stoffe
-> <span style="font-size: 2em;">⏰</span> (5 Min.)
+<span style="font-size: 1em;">⏰</span> (5 Min.)
 
 >> ❓ Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?**</span> <div style="margin-top: 1em;"></div> 
 
@@ -451,17 +451,17 @@ Für ein Stahlschiff bedeutet das: Je mehr Wasser ein Schiff verdrängen kann, d
 
 
 
-## 2.9 Zusammenfassung und Ausblick & Auflösung Anfangsfrage
+## 2.9 Auflösung der Anfangsfrage, Zusammenfassung & Ausblick 
 
 >> [Link zum Video](https://example.com) Video Auflösung der Frage der Körperhaltung im Wasser (Fortsetzung von Video 1) - Mein Körper, der zum größten Teil aus Wasser besteht hat ungefähr die Dichte von Wasser. Ich muss also nicht viel ändern, um ein Untergehen oder Schwimmen zu erreichen. Es reicht die Luft in meinem Körper zu verändern. Ich muss tief einatmen und die Luft anhalten, um oben zu bleiben. Will ich auf den Boden sinken, muss ich alles ausatmen. Meine Lunge ist dann wie ein Schwimmärmchen, das mich oben hält. Fülle ich meine Lungen mit Luft, verdrängt mein Körper mehr Wasser und die Auftriebskraft wird größer. Ist die Lunge leer und mein Brustkorb klein, verdränge ich weniger Wasser, die Auftriebskraft ist kleiner. Und wenn die Auftriebskraft kleiner als die Gewichtskraft ist, gehe ich unter.
 
-## ... Fortsetzung Zusammenfassung und Ausblick - Mitzubringendes kommende Woche
+### ... Fortsetzung Zusammenfassung und Ausblick - Mitzubringendes kommende Woche
 
 > Schreibt euch in euer Hausaufgabenheft auf, dass ihr Folgendes nächste Woche mitbringt: ...
 
 
 
-## ... Fortsetzung Zusammenfassung und Ausblick - Lernreflexion
+### ... Fortsetzung Zusammenfassung und Ausblick - Lernreflexion
 
 > Lest euch abschließend noch einmal in Ruhe die Zusammenfassung durch und versucht für euch, die dazugehörigen Fragen zu beantworten. Solltet ihr merken, dass ihr an einigen Stellen noch Fragen habt, notiert euch diese für die nächste Woche.
 
@@ -491,26 +491,25 @@ Für ein Stahlschiff bedeutet das: Je mehr Wasser ein Schiff verdrängen kann, d
 >> Beginnt schon einmal und beantwortet die folgenden Fragen: <div style="margin-top: 1em;"></div>
 1. Überlegt, was die Wichtigsten Dinge der letzten Physikstunde waren, die ihr dazugelernt habt. Schreibt euch auf einem Zettel drei Punkte dazu auf. <div style="margin-top: 1em;"></div> 2. Habt ihr noch Fragen zum Thema (z.B. gibt es z.B. etwas, was wir noch nicht verstanden habt)?
 
-## Wiederholung 
+## 3.1 Wiederholung & Fragensammlung
+<span style="font-size: 1em;">⏰</span> (10 Min.)
 
->> # <span style="font-size: 2em;">🙋</span> (5 Min.) Teilt euren Mitschülern und Mitschülerinnen mit, was für euch die wichtigsten Dinge waren, die ihr gelernt habt.
+>> # <span style="font-size: 2em;">🙋</span> Teilt euren Mitschülern und Mitschülerinnen mit, was für euch die wichtigsten Dinge waren, die ihr gelernt habt.
 
 <div style="margin-top: 5em;"></div>
 
-## ... Fortsetzung Wiederholung
-
->> # <span style="font-size: 2em;">🙋</span> (5 Min.) Welche Fragen zum Thema Dichte habt ihr noch? 
-
-<span style="color: green;"> 🗝️ **An die Lernbegleitung:** Notieren Sie die Fragen & sammeln Sie die Fragen in diesem Chat [hier](https://cloud.die-kinderwelt.com/call/nk5g2cqt). Diese gehen dann direkt an Simon. </span> 
+>> # <span style="font-size: 2em;">🙋</span> Welche Fragen zum Thema Dichte habt ihr noch? 
 
 
-
-
-## 1.1 Vorbereitung für das Experimentieren - Forschungsprotokoll
+## 3.2 Vorbereitung für das Experimentieren - Forschungsprotokoll
 
 ??Hierzu ggf. hilfreich, ein kurzes allgemeines Video zu erstellen?? 
 
->> # Das Forschungsprotokoll: Schreibt euch die folgende Struktur für das Forschungsprotokoll in euren Hefter. Dieses braucht ihr, während ihr das Experiment durchführt. 
+ggf. Frage an die SuS - Wofür ist es sinnvoll, dass wir ein Forschungsprotokoll schreiben? Wer hat eine Idee? 
+
+<div style="margin-top: 3em;"></div>
+
+# Das Forschungsprotokoll: Schreibt euch die folgende Struktur für das Forschungsprotokoll in euren Hefter. Dieses braucht ihr, während ihr das Experiment durchführt. 
 
 1. (**Fragestellung**) Formulierung der	naturwissenschaftlichen Frage  
 2. (**Hypothese**) basierend auf der naturwissenschaftlichen Frage eine Hypothese aufstellen 
@@ -518,47 +517,56 @@ Für ein Stahlschiff bedeutet das: Je mehr Wasser ein Schiff verdrängen kann, d
 4. (**Durchführung**) Beschreibung der Durchführung des Experimentes, also der einzelnen Schritte, um die Hypothese zu überprüfen 
 5. (**Untersuchungsergebnis**) Beschreibung des Untersuchungsergebnisses unter Rückbezug auf die Hypothese
 
+   
 
-## 1.2 ... Fortsetzung Vorbereitung für das Experimentieren - benötigte Materialien
+## ... Fortsetzung Vorbereitung für das Experimentieren - Fragen
 
-Folgende Gegenstände liegen vorne beim Lernbegleiter/Tutor:
-- Metallmuttern 
-- Golfball
-- Würfel
-- Stein
-- Holzkugel/Holzblock
-- Ebenholz
-- Stößel
-- Reagenzgläser
-- Geschlossenes Schraubglas mit Luft darin
-- Ggf. weitere
-
->> Zum Experimentieren tut euch in 3-er Gruppen zusammen. Einer von euch holt dann die Materialien. Sobald alle die Materialien haben, wird eure begleitende Lehrkraft euch durch das Experimentieren begleiten.  
+>> # ❗ Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann sie in den [Videochat](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon weiterleiten.
 
 
 
-## 1.3 ... Fortsetzung Vorbereitung für das Experimentieren - Fragen
-
->> # ❗ Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann sie unter folgendem [Link](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon stellen.
+## 3.3 Wozu forschen wir denn heute? 
 
 
-## 2 Los geht es mit dem Experimentieren... Dichte von Gegenständen und Stoffen experimentell bestimmen 
+... zu der Frage, wie wir die Dichte von Gegenständen und Stoffen experimentell bestimmen können... 
 
 
-<span style="color: green;"> 🗝️ **An die Lernbegleitung:** Öffnen Sie auf dem Smartboard diesen [Link](https://example.com).</span> 
+## 3.4 Teil I - Fragestellung 
+Formuliert die naturwissenschaftliche Frage, zu der ihr heute „forscht“.
 
-
-
-
-
-## b) Zuschaltung aus dem Extavium
-
->> ## Nun wird Simon gemeinsam mit euch nochmal das Experiment auswerten. Was waren die wichtigsten Ergebnisse? 
+Schreibt euch diese auf.
 
 
 
+## 3.5 Teil II - Hypothese basierend auf der naturwissenschaftlichen Frage 
+Stellt eine Hypothese basierend auf der naturwissenschaftlichen Frage auf. Das geht so… 
 
-<div style="color: darkgreen; background colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Öffnen Sie auf dem Smartboard das [Big Blue Button-Meeting](https://bbb.die-kinderwelt.com/rooms/zmr-21a-nhm-qbi/join).</div> 
+
+## 3.6 Teil III - Planung / Untersuchungsaufbau
+
+Beschreibung der Planung des Experimentes, um die Hypothese zu überprüfen 
+
+
+<div style="margin-top: 3em;"></div>
+>> Schritt 1: Nehmt euch zunächst euer Geodreieck einen Taschenrechner. Das braucht ihr etwas später.
+<div style="margin-top: 3em;"></div>
+
+>> Schritt 2: Zum Experimentieren tut euch in 3-er Gruppen zusammen. Einer von euch holt dann die Materialien. Sobald alle die Materialien haben, wird eure begleitende Lehrkraft euch durch das Experimentieren begleiten.  
+<div style="margin-top: 3em;"></div>
+
+>> Schritt 3: benötigte Materialien für das Experimentieren
+Muttern (Metall) 
+Würfel (Kunststoff)
+Klinkersteine (Stein)
+Verschiedene Holzquader (Holz)
+Stößel (Keramik)
+Murmeln (Glas)
+Geschlossenes Schraubglas mit Luft darin (Kombination Glas+Luft)
+
+
+
+
+
 
 
 
