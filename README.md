@@ -57,7 +57,7 @@ details[open] > *:not(summary) {
 ![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 
 
-# 0. Hinweise für die begleitende Lehrkraft
+## 0. Hinweise für die begleitende Lehrkraft
 
 > Die Unterrichtsreihe ist so aufgebaut, dass Sie möglichst intuitiv hindurchführen können, ohne sich vorher großartig vorbereitet zu haben. <div style="margin-top: 1em;"></div> Sollten während der Durchführung der Unterrichtsreihe Fragen auftauchen, sehen Sie im Folgenden eine Reihe von Links, die Sie zu möglichen auftauchenden Fragen inklusive der Antworten führt. 
 
@@ -117,7 +117,7 @@ Symbole für Sie als begleitende Lehrkraft:
 
 
 
-# 0. Hinweise für die ersten beiden Unterrichtsreinheiten 
+## 0. Hinweise für die ersten beiden Unterrichtsreinheiten 
 
 > Ihr braucht _heute_ folgendes:
 
@@ -125,7 +125,7 @@ Symbole für Sie als begleitende Lehrkraft:
 - [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt.
       
 
-## 0. ... Fortsetzung Hinweise
+### ... Fortsetzung Hinweise
 
 - [ ]  Wenn ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard & navigiert dann in der Unterrichtsreihe bis zu diesem Punkt: .... 
 - [ ]  Wenn ihr auf dem Tablet hier angekommen seid, navigiert euch weiter bis zu Punkt _xy_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch. 
@@ -161,11 +161,9 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 
-## 1.2 Frage zum Video "Ballon im Auto" 
 > <span style="font-size: 2em;">⏰</span>(5 Min.)
 
 >> **Aufgabe 1a:** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
-
 
 <span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
 
@@ -176,7 +174,8 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 - [ ] Beide Ballons bleiben aufrecht
 
 
-## 1.3 Vermutungen zur Lösung
+
+## 1.2 Vermutungen zur Lösung & Fortsetzung Video "Ballon im Auto" & "Toter Mann"
 > <span style="font-size: 2em;">⏰</span>(5 Min.)  
 
 >> </div> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
@@ -190,9 +189,8 @@ Wir glauben Folgendes:
 - [ ] Beide Ballons bleiben aufrecht
 
 
-## 1.4 Fortsetzung Video "Ballon im Auto" & "Toter Mann"
-
-[Link zum Video](https://example.com) Fortsetzung Video: Das Video wird fortgesetzt und die Frage aufgelöst. Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
+>> Hier seht ihr die Aufösung - [Link] zum Video: 
+Das Video wird fortgesetzt und die Frage aufgelöst. Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
 Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtseinheit. 
 
 Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
@@ -201,7 +199,8 @@ Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor
 Wahrscheinlich schafft ihr es, in einem Schwimmbecken an der Wasseroberfläche zu bleiben, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr das auch ohne euch zu bewegen? Denn für einen Physiker wie mich bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Also ist meine nächste Frage an euch: Was müsst ihr tun, damit ihr oben bleibt? 
 Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine an mich ranziehen und gehockt sein oder ist es egal, ob gestreckt oder gehockt?
 
-## 1.5 Fragen zum Video "Toter Mann"
+
+## 1.3 Fragen zum Video "Toter Mann"
 
 > <span style="font-size: 2em;">⏰</span>(5 Min.) 
 
@@ -226,13 +225,13 @@ Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine 
 </span>
 
 
-## 1.6 Vermutungen zur Lösung
+## 1.4 Vermutungen zur Lösung
 
 >> <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🙋</span> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
-## 1.7 Auflösung 
+## 1.5 Auflösung 
 
 > [Link zum Video](https://example.com) Das Video setzt fort und löst auf: Simon befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) und schafft es in beiden Fällen sowohl oben zu bleiben als auch unterzugehen.
  
@@ -243,7 +242,7 @@ Aber wie habe ich das gemacht? Diese Erklärung schauen wir uns am Ende der heut
 
 
 
-## 1.8 Einstiegsfragen
+## 1.6 Einstiegsfragen
 
 > <span style="font-size: 2em;">⏰</span>(10 Min.)
 
@@ -261,14 +260,14 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
 
 
-## 1.9 Auswertung zu den Einstiegsfragen 
+## 1.7 Auswertung zu den Einstiegsfragen 
 > <span style="font-size: 2em;">⏰</span>(5 Min.) <div style="margin-top: 2em;"></div>
 
 >> <div style="margin-top: 2em;"></div>  Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt.
 
 
 
-## 1.10 Worum geht es?
+## 1.8 Worum geht es?
 > <span style="font-size: 2em;">⏰</span>(5 Min.)
 
 >> **Aufgabe 1d:** <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". <div style="margin-top:1em;"></div> 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
