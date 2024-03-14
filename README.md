@@ -109,7 +109,7 @@ Symbole für Sie als begleitende Lehrkraft:
 <iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
 
 
-# 0. Hinweise zu dieser Unterrichtsreihe 
+## 0. Hinweise zu dieser Unterrichtsreihe 
 - Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite.
 - 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen.
 - 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren zu vertiefen.
@@ -117,7 +117,7 @@ Symbole für Sie als begleitende Lehrkraft:
 
 
 
-## 0. Hinweise für die ersten beiden Unterrichtsreinheiten 
+### ... Hinweise für die ersten beiden Unterrichtsreinheiten 
 
 > Ihr braucht _heute_ folgendes:
 
@@ -132,9 +132,9 @@ Symbole für Sie als begleitende Lehrkraft:
 
 > Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
 
->> <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft ruhig.
+>> <div style="margin-top: 1em;"></div> <span style="font-size:1em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft ruhig.
 
->> Der <span style="font-size: 2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+>> Der <span style="font-size: 1em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
 
 
 >> Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedacht:
@@ -155,13 +155,13 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 
-## 1.1 Video "Ballon im Auto" & Frage
+## 1.1 Video "Ballons im Auto" & Frage
 
-> [Link zum Video](https://example.com) Inhalt - Simon steht vor einem Kleintransporter und stellt sich vor und erklärt das Experiment, das gleich gemacht wird. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt und einen Heliumballon, der mit Schnur am Boden festgemacht ist. Alle Fenster und Türen sind geschlossen. 
+> [Link zum Video](https://example.com) Inhalt - Simon steht vor einem Kleintransporter und stellt sich vor und erklärt das Experiment, das gleich gemacht wird. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt und einen Heliumballon, der mit Schnur am Boden festgemacht ist. Alle Fenster und Türen sind geschlossen. Video schließt mit Frage - die Frage kann auf Folgeseite Seite nochmal aufgerufen werden.
 
+## 1.2 Frage zum Video "Ballons im Auto"
 
-
-> <span style="font-size: 2em;">⏰</span>(5 Min.)
+> <span style="font-size: 1em;">⏰</span>(5 Min.)
 
 >> **Aufgabe 1a:** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
@@ -176,9 +176,9 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 
 ## 1.2 Vermutungen zur Lösung & Fortsetzung Video "Ballon im Auto" & "Toter Mann"
-> <span style="font-size: 2em;">⏰</span>(5 Min.)  
+> <span style="font-size: 1em;">⏰</span>(5 Min.)  
 
->> </div> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
+>> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
 
 Wir glauben Folgendes: 
 
@@ -188,6 +188,11 @@ Wir glauben Folgendes:
 - [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
 - [ ] Beide Ballons bleiben aufrecht
 
+Für die Lösung geht es auf der nächsten Seite weiter... 
+
+
+
+## 1.3 Auflösung "Ballons im Auto" und "Toter Mann"
 
 >> Hier seht ihr die Aufösung - [Link] zum Video: 
 Das Video wird fortgesetzt und die Frage aufgelöst. Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
@@ -200,9 +205,9 @@ Wahrscheinlich schafft ihr es, in einem Schwimmbecken an der Wasseroberfläche z
 Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine an mich ranziehen und gehockt sein oder ist es egal, ob gestreckt oder gehockt?
 
 
-## 1.3 Fragen zum Video "Toter Mann"
+## 1.4 Fragen zum Video "Toter Mann"
 
-> <span style="font-size: 2em;">⏰</span>(5 Min.) 
+> <span style="font-size: 1em;">⏰</span>(5 Min.) 
 
 >> **Aufgabe 1b:** <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zu den folgenden Fragen  <span style="font-size: ❓em;">🤔</span> mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?  <div style="margin-top: 1em;"></div> <span style="font-size: 2em;">📝</span> 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
