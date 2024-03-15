@@ -270,7 +270,7 @@ Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L
 
 ### Zusammenfassung Dichte 
 
->> ## 💡 Die Dichte ist also definiert als <div style="margin-top:1em;"></div> rho= m / V <div style="margin-top:1em;"></div> Sie beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind. <div style="margin-top:1em;"></div>
+>>> 💡 Die Dichte ist also definiert als <div style="margin-top:1em;"></div> rho= m / V <div style="margin-top:1em;"></div> Sie beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind. <div style="margin-top:1em;"></div>
 
 
 _? Könnte man hier ggf. noch die wichtigsten Infos aus dem Video als Schriftform in Stichpunkten aufführen?_
@@ -282,7 +282,7 @@ _? + könnte man hier dann noch Verständnisfragen aufführen, dass die SuS noch
 
 ## 2.2 Einheiten der Dichte umrechnen
 
->> ## 💡 Je nachdem, wie groß die Masse und das Volumen eines Gegenstandes sind, kommen unterschiedliche Einheiten zum Einsatz. Es wäre ja nicht sinnvoll, das Volumen eines U-Boots in mm³ anzugeben oder die Masse eines Golfballs in Tonnen. Wenn du die Einheiten der Dichte umrechnen musst, gilt Folgendes: <div style="margin-top:1em;"></div> Umrechnung der Masse-Einheiten:  1t = 1000kg, 1kg = 1000g, 1g = 1000mg <div style="margin-top:1em;"></div> Umrechnung der Volumen-Einheiten: 1L = 1000ml, 1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³ <div style="margin-top:1em;"></div> 1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml <div style="margin-top:1em;"></div> Umrechnung der Dichte-Einheiten: 1 g/cm³ = 1 g/ml = 1 kg/L
+>>> 💡 Je nachdem, wie groß die Masse und das Volumen eines Gegenstandes sind, kommen unterschiedliche Einheiten zum Einsatz. Es wäre ja nicht sinnvoll, das Volumen eines U-Boots in mm³ anzugeben oder die Masse eines Golfballs in Tonnen. Wenn du die Einheiten der Dichte umrechnen musst, gilt Folgendes: <div style="margin-top:1em;"></div> Umrechnung der Masse-Einheiten:  1t = 1000kg, 1kg = 1000g, 1g = 1000mg <div style="margin-top:1em;"></div> Umrechnung der Volumen-Einheiten: 1L = 1000ml, 1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³ <div style="margin-top:1em;"></div> 1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml <div style="margin-top:1em;"></div> Umrechnung der Dichte-Einheiten: 1 g/cm³ = 1 g/ml = 1 kg/L
 
 > 📝 Du kannst dir dies für die gleich kommende Aufgabe auf deinen Zettel schreiben. 
 
