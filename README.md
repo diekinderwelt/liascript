@@ -356,7 +356,7 @@ Bei Gegenständen, die schwimmen, kann man versuchen diesen, mit einem schweren 
 
 
 
-### Auflösung der Frage: Verdrängung und Auftrieb - Archimedisches Prinzip 
+## 2.4 Auflösung der Frage: Verdrängung und Auftrieb - Archimedisches Prinzip 
 
 >> ❓ Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe? Die Antwort seht ihr im folgenden Video...
 
@@ -378,19 +378,19 @@ Für ein Stahlschiff bedeutet das: Je mehr Wasser ein Schiff verdrängen kann, d
 
 
 
-## 2.4 Auflösung der Anfangsfrage, Zusammenfassung & Ausblick 
+## 2.5 Auflösung der Anfangsfrage, Zusammenfassung & Ausblick 
 
 >> Nun bin ich euch ja noch eine Antwort auf die Anfangsfrage schuldig... Diese kommt hier: 
 
 >> [Link zum Video](https://example.com) Video Auflösung der Frage der Körperhaltung im Wasser (Fortsetzung von Video 1) - Mein Körper, der zum größten Teil aus Wasser besteht hat ungefähr die Dichte von Wasser. Ich muss also nicht viel ändern, um ein Untergehen oder Schwimmen zu erreichen. Es reicht die Luft in meinem Körper zu verändern. Ich muss tief einatmen und die Luft anhalten, um oben zu bleiben. Will ich auf den Boden sinken, muss ich alles ausatmen. Meine Lunge ist dann wie ein Schwimmärmchen, das mich oben hält. Fülle ich meine Lungen mit Luft, verdrängt mein Körper mehr Wasser und die Auftriebskraft wird größer. Ist die Lunge leer und mein Brustkorb klein, verdränge ich weniger Wasser, die Auftriebskraft ist kleiner. Und wenn die Auftriebskraft kleiner als die Gewichtskraft ist, gehe ich unter.
 
-### ... Fortsetzung Zusammenfassung und Ausblick - Mitzubringendes kommende Woche
+### Fortsetzung Zusammenfassung und Ausblick - Mitzubringendes kommende Woche
 
 > Schreibt euch in euer Hausaufgabenheft auf, dass ihr Folgendes nächste Woche mitbringt: ...
 
 
 
-### ... Fortsetzung Zusammenfassung und Ausblick - Lernreflexion
+### Fortsetzung Zusammenfassung und Ausblick - Lernreflexion
 
 > Lest euch abschließend noch einmal in Ruhe die Zusammenfassung durch und versucht für euch, die dazugehörigen Fragen zu beantworten. Solltet ihr merken, dass ihr an einigen Stellen noch Fragen habt, notiert euch diese für die nächste Woche.
 
