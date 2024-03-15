@@ -302,7 +302,7 @@ _? + könnte man hier dann noch Verständnisfragen aufführen, dass die SuS noch
 
 >> 💡 Ihr seht hier nochmal einen Überblick und ein Beispiel zur Berechnung: ...
 
-## 2.5 Auswertung der Rechenaufgaben
+### Auswertung der Rechenaufgaben
 
 >> **Auswertung der Aufgaben** (⏰ 5 Min.) <div style="margin-top:1em;"></div> 🙋 Was sind die richtigen Antworten?
 
@@ -329,8 +329,7 @@ Bei Gegenständen, die schwimmen, kann man versuchen diesen, mit einem schweren 
 
 >> **Lest den folgenden Text** (⏰ 5 Min.)
 
->> ## Die Dichte ist eine Stoffeigenschaft. Z.B. haben Stoffe wie Eisen, Glas, Alkohol oder Luft eine spezifische Dichte. <div style="margin-top: 1em;"></div> Tabelle mit Dichten (in g/cm³): <div style="margin-top: 1em;"></div> Luft 0,0013 <div style="margin-top: 1em;"></div> Styropor 0,017<div style="margin-top: 1em;"></div>  Buchenholz 0,7 <div style="margin-top: 1em;"></div> Speiseöl 0,8-0,9 <div style="margin-top: 1em;"></div> Aluminium 2,7 <div style="margin-top: 1em;"></div> Eisen 7,9 <div style="margin-top: 1em;"></div> Gold 19,3 <div style="margin-top: 2em;"></div>
-Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse auf kleinem Raum verteilt. Styropor hingegen hat eine sehr kleine Dichte. Während eine 1kg schwere Kugel Gold sehr gut in eine Hand passt (die Kugel hat einen Durchmesser von 4,6 cm, also ein bisschen größer als ein Golfball), müsstet du 1.135 solcher Golfbälle aus Styropor in deinen Händen halten, um 1kg Gewicht zu tragen. <div style="margin-top: 2em;"></div> ❓ Frage: Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
+>> ## Die Dichte ist eine Stoffeigenschaft. Z.B. haben Stoffe wie Eisen, Glas, Alkohol oder Luft eine spezifische Dichte. <div style="margin-top: 1em;"></div> Tabelle mit Dichten (in g/cm³): <div style="margin-top: 1em;"></div> Luft 0,0013 <div style="margin-top: 1em;"></div> Styropor 0,017<div style="margin-top: 1em;"></div>  Buchenholz 0,7 <div style="margin-top: 1em;"></div> Speiseöl 0,8-0,9 <div style="margin-top: 1em;"></div> Aluminium 2,7 <div style="margin-top: 1em;"></div> Eisen 7,9 <div style="margin-top: 1em;"></div> Gold 19,3 <div style="margin-top: 2em;"></div> Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse auf kleinem Raum verteilt. Styropor hingegen hat eine sehr kleine Dichte. Während eine 1kg schwere Kugel Gold sehr gut in eine Hand passt (die Kugel hat einen Durchmesser von 4,6 cm, also ein bisschen größer als ein Golfball), müsstet du 1.135 solcher Golfbälle aus Styropor in deinen Händen halten, um 1kg Gewicht zu tragen. <div style="margin-top: 2em;"></div> ❓ Frage: Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
 
 > 🤔 Wenn ihr schneller mit dem Lesen fertig seid, dann überlegt schon mal, was die Antwort sein könnte. Wenn alle mit Lesen fertig sind, geht es auf der nächsten Seite weiter. 
 
@@ -355,7 +354,7 @@ Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse 
 
 ### Auflösung der Frage: Verdrängung und Auftrieb - Archimedisches Prinzip 
 
->> ## ❓ Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe? Die Antwort seht ihr im folgenden Video...
+>> ❓ Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe? Die Antwort seht ihr im folgenden Video...
 
 VIDEO: Das liegt an der Luft im Innern des Schiffs. Hier wird nicht nur die Dichte des Stahls betrachtet, aus dem das Schiff gebaut ist, sondern zusätzlich wie viel Luft im Schiff eingeschlossen ist. Ein solches Schiff schwimmt nur dann, wenn die Kombination aus Luft und Stahl zusammen eine kleinere Dichte als Wasser hat.
 
