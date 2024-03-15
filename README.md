@@ -169,10 +169,7 @@ _Frage taucht im Video auf_
 ### Aufgabenstellung zum Video - Teil II
 ... sehr wahrscheinlich habt ihr auch das nun gerade schon gemacht. Dann könnt ihr weiterklicken. 
 
->> **Aufgabe 1b (⏰ 5 Min.):** <div style="margin-top: 1em;"></div>
-🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür?
->> <div style="margin-top: 1em;"></div>
-📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+>> **Aufgabe 1b (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
 
 > ❓ Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
@@ -194,9 +191,7 @@ _Frage taucht im Video auf_
 
 ---
 
->> **Auswertung zur Aufgabe 1b** im Plenum (⏰ 5 Min.)
-<div style="margin-top: 2em;"></div> 
-<span style="font-size: 2em;">🙋</span> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+>> **Auswertung zur Aufgabe 1b** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🙋</span> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
