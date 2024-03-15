@@ -121,7 +121,9 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 ### Aufgabenstellung zum Video - Teil I
 ... sehr wahrscheinlich habt ihr das nun gerade schon gemacht. Dann könnt ihr weiterklicken. 
 
->> **Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+>> **Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+
+---
 
 <span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
 
@@ -133,19 +135,8 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 --- 
 
->> **Auswertung zur Aufgabe 1a** im Plenum 
+>> **Auswertung zur Aufgabe 1a** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit: <div style="margin-top: 2em;"></div> Wir glauben, die folgende Antwort ist richtig, weil... 
 
-> <span style="font-size: 1em;">⏰</span>(5 Min.)  
-
->> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
-<div style="margin-top: 2em;"></div>
-Wir glauben, die folgende Antwort ist richtig, weil... 
-
-- [ ] beide Ballons gehen nach vorne, weil...
-- [ ] beide Ballons gehen nach hinten, weil...
-- [ ] Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
-- [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
-- [ ] Beide Ballons bleiben aufrecht
 
 <div style="margin-top: 2em;"></div>
 Für die Lösung geht es auf der nächsten Seite weiter... 
@@ -191,7 +182,7 @@ _Frage taucht im Video auf_
 
 ---
 
->> **Auswertung zur Aufgabe 1b** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🙋</span> Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+>> **Auswertung zur Aufgabe 1b** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
