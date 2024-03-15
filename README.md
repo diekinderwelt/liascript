@@ -57,78 +57,36 @@ details[open] > *:not(summary) {
 ![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 
 
-## 0. Hinweise für die begleitende Lehrkraft
-
-> Die Unterrichtsreihe ist so aufgebaut, dass Sie möglichst intuitiv hindurchführen können, ohne sich vorher großartig vorbereitet zu haben. <div style="margin-top: 1em;"></div> Sollten während der Durchführung der Unterrichtsreihe Fragen auftauchen, sehen Sie im Folgenden eine Reihe von Links, die Sie zu möglichen auftauchenden Fragen inklusive der Antworten führt. 
-
-> Hinweis: Wir empfehlen Ihnen, diesen Abschnitt **0. Hinweise für die begleitende Lehrkraft** auf Ihrem Lehrertablet geöffnet zu haben, so dass Sie hier unabhängig von den Schülern und Schülerinnen zwischendurch bei Bedarf nachschauen können.
-
-1.und 2. Unterrichtsstunde:
-
-- zu den Aufgaben, die die Schüler und Schülerinnen bearbeiten sollen: [Link](https://example.com)
-- zu den (Lern-)Videos: [Link](https://example.com)
-
-3.und 4. Unterrichtsstunde:
-
-- zur Umsetzung der Experimente (in der 3+4 Unterrichtsstunde: [Link](https://example.com)
-- zur Begleitung der Schülerinnen und Schüler während des Unterrichtsprozesses [Link](https://example.com)
-
-5.und 6. Unterrichtsstunde: 
-
-- zur Reflexion des Lernprozesses 
-
-Übergeordnet: 
-
-- Hier finden Sie einen groben Überblick über die Unterrichtsreihe: [Link](https://example.com)
-- Hier finden Sie alle (Lern-)Videos: [Link](https://example.com)
-- Hier finden Sie eine Liste der notwendigen Materialien für die 3. & 4. Unterrichtsstunde: [Link](https://example.com) 
-
-
- Didaktische Hinweise: 
- 
-- Unten finden Sie unter jedem Abschnitt Pfeile, die vorwärts oder zurück navigieren. Die Unterrichtsreihe ist so aufgebaut, dass Sie sich hier einfach der Reihe nach durchklicken können.
-- Videos werden nur am Smartboard geöffnet 
-
-  
-
-Symbole für Sie als begleitende Lehrkraft:
-
-- <span style="font-size: 1em;">🗝️</span>  Hier handelt es sich um einen Hinweis für Sie als Lehrkraft - dieser ist meist noch in einer anderen Farbe hinterlegt.
-- <span style="font-size: 1em;">📖🖋️</span>  Hierbei handelt es sich um eine analoge Variante B für eine Aufgabe.
-- <span style="font-size: 1em;">📱 </span> Hierbei handelt es sich um eine digitale Variante B für eine Aufgabe. 
-  
-
->> Geben Sie uns [hier](https://example.com) Hinweise, auf welche Fragen Sie während der Umsetzung der Unterrichtsreihe noch Antworten gewünscht hätten.
-
-
-
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
 
-> Ich bin Simon Steffens und ich begleite euch die nächsten sechs Unterrichtsstunden. 
+> Ich bin Simon Steffens aus dem Extavium und ich begleite euch die nächsten sechs Unterrichtsstunden. Die nächsten fünf Minuten benötigen wir, um uns vorzubereiten. Danach werdet ihr mich in einem ersten Video kennenlernen.
 
-<iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
+>> Ihr braucht _nun als erstes_ folgendes:
+
+- [ ] Jede und jeder von euch benötigt ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
+- [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
+
+Wenn ihr das habt, klickt eure Lehrkraft zur nächsten Seite. 
+
+## Hinweise 
+- [ ]  Wenn ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. 
+
+QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt
 
 
-## 0. Hinweise zu dieser Unterrichtsreihe 
+- [ ]  Wenn ihr auf dem Tablet **an dieser Stelle** angekommen seid, navigiert euch weiter bis zu Hinweis _"ENDE DER HINWEISE"_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch.
+
+
+### ... Fortsetzung Hinweise 
+>> Zuerst einmal schauen wir uns an, was in den nächsten Unterrichtsstunden anders ist.
+>
 - Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite.
 - 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen.
 - 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren zu vertiefen.
 - In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren.
+ 
 
-
-
-### ... Hinweise für die ersten beiden Unterrichtsreinheiten 
-
-> Ihr braucht _heute_ folgendes:
-
-- [ ] Jeder benötigt ein Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
-- [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt.
-      
-
-### ... Fortsetzung Hinweise
-
-- [ ]  Wenn ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard & navigiert dann in der Unterrichtsreihe bis zu diesem Punkt: .... 
-- [ ]  Wenn ihr auf dem Tablet hier angekommen seid, navigiert euch weiter bis zu Punkt _xy_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch. 
+###  ... Fortsetzung Hinweise
 
 > Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
 
@@ -153,13 +111,12 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 > Es geht heute um... <span style="font-size: 4em;">❓</span> Lasst es uns gemeinsam herausfinden... 
 
 
-
-
 ## 1.1 Video "Ballons im Auto" & Frage
 
 > [Link zum Video](https://example.com) Inhalt - Simon steht vor einem Kleintransporter und stellt sich vor und erklärt das Experiment, das gleich gemacht wird. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt und einen Heliumballon, der mit Schnur am Boden festgemacht ist. Alle Fenster und Türen sind geschlossen. Video schließt mit Frage - die Frage kann auf Folgeseite Seite nochmal aufgerufen werden.
 
-## 1.2 Frage zum Video "Ballons im Auto"
+
+### Frage zum Video "Ballons im Auto"
 
 > <span style="font-size: 1em;">⏰</span>(5 Min.)
 
@@ -173,14 +130,16 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 - [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
 - [ ] Beide Ballons bleiben aufrecht
 
+--- 
 
+>> **Auswertung zur Aufgabe 1a** im Plenum 
 
-## 1.3 Vermutungen zur Lösung & Fortsetzung Video "Ballon im Auto" & "Toter Mann"
+### Vermutungen zur Lösung
 > <span style="font-size: 1em;">⏰</span>(5 Min.)  
 
 >> <span style="font-size: 2em;">🙋</span> Teilt eure Vermutungen der Klasse mit.
-
-Wir glauben Folgendes: 
+<div style="margin-top: 2em;"></div>
+Wir glauben, die folgende Antwort ist richtig, weil... 
 
 - [ ] beide Ballons gehen nach vorne, weil...
 - [ ] beide Ballons gehen nach hinten, weil...
@@ -188,6 +147,7 @@ Wir glauben Folgendes:
 - [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
 - [ ] Beide Ballons bleiben aufrecht
 
+<div style="margin-top: 2em;"></div>
 Für die Lösung geht es auf der nächsten Seite weiter... 
 
 
