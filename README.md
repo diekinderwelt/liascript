@@ -113,15 +113,15 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 ## 1.1 Einstieg in das Thema - ein erstes Experiment...
 
+>> ACHTUNG ❗: Nur eure Lehrkraft öffnet das Video vorne am Smartboard. 
+
 > [Link zum Video](https://example.com) Inhalt - Simon steht vor einem Kleintransporter und stellt sich vor und erklärt das Experiment, das gleich gemacht wird. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt und einen Heliumballon, der mit Schnur am Boden festgemacht ist. Alle Fenster und Türen sind geschlossen. Video schließt mit Frage - die Frage kann auf Folgeseite Seite nochmal aufgerufen werden.
 
 
 ### Aufgabenstellung zum Video - Teil I
 ... sehr wahrscheinlich habt ihr das nun gerade schon gemacht. Dann könnt ihr weiterklicken. 
 
-> <span style="font-size: 1em;">⏰</span>(5 Min.)
-
->> **Aufgabe 1a:** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+>> **Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">🤔</span> 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage <span style="font-size: 2em;">❓</span> aus. <div style="margin-top: 2em;"></div> <span style="font-size: 2em;">📝</span> 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
 <span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
 
