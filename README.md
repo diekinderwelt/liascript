@@ -59,46 +59,55 @@ details[open] > *:not(summary) {
 
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
 
-> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen.#
+> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen. <div style="margin-top: 4em;"></div> 
 
-> Bereitet euch schon einmal vor. Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div> 
-- [ ] Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft. <div style="margin-top: 2em;"></div> 
-- [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt.  <div style="margin-top: 2em;"></div> 
+Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div> 
+- [ ] 📱 Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft. <div style="margin-top: 2em;"></div> 
+- [ ] 📝 Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt.  <div style="margin-top: 2em;"></div> 
 - [ ] Sobald ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. (QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt) 
 
+<div style="margin-top: 2em;"></div> 
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. 
 </span>
 
+<div style="margin-top: 2em;"></div> 
 
 > Wenn ihr dann auf dem Tablet **an dieser Stelle** angekommen seid, navigiert euch weiter bis zu Hinweis _"ENDE DER HINWEISE"_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch.
 
+
 ## Hinweise 
-> ⏰ (5 Min.) für das Lesen der Hinweise
+⏰ (5 Min.) für das Lesen der Hinweise in Einzelarbeit
 
->> Zuerst einmal schauen wir uns an, was in den nächsten Unterrichtsstunden anders ist.
+> Zuerst einmal schauen wir uns an, was in den nächsten Unterrichtsstunden anders ist: 
 
-- Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite.
-- 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen.
-- 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren zu vertiefen.
-- In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren.
+- Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite. <div style="margin-top: 2em;"></div> 
+- 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen. <div style="margin-top: 2em;"></div> 
+- 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren zu vertiefen. <div style="margin-top: 2em;"></div> 
+- In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren. <div style="margin-top: 2em;"></div> 
  
 
 ###  ... Fortsetzung Hinweise
 
-> Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
+> Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben: 
 
->> <div style="margin-top: 1em;"></div> <span style="font-size:1em;">⏰</span> ⏰ Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
+<div style="margin-top: 1em;"></div>  
 
->> Der <span style="font-size: 1em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches auf die Arbeitsform verweist, z.B.: <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+<span style="font-size:2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
 
+Der <span style="font-size:2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches auf die Arbeitsform verweist, z.B.: <div style="margin-top:2em;"></div> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben.  <div style="margin-top:2em;"></div> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
 
->> Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedacht:
+<div style="margin-top: 2em;"></div> 
+
+> Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedacht:
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
 
+<div style="margin-top: 2em;"></div> 
 
 Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) Hinweise geben, was ihr bis jetzt an der Einführung im Unterricht schon gut fandet und was weniger. Das hilft uns, die Unterrichtsreihen weiter zu verbessern. 
+
+<div style="margin-top: 2em;"></div> 
 
 _"ENDE DER HINWEISE"_
 
