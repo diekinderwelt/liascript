@@ -59,11 +59,13 @@ details[open] > *:not(summary) {
 
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
 
-> Ich bin Simon Steffens aus dem Extavium und ich begleite euch die nächsten sechs Unterrichtsstunden. Die nächsten fünf Minuten benötigen wir, um uns vorzubereiten. Danach werdet ihr mich in einem ersten Video kennenlernen.
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten.
+
+> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen.
 
 >> Ihr braucht _nun als erstes_ folgendes:
 
-- [ ] Jede und jeder von euch benötigt ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
+- [ ] Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
 - [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
 
 Wenn ihr das habt, klickt eure Lehrkraft zur nächsten Seite. 
@@ -90,18 +92,19 @@ QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert �
 
 > Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
 
->> <div style="margin-top: 1em;"></div> <span style="font-size:1em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft ruhig.
+>> <div style="margin-top: 1em;"></div> <span style="font-size:1em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
 
->> Der <span style="font-size: 1em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches darauf hinweist, was die Arbeitsform betrifft, z.B.: <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+>> Der <span style="font-size: 1em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches auf die Arbeitsform verweist, z.B.: <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
 
 
 >> Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedacht:
 
-<span style="color: darkgreen; background-color: lightblue;"> <span style="font-size: 2em;">🗝️</span> Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
 
 
 Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) Hinweise geben, was ihr bis jetzt an der Einführung im Unterricht schon gut fandet und was weniger. Das hilft uns, die Unterrichtsreihen weiter zu verbessern. 
 
+_"ENDE DER HINWEISE"_
 
 # 1. Unterrichtsstunde - Einstieg 🔍
 
@@ -115,11 +118,10 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 >> ACHTUNG ❗: Nur eure Lehrkraft öffnet das Video vorne am Smartboard. 
 
-> [Link zum Video](https://example.com) Inhalt - Simon steht vor einem Kleintransporter und stellt sich vor und erklärt das Experiment, das gleich gemacht wird. Man sieht den hinteren Fahrgastraum mit ausgebauten Hintersitzen. Die Kamera befindet sich im Innern des Fahrzeugs und zeigt einen Ballon mit Atemluft, der an einer Schnur von der Decke des Fahrzeugs herabhängt und einen Heliumballon, der mit Schnur am Boden festgemacht ist. Alle Fenster und Türen sind geschlossen. Video schließt mit Frage - die Frage kann auf Folgeseite Seite nochmal aufgerufen werden.
+> [Link zum Video 1](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE) Inhalt - Begrüßung, Auto, Schwimmbad
 
 
-### Aufgabenstellung zum Video - Teil I
-... sehr wahrscheinlich habt ihr das nun gerade schon gemacht. Dann könnt ihr weiterklicken. 
+### Aufgabenstellung zum Video 1 - Teil I
 
 >> **Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
@@ -127,13 +129,15 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 <span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
 
-- [ ] beide Ballons gehen nach vorne, weil...
-- [ ] beide Ballons gehen nach hinten, weil...
-- [ ] Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
-- [ ] Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
-- [ ] Beide Ballons bleiben aufrecht
+- [ ] a) beide Ballons gehen nach vorne, weil...
+- [ ] b) beide Ballons gehen nach hinten, weil...
+- [ ] c) Der Helium-Ballon geht vor / der Luft-Ballon geht zurück, weil...
+- [ ] d) Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
+- [ ] e) Beide Ballons bleiben aufrecht
 
---- 
+
+
+### Vermutungen zur Lösung
 
 >> **Auswertung zur Aufgabe 1a** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit: <div style="margin-top: 2em;"></div> Wir glauben, die folgende Antwort ist richtig, weil... 
 
@@ -144,43 +148,42 @@ Für die Lösung geht es auf der nächsten Seite weiter...
 
 ### Auflösung Teil I und ein zweites Experiment...
 
->> Hier seht ihr die Aufösung - [Link] zum Video: 
-Das Video wird fortgesetzt und die Frage aufgelöst. Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
-Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtseinheit. 
+>> Hier seht ihr die Aufösung - [Link] zum Video: Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
+
+Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtsreihe. 
 
 Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
+
 Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. 
 
 Wahrscheinlich schafft ihr es, in einem Schwimmbecken an der Wasseroberfläche zu bleiben, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr das auch ohne euch zu bewegen? Denn für einen Physiker wie mich bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Also ist meine nächste Frage an euch: Was müsst ihr tun, damit ihr oben bleibt? 
 Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine an mich ranziehen und gehockt sein oder ist es egal, ob gestreckt oder gehockt?
 
-_Frage taucht im Video auf_
 
-
-### Aufgabenstellung zum Video - Teil II
-... sehr wahrscheinlich habt ihr auch das nun gerade schon gemacht. Dann könnt ihr weiterklicken. 
+### Aufgabenstellung zum Video 1 - Teil II
 
 >> **Aufgabe 1b (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
 
 > ❓ Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
 
-- [ ] gehockt
-- [ ] gestreckt
-- [ ] egal
+- [ ] a) gehockt, weil...
+- [ ] b) gestreckt, weil...
+- [ ] c) egal, weil...
 
 
 > ❓ Welche Körperposition muss ich einnehmen, damit ich untergehe? 
 
-- [ ] gehockt
-- [ ] gestreckt
-- [ ] egal
+- [ ] a) gehockt, weil...
+- [ ] b) gestreckt, weil...
+- [ ] c) egal, weil...
 
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
 </span>
 
----
+
+### Vermutungen zur Lösung
 
 >> **Auswertung zur Aufgabe 1b** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
@@ -199,11 +202,13 @@ Aber wie habe ich das gemacht? Diese Erklärung schauen wir uns am Ende der heut
 
 ## 1.2 Einstiegsfragen
 
->> **Aufgabe 1c:** (⏰ 10 Min.) <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Nehmt euch dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
+> Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum Einstieg in das Thema starten wir mal mit der folgenden Aufgabe:
 
-* Was schwimmt alles?
-* Was schwimmt nicht? 
-* Warum schwimmt das eine, aber nicht das andere?
+>> **Aufgabe 1c:** (⏰ 7 Min.) <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Benutzt dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
+
+1. Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
+2. Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
+3. Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
 
 Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wieder hierhin zurück. Es geht dann auf der "nächsten Seite" weiter.
 
@@ -212,16 +217,22 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
 
 
+
+
 ### Auswertung zu den Einstiegsfragen 
-> **Auswertung** (⏰ 5 Min.) <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt.
+> **Auswertung** (⏰ 5 Min.) <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:  <div style="margin-top: 2em;"></div> 1. Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
+2. Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
+3. Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
 
-
+> Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Seite und lest dann die Zusammenfassung. 
 
 ## 1.3 Worum geht es?
 
->> **Aufgabe 1d:** (⏰ 5 Min.) <div style="margin-top: 2em;"></div> 1. 📖 Lest zuerst in Ruhe den folgenden Abschnitt "Zusammenfassung". <div style="margin-top:1em;"></div> 2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
-
 >> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
+
+
+>> **Aufgabe 1d:** (⏰ 5 Min.) <div style="margin-top: 2em;"></div>  2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
+
 
 
  <div style="margin-top: 4em;"></div> 
@@ -254,6 +265,8 @@ Sollte noch Unterrichtszeit übrig sein, wird eure Lernbegleitung nun folgendes 
 
 ## 2.1 Was ist Dichte?
 
+Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berechnet, zeigt euch Simon im folgenden Video.
+
 >> 📝 **Aufgabe 2a:** Schreibt euch die wichtigsten Informationen aus dem folgenden Video auf. 
 
 [Link zum Video](https://example.com) Was ist nun eigentlich die Dichte. Eine gute Möglichkeit, sich die Dichte vorzustellen, habe ich hier vor mir liegen. Ich habe hier drei identische Schwämme. Die wiegen alle gleich viel und sind alle gleich groß. Wenn ich jetzt zwei aufeinanderlege und diese zusammendrücke, sodass sie wieder so dick sind wie der eine, dann nehmen die beiden Schwämme zusammen genauso viel Platz ein wie der eine, sind aber doppelt so schwer. Also doppelte Masse, gleiches Volumen wie vorher. Im zweiten Fall ist die Masse dichter beisammen. Die beiden zusammengedrückten Schwämme haben eine größere Dichte wie der erste Schwamm. 
@@ -270,8 +283,11 @@ Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L
 
 ### Zusammenfassung Dichte 
 
->>> 💡 Die Dichte ist also definiert als <div style="margin-top:1em;"></div> rho= m / V <div style="margin-top:1em;"></div> Sie beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind. <div style="margin-top:1em;"></div>
+📖 Lest den folgenden Text. Habt ihr bis hierher alles verstanden? 
 
+>> 💡 Die Dichte ist also definiert als <div style="margin-top:1em;"></div> rho= m / V <div style="margin-top:1em;"></div> Sie beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind. <div style="margin-top:1em;"></div>
+
+❓ Habt ihr noch Fragen? Was habt ihr gut verstanden 
 
 _? Könnte man hier ggf. noch die wichtigsten Infos aus dem Video als Schriftform in Stichpunkten aufführen?_
 <div style="margin-top:1em;"></div>
