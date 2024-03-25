@@ -59,7 +59,7 @@ details[open] > *:not(summary) {
 
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
 
-<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. </div>
+🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. 
 
 > 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen.
 
