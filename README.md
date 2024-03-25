@@ -120,7 +120,7 @@ _"ENDE DER HINWEISE"_
 
 > [Link zum Video 1](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE) Inhalt - Begrüßung, Auto, Schwimmbad
 
-!?[Something about math](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE) 
+!?[Something about math](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE)
 
 
 <video width="640" height="360" controls>
@@ -281,27 +281,19 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 >> 📝 **Aufgabe 2a:** Schreibt euch die wichtigsten Informationen aus dem folgenden Video auf. 
 
-[Link zum Video](https://example.com) Was ist nun eigentlich die Dichte. Eine gute Möglichkeit, sich die Dichte vorzustellen, habe ich hier vor mir liegen. Ich habe hier drei identische Schwämme. Die wiegen alle gleich viel und sind alle gleich groß. Wenn ich jetzt zwei aufeinanderlege und diese zusammendrücke, sodass sie wieder so dick sind wie der eine, dann nehmen die beiden Schwämme zusammen genauso viel Platz ein wie der eine, sind aber doppelt so schwer. Also doppelte Masse, gleiches Volumen wie vorher. Im zweiten Fall ist die Masse dichter beisammen. Die beiden zusammengedrückten Schwämme haben eine größere Dichte wie der erste Schwamm. 
-
-Jetzt haben wir auch schon die beiden Messgrößen gehört, mit denen man die Dichte berechnen kann. Die Masse und das Volumen. Die Dichte ist eine zusammengesetzte Größe, die man wie folgt berechnen kann:
-Dichte rho= Masse m / Volumen V
-
-So ist die Dichte definiert. Die Dichte beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist.  Jetzt brauchen wir noch die Einheit der Dichte. Die Masse wird meist angegeben in g oder kg. Das Volumen kann in L oder ml, aber auch in cm³, dm³ oder m³ angegeben werden. Entsprechend kann man die Dichte in g/cm³ oder g/ml oder kg/L angeben. 
-
-Hier noch ein paar Beispiele:
-Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³
-
-Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
+[Link zum Video - Definition Dichte](https://example.com)
 
 
 
 ### Zusammenfassung Dichte 
 
-📖 Lest den folgenden Text. Habt ihr bis hierher alles verstanden? 
+📖 Lest den folgenden Text. 
 
 >> 💡 Die Dichte ist also definiert als <div style="margin-top:1em;"></div> rho= m / V <div style="margin-top:1em;"></div> Sie beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind. <div style="margin-top:1em;"></div>
 
-❓ Habt ihr noch Fragen? Was habt ihr gut verstanden 
+❓ Habt ihr noch Fragen? 
+
+
 
 _? Könnte man hier ggf. noch die wichtigsten Infos aus dem Video als Schriftform in Stichpunkten aufführen?_
 <div style="margin-top:1em;"></div>
