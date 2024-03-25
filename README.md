@@ -59,11 +59,17 @@ details[open] > *:not(summary) {
 
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
 
-> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen. <div style="margin-top: 4em;"></div> 
+<div style="margin-top: 2em;"></div> 
+
+> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen.
+
+<div style="margin-top: 4em;"></div> 
 
 Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div> 
-- [ ] 📱 Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft. <div style="margin-top: 2em;"></div> 
-- [ ] 📝 Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt.  <div style="margin-top: 2em;"></div> 
+- [ ] 📱 Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
+<div style="margin-top: 2em;"></div> 
+- [ ] 📝 Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
+<div style="margin-top: 2em;"></div> 
 - [ ] Sobald ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. (QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt) 
 
 <div style="margin-top: 2em;"></div> 
