@@ -95,7 +95,7 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 
 <span style="font-size:2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
 
-Der <span style="font-size:2em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches auf die Arbeitsform verweist, z.B.: <div style="margin-top:2em;"></div> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben.  <div style="margin-top:2em;"></div> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+<span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben.  <div style="margin-top:2em;"></div> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
 
 <div style="margin-top: 2em;"></div> 
 
@@ -105,11 +105,15 @@ Der <span style="font-size:2em;">⏰</span> ist oft verküpft mit einem weiteren
 
 <div style="margin-top: 2em;"></div> 
 
-Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) Hinweise geben, was ihr bis jetzt an der Einführung im Unterricht schon gut fandet und was weniger. Das hilft uns, die Unterrichtsreihen weiter zu verbessern. 
+_**ENDE DER HINWEISE**_
 
+---
 <div style="margin-top: 2em;"></div> 
 
-_"ENDE DER HINWEISE"_
+Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) Hinweise geben, was ihr bis jetzt an der Einführung im Unterricht schon gut fandet und was weniger. Das hilft uns, die Unterrichtsreihen weiter zu verbessern. 
+
+
+
 
 # 1. Unterrichtsstunde - Einstieg 🔍
 
@@ -129,9 +133,12 @@ _"ENDE DER HINWEISE"_
 
 ### Aufgabenstellung zum Video 1 - Teil 1
 
->> **Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+**Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div>
 
----
+> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+
+<div style="margin-top: 2em;"></div> 
+
 
 <span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
 
@@ -145,7 +152,9 @@ _"ENDE DER HINWEISE"_
 
 ### Vermutungen zur Lösung
 
->> **Auswertung zur Aufgabe 1a** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit: <div style="margin-top: 2em;"></div> Wir glauben, die folgende Antwort ist richtig, weil... 
+**Auswertung zur Aufgabe 1a** im Plenum (⏰ 5 Min.)
+
+> <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit: <div style="margin-top: 2em;"></div> Wir glauben, die folgende Antwort ist richtig, weil... 
 
 
 <div style="margin-top: 2em;"></div>
@@ -157,22 +166,26 @@ Für die Lösung geht es auf der nächsten Seite weiter...
 
 Hier seht ihr die Aufösung...
 
->> !?[Video 1 - Teil 2: Auflösung Teil I und ein zweites Experiment im Schwimmbad](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
+!?[Video 1 - Teil 2: Auflösung Teil I und ein zweites Experiment im Schwimmbad](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
 
 
 ### Aufgabenstellung zum Video 1 - Teil 2
 
->> **Aufgabe 1b (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+**Aufgabe 1b (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 
 
+> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
-> ❓ Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
+<div style="margin-top: 2em;"></div> 
+
+❓ Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
 
 - [ ] a) gehockt, weil...
 - [ ] b) gestreckt, weil...
 - [ ] c) egal, weil...
 
+<div style="margin-top: 2em;"></div> 
 
-> ❓ Welche Körperposition muss ich einnehmen, damit ich untergehe? 
+❓ Welche Körperposition muss ich einnehmen, damit ich untergehe? 
 
 - [ ] a) gehockt, weil...
 - [ ] b) gestreckt, weil...
@@ -185,7 +198,9 @@ Hier seht ihr die Aufösung...
 
 ### Vermutungen zur Lösung
 
->> **Auswertung zur Aufgabe 1b** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+**Auswertung zur Aufgabe 1b** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div>
+
+> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
@@ -199,13 +214,15 @@ Hier seht ihr die Aufösung...
 
 ## 1.2 Einstiegsfragen
 
-> Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum Einstieg in das Thema starten wir mal mit der folgenden Aufgabe:
+Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum Einstieg in das Thema starten wir mal mit der folgenden Aufgabe:
 
->> **Aufgabe 1c:** (⏰ 7 Min.) <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Benutzt dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
+**Aufgabe 1c (⏰ 7 Min.):** <div style="margin-top: 2em;"></div> 
 
-1. Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
-2. Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
-3. Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
+> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Benutzt dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
+
+- Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
+- Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
+- Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
 
 Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wieder hierhin zurück. Es geht dann auf der "nächsten Seite" weiter.
 
@@ -217,7 +234,10 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 
 
 ### Auswertung zu den Einstiegsfragen 
-> **Auswertung** (⏰ 5 Min.) <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:  <div style="margin-top: 2em;"></div>
+
+**Auswertung (⏰ 5 Min.)** <div style="margin-top: 2em;"></div>
+
+> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:  <div style="margin-top: 2em;"></div>
 1. Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
 2. Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
 3. Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
