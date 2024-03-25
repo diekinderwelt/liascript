@@ -58,6 +58,7 @@ details[open] > *:not(summary) {
 
 
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
+> ⏰ (5 Min.) für Hinweise und Vorbereitung 
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. </span>
 
