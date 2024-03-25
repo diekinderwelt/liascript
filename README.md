@@ -120,11 +120,9 @@ _"ENDE DER HINWEISE"_
 
 > [Link zum Video 1](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE) Inhalt - Begrüßung, Auto, Schwimmbad
 
-![Video](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE)
-
 
 <video width="640" height="360" controls>
-  <source src="https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE" type="video/mp4">
+  <source src="https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download/MINT_Simon_Ballons%20im%20Auto_1.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -152,6 +150,7 @@ _"ENDE DER HINWEISE"_
 
 <div style="margin-top: 2em;"></div>
 Für die Lösung geht es auf der nächsten Seite weiter... 
+
 
 
 ### Auflösung Teil I und ein zweites Experiment...
@@ -234,6 +233,8 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 
 > Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Seite und lest dann die Zusammenfassung. 
 
+
+
 ## 1.3 Worum geht es?
 
 >> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
@@ -250,6 +251,7 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
  <div style="margin-top: 4em;"></div> 
 
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS die Aufgabe auf einem Blatt Papier beantworten und sammeln Sie dann einzelne Antworten im Plenum. </div>
+
 
 
 ## OPTIONAL
@@ -288,6 +290,8 @@ Hier noch ein paar Beispiele:
 Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³
 
 Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
+
+
 
 ### Zusammenfassung Dichte 
 
