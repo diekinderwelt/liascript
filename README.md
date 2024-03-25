@@ -59,7 +59,7 @@ details[open] > *:not(summary) {
 
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
 
-🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. 
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. </span>
 
 > 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen.
 
@@ -92,7 +92,7 @@ QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert �
 
 > Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben:
 
->> <div style="margin-top: 1em;"></div> <span style="font-size:1em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
+>> <div style="margin-top: 1em;"></div> <span style="font-size:1em;">⏰</span> ⏰ Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
 
 >> Der <span style="font-size: 1em;">⏰</span> ist oft verküpft mit einem weiteren Symbol, welches auf die Arbeitsform verweist, z.B.: <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben. <div style="margin-top: 1em;"></div> >> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
 
