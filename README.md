@@ -120,13 +120,8 @@ _"ENDE DER HINWEISE"_
 
 > [Link zum Video 1](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE) Inhalt - Begrüßung, Auto, Schwimmbad
 
-!?[Something about math](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download)
+!?[Video 1 - Teil 1: Begrüßung & Ballons im Auto](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download)
 
-
-<video width="640" height="360" controls>
-  <source src="https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download/MINT_Simon_Ballons%20im%20Auto_1.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ### Aufgabenstellung zum Video 1 - Teil I
@@ -157,7 +152,7 @@ Für die Lösung geht es auf der nächsten Seite weiter...
 
 ### Auflösung Teil I und ein zweites Experiment...
 
->> Hier seht ihr die Aufösung - [Link] zum Video: Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
+>> Hier seht ihr die Aufösung [Video 1  Teil 2: Auflösung und Schwimmbad]- [Link] zum Video: Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
 
 Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtsreihe. 
 
@@ -291,13 +286,8 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 >> 💡 Die Dichte ist also definiert als <div style="margin-top:1em;"></div> rho= m / V <div style="margin-top:1em;"></div> Sie beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind. <div style="margin-top:1em;"></div>
 
-❓ Habt ihr noch Fragen? 
+❓ Habt ihr noch Fragen? Schreibt euch eure Fragen auf. Eure Lehrkraft wird diese später sammeln, falls sie nicht in der Zwischenzeit aufgelöst worden sind. 
 
-
-
-_? Könnte man hier ggf. noch die wichtigsten Infos aus dem Video als Schriftform in Stichpunkten aufführen?_
-<div style="margin-top:1em;"></div>
-_? + könnte man hier dann noch Verständnisfragen aufführen, dass die SuS nochmal das Gelernte aus dem Video reaktivieren müssen (die Lehrkraft könnte hierzu die Antworten zur Verfügung gestellt bekommen, dann könnte man es im Multiple Choice Format einfügen)_
 
 
 
@@ -374,7 +364,7 @@ Bei Gegenständen, die schwimmen, kann man versuchen diesen, mit einem schweren 
 >> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](https://lms.paedagogika.com/mod/forum/view.php?id=3602). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
 
 
->> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ DIGITALE VARIANTE📱: SuS können ihre Erklärungen / Vermutungen im Brainstorming [Link](einfügen) sammeln.
+>> <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ DIGITALE VARIANTE📱: SuS können ihre Erklärungen / Vermutungen im Brainstorming [Link](einfügen) sammeln. </div> 
 
 
 
