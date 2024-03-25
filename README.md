@@ -58,31 +58,26 @@ details[open] > *:not(summary) {
 
 
 # Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
-> ⏰ (5 Min.) für Hinweise und Vorbereitung 
 
-<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. </span>
+> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen.#
 
-> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen.
+> Bereitet euch schon einmal vor. Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div> 
+- [ ] Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft. <div style="margin-top: 2em;"></div> 
+- [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt.  <div style="margin-top: 2em;"></div> 
+- [ ] Sobald ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. (QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt) 
 
->> Ihr braucht _nun als erstes_ folgendes:
 
-- [ ] Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
-- [ ] Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. 
+</span>
 
-Wenn ihr das habt, klickt eure Lehrkraft zur nächsten Seite. 
+
+> Wenn ihr dann auf dem Tablet **an dieser Stelle** angekommen seid, navigiert euch weiter bis zu Hinweis _"ENDE DER HINWEISE"_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch.
 
 ## Hinweise 
-- [ ]  Wenn ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. 
+> ⏰ (5 Min.) für das Lesen der Hinweise
 
-QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt
-
-
-- [ ]  Wenn ihr auf dem Tablet **an dieser Stelle** angekommen seid, navigiert euch weiter bis zu Hinweis _"ENDE DER HINWEISE"_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch.
-
-
-### ... Fortsetzung Hinweise 
 >> Zuerst einmal schauen wir uns an, was in den nächsten Unterrichtsstunden anders ist.
->
+
 - Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite.
 - 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen.
 - 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren zu vertiefen.
@@ -117,15 +112,13 @@ _"ENDE DER HINWEISE"_
 
 ## 1.1 Einstieg in das Thema - ein erstes Experiment...
 
->> ACHTUNG ❗: Nur eure Lehrkraft öffnet das Video vorne am Smartboard. 
-
-> [Link zum Video 1](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE) Inhalt - Begrüßung, Auto, Schwimmbad
+>> ❗ ACHTUNG: Nur eure Lehrkraft öffnet das Video vorne am Smartboard. 
 
 !?[Video 1 - Teil 1: Begrüßung & Ballons im Auto](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download)
 
 
 
-### Aufgabenstellung zum Video 1 - Teil I
+### Aufgabenstellung zum Video 1 - Teil 1
 
 >> **Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
@@ -151,21 +144,14 @@ Für die Lösung geht es auf der nächsten Seite weiter...
 
 
 
-### Auflösung Teil I und ein zweites Experiment...
+### Auflösung Teil 1 und ein zweites Experiment...
 
->> Hier seht ihr die Aufösung [Video 1  Teil 2: Auflösung und Schwimmbad]- [Link] zum Video: Der Atemluft-Ballon geht beim Bremsen nach vorne, aber der Heliumballon neigt sich beim Bremsen nach hinten. 
+Hier seht ihr die Aufösung...
 
-Das Warum löse ich heute noch nicht auf, das mache ich am Ende unserer Unterrichtsreihe. 
-
-Für das nächste Experiment brauche ich Wasser… viel Wasser. Simon breitet die Arme aus. Schnitt
-
-Simon mit ausgebreiteten Armen steht im Schwimmbad. Man sieht einen Pool (indoor) im Hintergrund. 
-
-Wahrscheinlich schafft ihr es, in einem Schwimmbecken an der Wasseroberfläche zu bleiben, wenn ihr eure Arme und Beine bewegt. Aber könnt ihr das auch ohne euch zu bewegen? Denn für einen Physiker wie mich bedeutet Schwimmen, wenn der Körper ohne Bewegung im Wasser liegt und nicht untergeht. Also ist meine nächste Frage an euch: Was müsst ihr tun, damit ihr oben bleibt? 
-Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine an mich ranziehen und gehockt sein oder ist es egal, ob gestreckt oder gehockt?
+>> !?[Video 1 - Teil 2: Auflösung Teil I und ein zweites Experiment im Schwimmbad](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
 
 
-### Aufgabenstellung zum Video 1 - Teil II
+### Aufgabenstellung zum Video 1 - Teil 2
 
 >> **Aufgabe 1b (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
@@ -194,14 +180,11 @@ Oder ganz konkret die Frage: Muss ich mich ganz austrecken, oder Arme und Beine 
 
 
 
-### Auflösung Teil II 
+### Auflösung Teil 2
 
-> [Link zum Video](https://example.com) Das Video setzt fort und löst auf: Simon befindet sich im Wasser und nimmt unterschiedliche Körperpositionen ein (einmal gehockt, einmal gestreckt) und schafft es in beiden Fällen sowohl oben zu bleiben als auch unterzugehen.
- 
-Die richtige Antwort ist in beiden Fällen „egal“. Ich schaffe es, sowohl gehockt als auch gestreckt unterzugehen, aber ich schaffe es auch in beiden Körperpositionen oben zu bleiben (alle vier Fälle werden im Video gezeigt). Es muss also etwas anderes sein, dass darüber entscheidet, ob ich untergehe oder nicht. 
+Hier seht ihr die Aufösung...
 
-Aber wie habe ich das gemacht? Diese Erklärung schauen wir uns am Ende der heutigen Doppelstunde an. Euch jetzt erstmal viel Spaß beim Einstieg in das Thema. Und noch ein Hinweis: Falls heute und in den nächsten Stunden Fragen aufkommen, die eure Lernbegleitung nicht beantworten kann, schreibt diese doch gerne auf und richtet sie nächste Woche direkt an mich, wenn wir uns zum Experimentieren wiedersehen. Bis dann!
-
+>> !?[Video 1 - Teil 3: Auflösung Teil 2](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
 
 
 
@@ -225,7 +208,8 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 
 
 ### Auswertung zu den Einstiegsfragen 
-> **Auswertung** (⏰ 5 Min.) <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:  <div style="margin-top: 2em;"></div> 1. Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
+> **Auswertung** (⏰ 5 Min.) <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:  <div style="margin-top: 2em;"></div>
+1. Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
 2. Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
 3. Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
 
@@ -238,7 +222,9 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 10 Minuten wied
 >> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
 
->> **Aufgabe 1d:** (⏰ 5 Min.) <div style="margin-top: 2em;"></div>  2. 📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
+>> **Aufgabe 1d:** (⏰ 5 Min.) <div style="margin-top: 2em;"></div> Beschreibe den Begriff Dichte in Einzelarbeit in maximal drei Sätzen - nutze dafür dein Blatt Papier.
+
+📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
 
 
 
