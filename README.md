@@ -121,6 +121,12 @@ _"ENDE DER HINWEISE"_
 > [Link zum Video 1](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE) Inhalt - Begrüßung, Auto, Schwimmbad
 
 
+<video width="640" height="360" controls>
+  <source src="https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ### Aufgabenstellung zum Video 1 - Teil I
 
 >> **Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
