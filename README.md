@@ -158,7 +158,7 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 !?[Video 1 - Teil 1: Begrüßung & Ballons im Auto](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download)
 
-
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis für die Lehrkraft: Das Video sollte im Großformat gezeigt werden. Wenn während des Videos ein Fragezeichen kommt, stoppen Sie kurz und lassen Sie die gestellte Frage im Plenum max. 2 Minuten beantworten. Nach Ende des Videos klicken Sie eine Seite weiter - es folgt eine Fragestellung.</span>
 
 ### Aufgabenstellung zum Video 1 - Teil 1
 
