@@ -758,7 +758,10 @@ ggf. Frage an die SuS - Wofür ist es sinnvoll, dass wir ein Forschungsprotokoll
 
 <div style="margin-top: 3em;"></div>
 
-# Das Forschungsprotokoll: Schreibt euch die folgende Struktur für das Forschungsprotokoll in euren Hefter. Dieses braucht ihr, während ihr das Experiment durchführt. 
+
+
+
+## Das Forschungsprotokoll: Schreibt euch die folgende Struktur für das Forschungsprotokoll in euren Hefter. Dieses braucht ihr, während ihr das Experiment durchführt. 
 
 1. (**Fragestellung**) Formulierung der	naturwissenschaftlichen Frage  
 2. (**Hypothese**) basierend auf der naturwissenschaftlichen Frage eine Hypothese aufstellen 
