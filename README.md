@@ -739,17 +739,16 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier:
 
 
 | Gegenstand | Material | Buchstabe | Menge | Masse in g | Volumen in ml bzw. cm³ | Dichte in g/cm³ bzw. g/ml |
-|----------|----------|----------|----------|----------|----------||----------||----------|
-| Muttern | Metall | S |  |  |  |   |   |
-| Würfel | Kunststoff | I |   |  |  |
-| Stein	| Stein	| D |||||
-|Quader lila	| Holz	| H|||||
-|Zylinder blau | Holz | R||||
-|Würfel grün	|Holz | C||||
-|Quader braun |Holz | M||||
-|Stößel	|Keramik |E||||
-|Murmeln	|Glas |E||||
-|Geschlossenes Schraubglas mit Luft darin| Glas+Metall+Luft|A||||
+| Muttern | Metall | S |  |  |  |   |  
+| Würfel | Kunststoff | I |   |  |   |
+| Stein	| Stein	| D  |  |  |  |   |
+|Quader lila	| Holz	| H |  |  |  |   |
+|Zylinder blau | Holz | R |  |  |  |   |
+|Würfel grün	|Holz | C |  |  |  |   |
+|Quader braun |Holz | M |  |  |  |   |
+|Stößel	|Keramik |E |  |  |  |   |
+|Murmeln	|Glas |E |  |  |  |   |
+|Geschlossenes Schraubglas mit Luft darin| Glas+Metall+Luft|A |  |  |  |   |
 
 	A
 
