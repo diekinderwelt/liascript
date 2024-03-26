@@ -691,7 +691,7 @@ _Kleine Erinnerung:_ Das waren die **Hausaufgaben**:
 
 Zusammenfassung - Das haben wir letzte Woche erfahren:
 
->> 📌 Die Dichte ist definiert als <div style="margin-top: 2em;"></div> **rho= m / V** <div style="margin-top: 2em;"></div> und beschreibt, wie viel Masse m in einem bestimmten Volumen V vorhanden ist.
+>> 📌 Die Dichte ist definiert als **rho= m / V** und beschreibt, wie viel Masse m in einem bestimmten Volumen V vorhanden ist.
 
 >> 📌 Die Dichte ist eine Stoffeigenschaft, die typisch für das entsprechende Material ist, z.B. ist die Dichte von Wasser 1kg/L, die Dichte von Aluminium 2,7kg/L und die von Gold 19,3kg/L.
 
@@ -701,6 +701,7 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 
 >> 📌 **Archimedisches Prinzip:** Die Auftriebskraft, die Wasser auf einen Körper ausübt, ist umso größer, je mehr Wasser dieser Körper verdrängt. Sie ist gleich der Gewichtskraft des verdrängten Wassers und ist der Gewichtskraft auf den Körper entgegengesetzt. <div style="margin-top: 2em;"></div> Ein schwimmender Körper verdrängt so viel Wasser, wie er selbst wiegt (also entsprechend seiner Masse). Hier ist die Auftriebskraft so groß wie die Gewichtskraft des Körpers. <div style="margin-top: 2em;"></div> Ein nicht-schwimmfähiger Körper verdrängt so viel Wasser, wie er selbst groß ist (also entsprechend seines Volumens). Hier ist die Auftriebskraft so groß wie die Gewichtskraft des verdrängten Wassers.
 
+<div style="margin-top: 2em;"></div>
 
 🧪 Dieses Wissen wenden wir heute beim Experimentieren an. Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Anschließend versuchen wir Boote zu bauen, die schwere Ladungen tragen können. 
 
@@ -710,14 +711,36 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 
 <div style="margin-top: 2em;"></div>
 
-Simon hat eure Fragen erhalten und wird sie euch nun beantworten... 
+<span style="font-size: 3em;">❓</span> Ich habe eure Fragen erhalten und werde sie euch nun beantworten... <span style="font-size: 3em;">❓</span>
 
-                 <span style="font-size: 3em;">❓</span>                
-
-
+                         
 
 
-## 3.2 Vorbereitung für das Experimentieren - Forschungsprotokoll
+## 3.2 Experiment zur Dichtebestimmung 
+
+<div style="margin-top: 2em;"></div>
+
+>> **(⏰ 5 Min.) Vorbereitung**
+
+> _Aufgabe:_ Vorn liegen verschiedene Gegenstände aus verschiedenen Materialien (Metall, Holz, Glas etc.). Bestimmt die Dichte dieser Gegenstände. Messt dazu das Volumen und das Gewicht und berechnet daraus die Dichte. Tragt eure Ergebnisse in die folgende Tabelle ein. Die ausgerechneten Dichten sollen in g/cm³ angegeben werden (1cm³ = 1ml) und auf zwei Nachkommastellen gerundet werden. Jedem Gegenstand ist ein Buchstabe zugeordnet. Wenn ihr alle Gegenstände nach aufsteigender Dichte sortiert, ergibt sich ein Lösungswort.
+
+
+> ❗ Lest euch auch die folgenden Hinweise genau durch bevor ihr loslegt:
+
+•	Nehmt euch pro Gruppe immer **nur einen Gegenstand zu eurem Tisch** und bringt ihn zurück, wenn ihr mit ihm fertig seid. 
+•	Das **Volumen der Holzformen** solltet ihr mit dem **Geodreieck** bestimmen. Dass die Ecken abgerundet sind, könnt ihr vernachlässigen. Messt von einer Fläche zur gegenüberliegenden Fläche. Volumen eines Quaders: Breite x Länge x Höhe. Volumen eines Zylinders: (1/2 x Durchmesser)^2 x π x Höhe
+•	Das Volumen der **anderen Gegenstände** solltet ihr mit der **Verdrängungsmethode** bestimmen. Die kleinen Gegenstände messt ihr mit eurem kleinen Messbecher (250ml). Beim Stein und den 3 Stößeln müsst ihr euch die ganz großen Messbecher (2000ml) von vorn nehmen. Wenn ihr den großen Messbecher nicht mehr braucht, bringt ihn wieder nach vorn, damit andere Gruppen ihn auch nutzen können.
+•	**Füllt den Messbecher** bis zu einer für den Gegenstand geeigneten Höhe. Überprüft immer mal wieder den Füllstand eures kleinen Messbechers. Durch das Herausnehmen von Gegenständen, geht immer auch etwas Wasser aus dem Becher heraus. 
+•	Bei **kleinen Gegenständen** ist es hilfreich, nicht nur einen zu messen sondern **mehrere** zu nehmen, z.B. 50 Muttern oder 20 Würfel. Dann wird die Messung genauer. Tragt dann in der Spalte „Menge“ ein, wie viele ihr gemessen habt.
+•	Wiegt die Gegenstände möglichst **trocken**, da das Gewicht des Wassers die Messung verfälscht.
+
+
+
+| Spalte 1 | Spalte 2 | Spalte 3 | Spalte 1 | Spalte 2 | Spalte 3 |
+|----------|----------|----------|----------|----------|----------|
+| Inhalt 1 | Inhalt 2 | Inhalt 3 | Inhalt 1 | Inhalt 2 | Inhalt 3 |
+| Inhalt 4 | Inhalt 5 | Inhalt 6 | Inhalt 1 | Inhalt 2 | Inhalt 3 |
+
 
 ??Hierzu ggf. hilfreich, ein kurzes allgemeines Video zu erstellen?? 
 
