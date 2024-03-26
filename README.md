@@ -73,7 +73,7 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 
 - [ ] 📱 Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
 <div style="margin-top: 2em;"></div> 
-- [ ] 📝 Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
+- [ ] 📝 mind. zwei Blatt Papier, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten zu Aufgabenstellungen oder Notizen (Blatt 1) und Fragen (Blatt 2) aufschreiben könnt. 
 <div style="margin-top: 2em;"></div> 
 - [ ] 📷 Sobald ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. (QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt) 
 
@@ -396,6 +396,7 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 
 <div style="margin-top: 2em;"></div> 
 
+
 >> **(⏰ 5 Min.) Auswertung der Ergebnisse zum Begriff Dichte im Plenum**
 
 <div style="margin-top: 2em;"></div>
@@ -436,17 +437,21 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 
 ### Zusammenfassung Dichte 
+
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 10 Min.für die nächsten Seiten (18-20)) Auswertung der Ergebnisse zum Begriff Dichte im Plenum**
+>> **(⏰ 12 Min.für die nächsten Seiten 18-20) Einzelarbeit**
 
-📖 Lest den folgenden Text in Einzelarbeit.
+<div style="margin-top: 2em;"></div> 
+
+
+📖 Lese den folgenden Text:
 
 >>> 💡 Die Dichte ist also definiert als: <div style="margin-top:1em;"></div> **rho= m / V** <div style="margin-top:1em;"></div> Sie beschreibt, **wie viel Masse in einem bestimmten Volumen** vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, **wie dicht diese kleinsten Teilchen zusammengedrängt sind**. <div style="margin-top:1em;"></div>
 
 <div style="margin-top: 2em;"></div> 
 
-❓ Habt ihr noch Fragen? Schreibt euch eure Fragen auf euer Blatt Papier auf. Eure Lehrkraft wird diese später sammeln, falls sie nicht in der Zwischenzeit aufgelöst worden sind. 
+❓ Hast du noch Fragen? Schreibe alle deine Fragen auf dein Blatt 2 für Fragen auf - auch die, die vielleicht noch kommen. Diese kannst du später im Chat an Simon richten, falls sie nicht in der Zwischenzeit aufgelöst worden sind. Simon wird sie dann in der nächsten Doppelstunde beantworten. 
 
 
 
@@ -456,35 +461,26 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div> 
 
-📖 Lest den folgenden Text in Einzelarbeit.
+📖 Lese den folgenden Text:
 
 >>> 💡 Je nachdem, wie groß die Masse und das Volumen eines Gegenstandes sind, kommen unterschiedliche Einheiten zum Einsatz. Es wäre ja nicht sinnvoll, das Volumen eines U-Boots in mm³ anzugeben oder die Masse eines Golfballs in Tonnen. Wenn du die Einheiten der Dichte umrechnen musst, gilt Folgendes: <div style="margin-top:1em;"></div> Umrechnung der Masse-Einheiten:  1t = 1000kg, 1kg = 1000g, 1g = 1000mg <div style="margin-top:1em;"></div> Umrechnung der Volumen-Einheiten: 1L = 1000ml, 1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³ <div style="margin-top:1em;"></div> 1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml <div style="margin-top:1em;"></div> Umrechnung der Dichte-Einheiten: 1 g/cm³ = 1 g/ml = 1 kg/L
 
 <div style="margin-top: 2em;"></div> 
 
 
-> 📝 Du kannst dir dies für die gleich kommende Aufgabe auf deinen Zettel schreiben.
-
-
-<div style="margin-top: 2em;"></div> 
-
 >> **Beispiele:**  <div style="margin-top: 1em;"></div> Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³ <div style="margin-top: 1em;"></div> Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
 
----
 
-<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Fragen Sie die SuS, ob alles verstanden wurde. Sollten Fragen entstehen, die Sie nicht beantworten können, sammeln Sie diese für Simon. </span> 
-
---- 
 
 
 ### EINZELARBEIT: Dichte berechnen
 <div style="margin-top: 2em;"></div>
 
->> 📝 **(⏰ 10 Min.) Aufgabe 2b: Einzelarbeit**
+>> 📝 **Aufgabe 2b: Einzelarbeit** <div style="margin-top: 2em;"></div> Hinweis: Beginne mit dieser Aufgabe, wenn du bis hierhin alles verstanden hast. Brauchst du noch Hilfestellung, so wende dich an deine Lehrkraft oder an einen Mitschüler / eine Mitschülerin, die dir helfen kann. 
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Berechnet nun die Dichte in den folgenden Aufgaben. Wenn ihr mit einer Aufgabe nicht weiterkommt, könnt ihr euch eine Hilfestellung geben lassen. Schreibt euch die Antwort zu den folgenden Aufgaben in euer Heft / auf einen Zettel: <div style="margin-top:1em;"></div>
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Berechnet nun die Dichte in den folgenden Aufgaben. Schreibt euch die Antwort zu den folgenden Aufgaben in euer Heft / auf einen Zettel: <div style="margin-top:1em;"></div>
 
 1.	Du hast eine Glaskugel, die 500g wiegt. Ihr Volumen beträgt 200cm³. Wie groß ist die Dichte der Glaskugel? <div style="margin-top:1em;"></div>
 2.	Die Dichte von Öl beträgt 0,9kg/L. Wie viel Gramm wiegen 100ml Öl? <div style="margin-top:1em;"></div>
@@ -584,7 +580,7 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div>
 
->>> DIE WICHTIGSTEN INFORMATIONEN DER LETZTEN BEIDEN STUNDEN....
+>>> 📖 DIE WICHTIGSTEN INFORMATIONEN DER LETZTEN BEIDEN STUNDEN....
 
 >> 📌 Die Dichte ist definiert als <div style="margin-top: 2em;"></div> **rho= m / V** <div style="margin-top: 2em;"></div> und beschreibt, wie viel Masse m in einem bestimmten Volumen V vorhanden ist.
 
@@ -628,29 +624,97 @@ Hier könnt ihr folgendes aufschreiben:
 
 <div style="margin-top: 2em;"></div>
 
-### Fortsetzung Zusammenfassung und Ausblick - 
+### Fortsetzung Zusammenfassung und Ausblick 
 
-> Schreibt euch in euer Hausaufgabenheft auf, dass ihr Folgendes nächste Woche mitbringt: ...
+<div style="margin-top: 2em;"></div>
 
+📖 Wir werden das heute erlangte Wissen nutzen um Boote zu bauen und die Dichte von verschiedenen Gegenständen zu bestimmen. Bringt dazu bitte euer **Geodreieck oder Lineal** und euren **Taschenrechner** mit.
+
+<div style="margin-top: 2em;"></div>
+
+> In zwei Wochen: <div style="margin-top: 2em;"></div> Wenn es um das Schwimmen oder Sinken geht, haben wir bisher nur das Medium Wasser betrachtet. <div style="margin-top: 2em;"></div> In zwei Wochen werden wir uns auch noch andere Medien wie Öl, Salzwasser und Luft anschauen und sehen, dass die o.g. Merksätze auch dort gelten: 
+-	Ein Körper schwimmt in einem Medium, wenn seine Dichte kleiner ist als die des Mediums, in dem es sich befindet.
+-	Die Auftriebskraft ist gleich der Gewichtskraft des verdrängten Mediums.
+
+<div style="margin-top: 2em;"></div>
+
+> Dichte in eurem Alltag **(„Hausaufgabe“)** <div style="margin-top: 2em;"></div> Bis zur nächsten Stunde könnt ihr zuhause mal folgendes ausprobieren: 
+
+1. Versucht doch mal in der Badewanne verschieden große Luftballons unter Wasser zu drücken und spürt, wie die Auftriebskraft größer wird, je mehr Wasser verdrängt wird.
+2. Bleibt nach dem Baden in der Badewanne liegen, während das Wasser abfließt. Liegt dabei ganz still und reglos bis die Wanne komplett leer ist und spürt, wie die Auftriebskraft nach und nach kleiner wird und die Gewichtskraft euch immer stärker auf den Wannenboden drückt.
+3. Sucht euch zuhause oder aus der Natur Gegenstände heraus, wiegt sie in eurer Hand und ratet, ob ihre Dichte größer oder kleiner als die von Wasser ist, sprich ob diese in Wasser schwimmen oder nicht. Danach setzt sie ins Wasser und überprüft eure Vermutung.
 
 
 
 
 # 3. + 4. Unterrichtsstunde - Wir experimentieren! 🧪 
 
->> HINWEIS: für diese Physikeinheit braucht ihr kein eigenes Tablet. Ihr werdet experimentieren und eure Lehrkraft navigiert euch am Smartboard durch die zwei Stunden. Am Ende der zwei Stunden wird Simon live aus dem Extavium hinzugeschaltet. Er wird mit euch das Experiment auswerten und kann dann noch eure Fragen beantworten. 
+<div style="margin-top: 2em;"></div>
 
->> Beginnt schon einmal und beantwortet die folgenden Fragen: <div style="margin-top: 1em;"></div>
-1. Überlegt, was die Wichtigsten Dinge der letzten Physikstunde waren, die ihr dazugelernt habt. Schreibt euch auf einem Zettel drei Punkte dazu auf. <div style="margin-top: 1em;"></div> 2. Habt ihr noch Fragen zum Thema (z.B. gibt es z.B. etwas, was wir noch nicht verstanden habt)?
+❗ HINWEIS: für diese Physikeinheit braucht ihr kein eigenes Tablet. Ihr werdet experimentieren und Simon navigiert euch am Smartboard durch die zwei Stunden. 
+
+>> **(⏰ 5 Min.) Beginnende Einzelarbeit - JETZT**
+
+<div style="margin-top: 2em;"></div>
+
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Beantwortet die folgende Fragen: <div style="margin-top: 1em;"></div>
+1. Was waren die Wichtigsten Dinge der letzten Physikstunde waren, die ihr dazugelernt habt. Schreibt euch auf einem Zettel drei Punkte dazu auf. <div style="margin-top: 1em;"></div>
+2. Sind euch noch neue Fragen gekommen, die ihr an Simon habt?
+3. Falls ihr **Hausaufgabe** der vergangenen Woche ausprobiert habt, was ist euch aufgefallen?
+
+   
 
 ## 3.1 Wiederholung & Fragensammlung
-<span style="font-size: 1em;">⏰</span> (10 Min.)
 
->> # <span style="font-size: 2em;">🙋</span> Teilt euren Mitschülern und Mitschülerinnen mit, was für euch die wichtigsten Dinge waren, die ihr gelernt habt.
+<div style="margin-top: 2em;"></div>
 
-<div style="margin-top: 5em;"></div>
+>> **(⏰ 3 Min.) Auswertung der Einzelarbeit im Plenum**
 
->> # <span style="font-size: 2em;">🙋</span> Welche Fragen zum Thema Dichte habt ihr noch? 
+<div style="margin-top: 2em;"></div>
+
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt euren Mitschülern und Mitschülerinnen mit:
+1. ... was für euch die wichtigsten Dinge waren, die ihr gelernt habt.
+2. ... welche Fragen ihr noch habt.
+3. ... was euch bei dem Ausprobieren der Hausaufgaben aufgefallen ist.
+
+
+<div style="margin-top: 2em;"></div>
+
+_Kleine Erinnerung:_ Das waren die **Hausaufgaben**: 
+1. Versucht doch mal in der Badewanne verschieden große Luftballons unter Wasser zu drücken und spürt, wie die Auftriebskraft größer wird, je mehr Wasser verdrängt wird.
+2. Bleibt nach dem Baden in der Badewanne liegen, während das Wasser abfließt. Liegt dabei ganz still und reglos bis die Wanne komplett leer ist und spürt, wie die Auftriebskraft nach und nach kleiner wird und die Gewichtskraft euch immer stärker auf den Wannenboden drückt.
+3. Sucht euch zuhause oder aus der Natur Gegenstände heraus, wiegt sie in eurer Hand und ratet, ob ihre Dichte größer oder kleiner als die von Wasser ist, sprich ob diese in Wasser schwimmen oder nicht. Danach setzt sie ins Wasser und überprüft eure Vermutung.
+
+
+### ...Fortsetzung Wiederholung 
+<div style="margin-top: 2em;"></div>
+
+Zusammenfassung - Das haben wir letzte Woche erfahren:
+
+>> 📌 Die Dichte ist definiert als <div style="margin-top: 2em;"></div> **rho= m / V** <div style="margin-top: 2em;"></div> und beschreibt, wie viel Masse m in einem bestimmten Volumen V vorhanden ist.
+
+>> 📌 Die Dichte ist eine Stoffeigenschaft, die typisch für das entsprechende Material ist, z.B. ist die Dichte von Wasser 1kg/L, die Dichte von Aluminium 2,7kg/L und die von Gold 19,3kg/L.
+
+>> 📌 Um die Dichte experimentell zu bestimmen, müssen die Masse und das Volumen gemessen und daraus die Dichte berechnet werden.
+
+>> 📌 Ein Körper schwimmt in Wasser, wenn seine Dichte kleiner ist als die des Wassers. Ein Körper sinkt, wenn seine Dichte größer ist als die des Wassers.
+
+>> 📌 **Archimedisches Prinzip:** Die Auftriebskraft, die Wasser auf einen Körper ausübt, ist umso größer, je mehr Wasser dieser Körper verdrängt. Sie ist gleich der Gewichtskraft des verdrängten Wassers und ist der Gewichtskraft auf den Körper entgegengesetzt. <div style="margin-top: 2em;"></div> Ein schwimmender Körper verdrängt so viel Wasser, wie er selbst wiegt (also entsprechend seiner Masse). Hier ist die Auftriebskraft so groß wie die Gewichtskraft des Körpers. <div style="margin-top: 2em;"></div> Ein nicht-schwimmfähiger Körper verdrängt so viel Wasser, wie er selbst groß ist (also entsprechend seines Volumens). Hier ist die Auftriebskraft so groß wie die Gewichtskraft des verdrängten Wassers.
+
+
+🧪 Dieses Wissen wenden wir heute beim Experimentieren an. Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Anschließend versuchen wir Boote zu bauen, die schwere Ladungen tragen können. 
+
+
+
+### ...Fortsetzung Wiederholung & Fragensammlung 
+
+<div style="margin-top: 2em;"></div>
+
+Simon hat eure Fragen erhalten und wird sie euch nun beantworten... 
+
+                 <span style="font-size: 3em;">❓</span>                
+
+
 
 
 ## 3.2 Vorbereitung für das Experimentieren - Forschungsprotokoll
