@@ -354,15 +354,14 @@ Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Se
 
 <div style="margin-top: 2em;"></div>
 
-
 >>> 📖 **Zusammenfassung:** Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
-
+<div style="margin-top: 2em;"></div>
  
 
- ### OPTIONAL: Beschreibung des Begriffs Dichte 
+### OPTIONAL: Beschreibung des Begriffs Dichte 
  
- <div style="margin-top: 2em;"></div>
+<div style="margin-top: 2em;"></div>
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis an die Lehrkraft:** Diese Aufgabe können Sie einbinden, wenn zu dem jetztigen Zeitpunkt noch mehr als 10 Minuten Zeit übrig sind. Ansonsten endet die erste Unterrichtsstunde an dieser Stelle und Sie können direkt zu 2. Unterrichtsstunde weiterspringen. </span> 
 
