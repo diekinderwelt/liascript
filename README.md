@@ -284,10 +284,15 @@ Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum
 - Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
 - Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
 
+
+<div style="margin-top: 4em;"></div>
+
 Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 7 Minuten wieder hierhin zurück. Es geht dann auf der "nächsten Seite" weiter.
 
 <div style="margin-top: 4em;"></div>
 
+
+---
 <div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
 
 
@@ -295,14 +300,16 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 7 Minuten wiede
 
 ### Auswertung zu den Einstiegsfragen 
 
-**Auswertung (⏰ 5 Min.)** <div style="margin-top: 2em;"></div>
+>> **(⏰ 5 Min.) Auswertung der Einstiegsfragen im Plenum**
 
-> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:  <div style="margin-top: 2em;"></div>
+<div style="margin-top: 2em;"></div>
+
+> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:  <div style="margin-top: 2em;"></div>
 1. Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
 2. Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
 3. Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
 
-> Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Seite und lest dann die Zusammenfassung. 
+> Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Seite und lest dann die Zusammenfassung und schließt mit der dazugehörigen Einzelarbeit ab. 
 
 
 
@@ -310,35 +317,33 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 7 Minuten wiede
 
 >> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
-
->> **Aufgabe 1d:** (⏰ 5 Min.) <div style="margin-top: 2em;"></div> Beschreibe den Begriff Dichte in Einzelarbeit in maximal drei Sätzen - nutze dafür dein Blatt Papier.
-
-📱 Jeder öffnet danach für sich diesen [Link](Link für kollaboratives Whiteboard), um den Begriff Dichte in drei Sätzen zu beschreiben. 
-
-
-
  <div style="margin-top: 4em;"></div> 
 
-<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lehrkraft:** Wenn alle SuS die Aufgabe bearbeitet haben, öffnen Sie diesen [Link](...). Lassen Sie die SuS einzelne Antworten vorlesen oder tun Sie dies selbst. </div> 
+>> **(⏰ 4 Min.) Aufgabe 1d: Einzelarbeit**
 
- <div style="margin-top: 4em;"></div> 
+<div style="margin-top: 2em;"></div> 
 
-<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS die Aufgabe auf einem Blatt Papier beantworten und sammeln Sie dann einzelne Antworten im Plenum. </div>
+> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> Beschreibe den Begriff Dichte in Einzelarbeit in maximal drei Sätzen - nutze dafür dein Blatt Papier.
+
+---
+
+Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite.. 
+
+<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lehrkraft - Hinweis 1:** Für eine 📱**digitale Variante**📱 lassen Sie die SuS diesen[Link](Link für kollaboratives Whiteboard) öffnen, um den Begriff Dichte in drei Sätzen zu beschreiben. 
+
+<div style="margin-top: 2em;"></div> 
+
+### Auswertung Begriff Dichte
+
+<div style="margin-top: 2em;"></div> 
+
+>> **(⏰ 5 Min.) Auswertung der Ergebnisse zum Begriff Dichte im Plenum**
+
+<div style="margin-top: 2em;"></div>
+
+> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> Für die 📱**digitale Variante**📱: Die Lehrkraft öffnet den [Link](für das kollaborative Whiteboard).  🙋 Die Klasse fasst nochmal zusammen, wie sie Dichte beschreiben. </div> <div style="margin-top: 2em;"></div> Für die 📖🖋️**nicht-digitale Variante**📖🖋️: 🙋 Die Klasse fasst auch hier nochmal zusammen, wie sie Dichte beschreiben.  
 
 
-
-## OPTIONAL
-
-Sollte noch Unterrichtszeit übrig sein, wird eure Lernbegleitung nun folgendes mit euch machen: 
-
-<iframe src="https://phet.colorado.edu/sims/html/density/latest/density_de.html"
-        width="800"
-        height="600"
-        allowfullscreen>
-</iframe>
-
-
-<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Diese Anwendung können die SuS ggf. auch zuhause ausprobieren. </div> 
 
 
 
@@ -617,6 +622,22 @@ Geschlossenes Schraubglas mit Luft darin (Kombination Glas+Luft)
 > Aufgabe 1a: ....
 
 > Aufgabe 2: ....
+
+
+## OPTIONAL
+
+Sollte noch Unterrichtszeit übrig sein, wird eure Lernbegleitung nun folgendes mit euch machen: 
+
+<iframe src="https://phet.colorado.edu/sims/html/density/latest/density_de.html"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
+
+
+<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Diese Anwendung können die SuS ggf. auch zuhause ausprobieren. </div> 
+
+
 
 # 6. Unterrichtsstunde - Lernreflexion 🧠
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ZF8GoFOeBDwHFsVYqt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/feedback-thanks-for-our-ZF8GoFOeBDwHFsVYqt">via GIPHY</a></p>
