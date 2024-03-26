@@ -736,8 +736,8 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 
 
 
-| Spalte 1 | Spalte 2 | Spalte 3 | Spalte 1 | Spalte 2 | Spalte 3 |
-|----------|----------|----------|----------|----------|----------|
+| Gegenstand | Material | Buchstabe | Menge | Masse in g | Volumen in ml bzw. cm³ | Dichte in g/cm³ bzw. g/ml |
+|----------|----------|----------|----------|----------|----------||----------||----------|
 | Inhalt 1 | Inhalt 2 | Inhalt 3 | Inhalt 1 | Inhalt 2 | Inhalt 3 |
 | Inhalt 4 | Inhalt 5 | Inhalt 6 | Inhalt 1 | Inhalt 2 | Inhalt 3 |
 
