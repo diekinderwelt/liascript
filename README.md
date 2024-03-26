@@ -351,6 +351,7 @@ Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Se
 
 
 ## 1.3 Worum geht es?
+
 <div style="margin-top: 2em;"></div>
 
 
@@ -360,10 +361,10 @@ Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Se
  
 
  ### OPTIONAL: Beschreibung des Begriffs Dichte 
+ 
  <div style="margin-top: 2em;"></div>
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis an die Lehrkraft:** Diese Aufgabe können Sie einbinden, wenn zu dem jetztigen Zeitpunkt noch mehr als 10 Minuten Zeit übrig sind. Ansonsten endet die erste Unterrichtsstunde an dieser Stelle und Sie können direkt zu 2. Unterrichtsstunde weiterspringen. </span> 
-
 
 
  <div style="margin-top: 2em;"></div>
@@ -388,7 +389,7 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 
 <div style="margin-top: 2em;"></div> 
 
-<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Für eine 📱**digitale Variante**📱 lassen Sie die SuS diesen[Link](Link für kollaboratives Whiteboard) öffnen, um den Begriff Dichte in drei Sätzen zu beschreiben. </span> 
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Für eine 📱**digitale Variante** lassen Sie die SuS diesen[Link](Link für kollaboratives Whiteboard) öffnen, um den Begriff Dichte in drei Sätzen zu beschreiben. </span> 
 
 
 
@@ -400,7 +401,7 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Für die 📱**digitale Variante**📱: Die Lehrkraft öffnet den [Link](für das kollaborative Whiteboard).  🙋 Die Klasse fasst nochmal zusammen, wie sie Dichte beschreiben. </div> <div style="margin-top: 2em;"></div> Für die 📖🖋️**nicht-digitale Variante**📖🖋️: 🙋 Die Klasse fasst auch hier nochmal zusammen, wie sie Dichte beschreiben.  
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Für die 📱**digitale Variante**: Die Lehrkraft öffnet den [Link](für das kollaborative Whiteboard).  🙋 Die Klasse fasst nochmal zusammen, wie sie Dichte beschreiben. </div> <div style="margin-top: 2em;"></div> Für die 📖🖋️**nicht-digitale Variante**: 🙋 Die Klasse fasst auch hier nochmal zusammen, wie sie Dichte beschreiben.  
 
 <div style="margin-top: 2em;"></div>
 
