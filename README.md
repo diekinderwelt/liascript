@@ -61,7 +61,11 @@ details[open] > *:not(summary) {
 
 <div style="margin-top: 2em;"></div> 
 
-> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Die nächsten fünf Minuten benötigt ihr, um euch vorzubereiten. Danach werdet ihr Simon in einem ersten Video kennenlernen.
+> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Nachdem ihr die folgenden Hinweise gelesen habt und euch alles besorgt habt, was ihr braucht, werdet ihr Simon in einem ersten Video kennenlernen.
+
+<div style="margin-top: 4em;"></div> 
+
+> ⏰ (5 Min.) Lest die folgenden Hinweise und bereitet euch auf den Unterricht vor. 
 
 <div style="margin-top: 4em;"></div> 
 
@@ -71,7 +75,7 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 <div style="margin-top: 2em;"></div> 
 - [ ] 📝 Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
 <div style="margin-top: 2em;"></div> 
-- [ ] Sobald ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. (QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt) 
+- [ ] 📷 Sobald ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. (QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt) 
 
 <div style="margin-top: 2em;"></div> 
 
@@ -80,13 +84,14 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 
 <div style="margin-top: 2em;"></div> 
 
-> Wenn ihr dann auf dem Tablet **an dieser Stelle** angekommen seid, navigiert euch weiter bis zu Hinweis _"ENDE DER HINWEISE"_ und lest bis dahin eigenständig die Hinweise durch. Wenn ihr Fragen haben solltet, meldet euch.
+> Navigiert euch von hier aus weiter, bis euch _"ENDE DER HINWEISE"_ begegnet. Wenn ihr Fragen haben solltet, meldet euch.
 
 
 ## Hinweise 
-⏰ (5 Min.) für das Lesen der Hinweise in Einzelarbeit
 
-> Zuerst einmal schauen wir uns an, was in den nächsten Unterrichtsstunden anders ist: 
+📖 Das folgt in den nächsten sechs Physik-Stunden:
+
+<div style="margin-top: 2em;"></div> 
 
 - Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite. <div style="margin-top: 2em;"></div> 
 - 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen. <div style="margin-top: 2em;"></div> 
@@ -96,13 +101,21 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 
 ###  ... Fortsetzung Hinweise
 
-> Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben: 
+📖Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben: 
 
-<div style="margin-top: 1em;"></div>  
+<div style="margin-top: 2em;"></div>  
 
-<span style="font-size:2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
+> <span style="font-size:2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
 
-<span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben.  <div style="margin-top:2em;"></div> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+<div style="margin-top: 2em;"></div>
+
+> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben.  <div style="margin-top:2em;"></div>
+<div style="margin-top: 2em;"></div>
+
+> < span <style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+ <div style="margin-top:2em;"></div>
+
+> <span style="font-size: 2em;">>📖</span> Hier lest ihr den Text eigenständig. 
 
 <div style="margin-top: 2em;"></div> 
 
