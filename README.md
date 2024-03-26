@@ -63,6 +63,14 @@ details[open] > *:not(summary) {
 
 > 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Nachdem ihr die folgenden Hinweise gelesen habt und euch alles besorgt habt, was ihr braucht, werdet ihr Simon in einem ersten Video kennenlernen.
 
+<div style="margin-top: 2em;"></div>
+
+<iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
+
+
+
+## Einführung Hinweise
+
 <div style="margin-top: 2em;"></div> 
 
 > ⏰ (5 Min.) Lest nun die folgenden Hinweise und bereitet euch auf den Unterricht vor. 
@@ -87,7 +95,7 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 > ❗ Navigiert euch von hier aus weiter, bis euch _"ENDE DER HINWEISE"_ begegnet. <div style="margin-top: 2em;"></div> Wenn ihr Fragen haben solltet, meldet euch.
 
 
-## Hinweise 
+## ... Fortsetzung Hinweise 
 
 <div style="margin-top: 3em;"></div> 
 
