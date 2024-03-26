@@ -4,7 +4,7 @@
 
 author:   Simon Steffens
 email:    
-icon:     https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png
+icon:     
 version:  0.0.1
 language: de
 narrator: Deutsch Male
