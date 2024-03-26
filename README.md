@@ -172,10 +172,8 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 5 Min.) Aufgabe 1a:**
-
-<div style="margin-top: 2em;"></div>
-
+>> **(⏰ 5 Min.) Aufgabe 1a: Paararbeit**
+<div style="margin-top: 2em;"></div> 
 > 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
 <div style="margin-top: 2em;"></div> 
@@ -197,7 +195,7 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 <div style="margin-top: 2em;"></div> 
 
-> **(⏰ 5 Min.) Auswertung zur Aufgabe 1a** im Plenum: <div style="margin-top: 4em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit. <div style="margin-top: 2em;"></div>
+> **(⏰ 5 Min.) Auswertung zur Aufgabe 1a im Plenum:** <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit. <div style="margin-top: 2em;"></div>
 
 Wir glauben, die folgende Antwort ist richtig, weil... 
 
