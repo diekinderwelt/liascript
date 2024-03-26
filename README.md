@@ -166,17 +166,17 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 ---
 <div style="margin-top: 3em;"></div> 
 
-<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis für die Lehrkraft: Das Video sollte im Großformat gezeigt werden. Wenn während des Videos ein Fragezeichen kommt, stoppen Sie kurz und lassen Sie die gestellte Frage im Plenum max. 2 Minuten beantworten. Nach Ende des Videos klicken Sie eine Seite weiter - es folgt eine Fragestellung.</span>
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Das Video sollte im Großformat gezeigt werden. Wenn während des Videos ein Fragezeichen kommt, stoppen Sie kurz und lassen Sie die gestellte Frage im Plenum max. 2 Minuten beantworten. Nach Ende des Videos klicken Sie eine Seite weiter - es folgt eine Fragestellung.</span>
 
 ### Aufgabenstellung zum Video 1 - Teil 1
 
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 5 Min.) Aufgabe 1a: Paararbeit**
+>> **(⏰ 3 Min.) Aufgabe 1a: Paararbeit**
 <div style="margin-top: 2em;"></div> 
-> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
-<div style="margin-top: 2em;"></div> 
+<div style="margin-top: 4em;"></div> 
 
 
 <span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
@@ -199,11 +199,9 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 <div style="margin-top: 2em;"></div> 
 
-> Aufgabenbeschreibung: 🙋 Teilt eure Vermutungen der Klasse mit. <div style="margin-top: 2em;"></div> 
-Wir glauben, die folgende Antwort ist richtig, weil... 
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit. <div style="margin-top: 2em;"></div> Wir glauben, die folgende Antwort ist richtig, weil... 
 
-
-<div style="margin-top: 2em;"></div>
+<div style="margin-top: 4em;"></div>
 ---
 
 <div style="margin-top: 2em;"></div>
@@ -214,9 +212,15 @@ Für die Auflösung geht es auf der nächsten Seite weiter...
 ### Auflösung Teil 1 und ein zweites Experiment...
 <div style="margin-top: 2em;"></div> 
 
-Hier seht ihr die Aufösung...
+Hier seht ihr die Aufösung und eine neue Frage...
 
 !?[Video 1 - Teil 2: Auflösung Teil I und ein zweites Experiment im Schwimmbad](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
+
+<div style="margin-top: 3em;"></div> 
+---
+<div style="margin-top: 3em;"></div> 
+
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Das Video sollte im Großformat gezeigt werden. Nach Ende des Videos klicken Sie eine Seite weiter - es folgt wieder eine Fragestellung.</span>
 
 
 ### Aufgabenstellung zum Video 1 - Teil 2
@@ -226,9 +230,9 @@ Hier seht ihr die Aufösung...
 
 <div style="margin-top: 2em;"></div> 
 
-> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
-<div style="margin-top: 2em;"></div> 
+<div style="margin-top: 4em;"></div> 
 
 ❓ Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
 
@@ -236,7 +240,7 @@ Hier seht ihr die Aufösung...
 - [ ] b) gestreckt, weil...
 - [ ] c) egal, weil...
 
-<div style="margin-top: 2em;"></div> 
+<div style="margin-top: 4em;"></div> 
 
 ❓ Welche Körperposition muss ich einnehmen, damit ich untergehe? 
 
@@ -244,8 +248,10 @@ Hier seht ihr die Aufösung...
 - [ ] b) gestreckt, weil...
 - [ ] c) egal, weil...
 
+<div style="margin-top: 4em;"></div> 
 
-<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **An die Lernbegleitung:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
+---
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
 </span>
 
 
@@ -254,9 +260,9 @@ Hier seht ihr die Aufösung...
 
 >> **(⏰ 5 Min.) Auswertung zur Aufgabe 1b im Plenum:**
 
- div style="margin-top: 2em;"></div> 
+<div style="margin-top: 2em;"></div> 
  
- > Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
@@ -267,7 +273,11 @@ Hier seht ihr die Aufösung...
 
 !?[Video 1 - Teil 3: Auflösung Teil 2](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
 
+<div style="margin-top: 4em;"></div> 
+---
 
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
+</span>
 
 ## 1.2 Einstiegsfragen
 <div style="margin-top: 2em;"></div> 
@@ -293,27 +303,35 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 7 Minuten wiede
 
 
 ---
-<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lernbegleitung:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </div> 
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </span> 
 
 
 
 
 ### Auswertung zu den Einstiegsfragen 
+<div style="margin-top: 2em;"></div>
 
 >> **(⏰ 5 Min.) Auswertung der Einstiegsfragen im Plenum**
 
 <div style="margin-top: 2em;"></div>
 
-> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:  <div style="margin-top: 2em;"></div>
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:
+
+<div style="margin-top: 2em;"></div>
+
 1. Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
 2. Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
 3. Warum schwimmt das eine, aber nicht das andere? Versucht, das mit eigenen Worten zu beschreiben.
 
-> Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Seite und lest dann die Zusammenfassung und schließt mit der dazugehörigen Einzelarbeit ab. 
+<div style="margin-top: 4em;"></div>
+
+---
+Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Seite und lest dann die Zusammenfassung und schließt mit der dazugehörigen Einzelarbeit ab. 
 
 
 
 ## 1.3 Worum geht es?
+<div style="margin-top: 2em;"></div>
 
 >> ## 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
@@ -323,15 +341,21 @@ Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 7 Minuten wiede
 
 <div style="margin-top: 2em;"></div> 
 
-> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> Beschreibe den Begriff Dichte in Einzelarbeit in maximal drei Sätzen - nutze dafür dein Blatt Papier.
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Beschreibe den Begriff Dichte in Einzelarbeit in maximal drei Sätzen - nutze dafür dein Blatt Papier.
 
+<div style="margin-top: 2em;"></div> 
 ---
+<div style="margin-top: 2em;"></div> 
 
 Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite.. 
 
-<div style="color: darkgreen; background-colour: lightblue;"> 🗝️ **An die Lehrkraft - Hinweis 1:** Für eine 📱**digitale Variante**📱 lassen Sie die SuS diesen[Link](Link für kollaboratives Whiteboard) öffnen, um den Begriff Dichte in drei Sätzen zu beschreiben. 
-
 <div style="margin-top: 2em;"></div> 
+---
+<div style="margin-top: 2em;"></div> 
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Für eine 📱**digitale Variante**📱 lassen Sie die SuS diesen[Link](Link für kollaboratives Whiteboard) öffnen, um den Begriff Dichte in drei Sätzen zu beschreiben. </span> 
+
+
 
 ### Auswertung Begriff Dichte
 
@@ -341,10 +365,13 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 
 <div style="margin-top: 2em;"></div>
 
-> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> Für die 📱**digitale Variante**📱: Die Lehrkraft öffnet den [Link](für das kollaborative Whiteboard).  🙋 Die Klasse fasst nochmal zusammen, wie sie Dichte beschreiben. </div> <div style="margin-top: 2em;"></div> Für die 📖🖋️**nicht-digitale Variante**📖🖋️: 🙋 Die Klasse fasst auch hier nochmal zusammen, wie sie Dichte beschreiben.  
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Für die 📱**digitale Variante**📱: Die Lehrkraft öffnet den [Link](für das kollaborative Whiteboard).  🙋 Die Klasse fasst nochmal zusammen, wie sie Dichte beschreiben. </div> <div style="margin-top: 2em;"></div> Für die 📖🖋️**nicht-digitale Variante**📖🖋️: 🙋 Die Klasse fasst auch hier nochmal zusammen, wie sie Dichte beschreiben.  
 
+<div style="margin-top: 2em;"></div>
+---
+<div style="margin-top: 2em;"></div>
 
-
+>> An dieser Stelle endet die erste Unterrichtsstunde. 
 
 
 # 2. Unterrichtsstunde - Wissen erweitern und anwenden 📚
@@ -352,22 +379,32 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 <iframe src="https://giphy.com/embed/tHufwMDTUi20E" width="100%" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/school-back-guinea-tHufwMDTUi20E">via GIPHY</a></p>
 
 ## 2.1 Was ist Dichte?
+<div style="margin-top: 2em;"></div> 
 
 Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berechnet, zeigt euch Simon im folgenden Video.
 
 >> 📝 **Aufgabe 2a:** Schreibt euch die wichtigsten Informationen aus dem folgenden Video auf. 
 
-[Link zum Video - Definition Dichte](https://example.com)
+!?[Was ist Dichte?](https://cloud.die-kinderwelt.com/s/MadwJJs4iNNKA3n/download)
 
+<div style="margin-top: 2em;"></div> 
+Nach Ende des Videos klickt weiter zur nächsten Seite. Ihr werdet euch in eurem eigenen Tempo durch die nächsten drei Seiten klicken. 
+
+---
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Die SuS werden sich eigenständig und im eigenen Tempo durch die nächsten drei Seiten klicken. Haben Sie im Blick, ob einzelne SuS Hilfestellungen benötigen. </span> 
+--- 
 
 
 ### Zusammenfassung Dichte 
+<div style="margin-top: 2em;"></div> 
 
 📖 Lest den folgenden Text. 
 
->> 💡 Die Dichte ist also definiert als <div style="margin-top:1em;"></div> rho= m / V <div style="margin-top:1em;"></div> Sie beschreibt, wie viel Masse in einem bestimmten Volumen vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, wie dicht diese kleinsten Teilchen zusammengedrängt sind. <div style="margin-top:1em;"></div>
+>> 💡 Die Dichte ist also definiert als: <div style="margin-top:1em;"></div> **rho= m / V** <div style="margin-top:1em;"></div> Sie beschreibt, **wie viel Masse in einem bestimmten Volumen** vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, **wie dicht diese kleinsten Teilchen zusammengedrängt sind**. <div style="margin-top:1em;"></div>
 
-❓ Habt ihr noch Fragen? Schreibt euch eure Fragen auf. Eure Lehrkraft wird diese später sammeln, falls sie nicht in der Zwischenzeit aufgelöst worden sind. 
+<div style="margin-top: 2em;"></div> 
+
+❓ Habt ihr noch Fragen? Schreibt euch eure Fragen auf euer Blatt Papier auf. Eure Lehrkraft wird diese später sammeln, falls sie nicht in der Zwischenzeit aufgelöst worden sind. 
 
 
 
@@ -375,12 +412,22 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 ## 2.2 Einheiten der Dichte umrechnen
 
+<div style="margin-top: 2em;"></div> 
+
+📖 Lest den folgenden Text. 
+
 >>> 💡 Je nachdem, wie groß die Masse und das Volumen eines Gegenstandes sind, kommen unterschiedliche Einheiten zum Einsatz. Es wäre ja nicht sinnvoll, das Volumen eines U-Boots in mm³ anzugeben oder die Masse eines Golfballs in Tonnen. Wenn du die Einheiten der Dichte umrechnen musst, gilt Folgendes: <div style="margin-top:1em;"></div> Umrechnung der Masse-Einheiten:  1t = 1000kg, 1kg = 1000g, 1g = 1000mg <div style="margin-top:1em;"></div> Umrechnung der Volumen-Einheiten: 1L = 1000ml, 1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³ <div style="margin-top:1em;"></div> 1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml <div style="margin-top:1em;"></div> Umrechnung der Dichte-Einheiten: 1 g/cm³ = 1 g/ml = 1 kg/L
+
+<div style="margin-top: 2em;"></div> 
+
 
 > 📝 Du kannst dir dies für die gleich kommende Aufgabe auf deinen Zettel schreiben. 
 
 >> **Beispiele:**  <div style="margin-top: 1em;"></div> Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³ <div style="margin-top: 1em;"></div> Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
 
+---
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Fragen Sie die SuS, ob alles verstanden wurde. Sollten Fragen entstehen, die Sie nicht beantworten können, sammeln Sie diese für Simon. </span> 
+--- 
 
 
 ### EINZELARBEIT: Dichte berechnen
