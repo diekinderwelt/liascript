@@ -154,9 +154,17 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 ## 1.1 Einstieg in das Thema - ein erstes Experiment...
 
->> ❗ ACHTUNG: Nur eure Lehrkraft öffnet das Video vorne am Smartboard. 
+<div style="margin-top: 2em;"></div> 
+
+>> ❗ ACHTUNG: Alle noch kommenden Videos werden nur von der Lehrkraft vorne am Smartboard geöffnet und gezeigt. 
+
+<div style="margin-top: 2em;"></div> 
 
 !?[Video 1 - Teil 1: Begrüßung & Ballons im Auto](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download)
+
+<div style="margin-top: 3em;"></div> 
+---
+<div style="margin-top: 3em;"></div> 
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis für die Lehrkraft: Das Video sollte im Großformat gezeigt werden. Wenn während des Videos ein Fragezeichen kommt, stoppen Sie kurz und lassen Sie die gestellte Frage im Plenum max. 2 Minuten beantworten. Nach Ende des Videos klicken Sie eine Seite weiter - es folgt eine Fragestellung.</span>
 
@@ -164,12 +172,14 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 <div style="margin-top: 2em;"></div> 
 
->> **Aufgabe 1a (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+>> **(⏰ 5 Min.) Aufgabe 1a:** <div style="margin-top: 4em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
 <div style="margin-top: 2em;"></div> 
 
 
 <span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
+
+<div style="margin-top: 2em;"></div> 
 
 - [ ] a) beide Ballons gehen nach vorne, weil...
 - [ ] b) beide Ballons gehen nach hinten, weil...
@@ -181,17 +191,22 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 ### Vermutungen zur Lösung
 
-**Auswertung zur Aufgabe 1a** im Plenum (⏰ 5 Min.)
+<div style="margin-top: 2em;"></div> 
 
-> <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit: <div style="margin-top: 2em;"></div> Wir glauben, die folgende Antwort ist richtig, weil... 
+> **(⏰ 5 Min.) Auswertung zur Aufgabe 1a** im Plenum: <div style="margin-top: 4em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit. <div style="margin-top: 2em;"></div>
 
+Wir glauben, die folgende Antwort ist richtig, weil... 
 
 <div style="margin-top: 2em;"></div>
-Für die Lösung geht es auf der nächsten Seite weiter... 
+---
+
+<div style="margin-top: 2em;"></div>
+Für die Auflösung geht es auf der nächsten Seite weiter... 
 
 
 
 ### Auflösung Teil 1 und ein zweites Experiment...
+<div style="margin-top: 2em;"></div> 
 
 Hier seht ihr die Aufösung...
 
@@ -199,10 +214,9 @@ Hier seht ihr die Aufösung...
 
 
 ### Aufgabenstellung zum Video 1 - Teil 2
+<div style="margin-top: 2em;"></div> 
 
-**Aufgabe 1b (⏰ 5 Min.):** <div style="margin-top: 2em;"></div> 
-
-> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+> **(⏰ 5 Min.) Aufgabe 1b:** <div style="margin-top: 4em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
 <div style="margin-top: 2em;"></div> 
 
@@ -226,28 +240,27 @@ Hier seht ihr die Aufösung...
 
 
 ### Vermutungen zur Lösung
+<div style="margin-top: 2em;"></div> 
 
-**Auswertung zur Aufgabe 1b** im Plenum (⏰ 5 Min.) <div style="margin-top: 2em;"></div>
-
-> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+> **(⏰ 5 Min.) Auswertung zur Aufgabe 1b** im Plenum: <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
 ### Auflösung Teil 2
+<div style="margin-top: 2em;"></div> 
 
 Hier seht ihr die Aufösung...
 
->> !?[Video 1 - Teil 3: Auflösung Teil 2](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
+!?[Video 1 - Teil 3: Auflösung Teil 2](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
 
 
 
 ## 1.2 Einstiegsfragen
+<div style="margin-top: 2em;"></div> 
 
 Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum Einstieg in das Thema starten wir mal mit der folgenden Aufgabe:
 
-**Aufgabe 1c (⏰ 7 Min.):** <div style="margin-top: 2em;"></div> 
-
-> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 1em;"></div> 2. Benutzt dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
+> **Aufgabe 1c (⏰ 7 Min.):** <div style="margin-top: 4em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 2em;"></div> 2. Benutzt dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
 
 - Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
 - Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
