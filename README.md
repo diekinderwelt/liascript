@@ -727,19 +727,21 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 
 > ❗ Lest euch auch die folgenden Hinweise genau durch bevor ihr loslegt:
 
-•	Nehmt euch pro Gruppe immer **nur einen Gegenstand zu eurem Tisch** und bringt ihn zurück, wenn ihr mit ihm fertig seid. 
-•	Das **Volumen der Holzformen** solltet ihr mit dem **Geodreieck** bestimmen. Dass die Ecken abgerundet sind, könnt ihr vernachlässigen. Messt von einer Fläche zur gegenüberliegenden Fläche. Volumen eines Quaders: Breite x Länge x Höhe. Volumen eines Zylinders: (1/2 x Durchmesser)^2 x π x Höhe
-•	Das Volumen der **anderen Gegenstände** solltet ihr mit der **Verdrängungsmethode** bestimmen. Die kleinen Gegenstände messt ihr mit eurem kleinen Messbecher (250ml). Beim Stein und den 3 Stößeln müsst ihr euch die ganz großen Messbecher (2000ml) von vorn nehmen. Wenn ihr den großen Messbecher nicht mehr braucht, bringt ihn wieder nach vorn, damit andere Gruppen ihn auch nutzen können.
-•	**Füllt den Messbecher** bis zu einer für den Gegenstand geeigneten Höhe. Überprüft immer mal wieder den Füllstand eures kleinen Messbechers. Durch das Herausnehmen von Gegenständen, geht immer auch etwas Wasser aus dem Becher heraus. 
-•	Bei **kleinen Gegenständen** ist es hilfreich, nicht nur einen zu messen sondern **mehrere** zu nehmen, z.B. 50 Muttern oder 20 Würfel. Dann wird die Messung genauer. Tragt dann in der Spalte „Menge“ ein, wie viele ihr gemessen habt.
-•	Wiegt die Gegenstände möglichst **trocken**, da das Gewicht des Wassers die Messung verfälscht.
+- Nehmt euch pro Gruppe immer **nur einen Gegenstand zu eurem Tisch** und bringt ihn zurück, wenn ihr mit ihm fertig seid. <div style="margin-top: 2em;"></div>
+- Das **Volumen der Holzformen** solltet ihr mit dem **Geodreieck** bestimmen. Dass die Ecken abgerundet sind, könnt ihr vernachlässigen. Messt von einer Fläche zur gegenüberliegenden Fläche. Volumen eines Quaders: Breite x Länge x Höhe. Volumen eines Zylinders: (1/2 x Durchmesser)^2 x π x Höhe <div style="margin-top: 2em;"></div>
+- Das Volumen der **anderen Gegenstände** solltet ihr mit der **Verdrängungsmethode** bestimmen. Die kleinen Gegenstände messt ihr mit eurem kleinen Messbecher (250ml). Beim Stein und den 3 Stößeln müsst ihr euch die ganz großen Messbecher (2000ml) von vorn nehmen. Wenn ihr den großen Messbecher nicht mehr braucht, bringt ihn wieder nach vorn, damit andere Gruppen ihn auch nutzen können. <div style="margin-top: 2em;"></div>
+- **Füllt den Messbecher** bis zu einer für den Gegenstand geeigneten Höhe. Überprüft immer mal wieder den Füllstand eures kleinen Messbechers. Durch das Herausnehmen von Gegenständen, geht immer auch etwas Wasser aus dem Becher heraus. <div style="margin-top: 2em;"></div>
+- Bei **kleinen Gegenständen** ist es hilfreich, nicht nur einen zu messen sondern **mehrere** zu nehmen, z.B. 50 Muttern oder 20 Würfel. Dann wird die Messung genauer. Tragt dann in der Spalte „Menge“ ein, wie viele ihr gemessen habt. <div style="margin-top: 2em;"></div>
+- Wiegt die Gegenstände möglichst **trocken**, da das Gewicht des Wassers die Messung verfälscht.
 
+
+Schreibt euch die Tabelle wie folgt auf euer Blatt Papier: 
 
 
 | Gegenstand | Material | Buchstabe | Menge | Masse in g | Volumen in ml bzw. cm³ | Dichte in g/cm³ bzw. g/ml |
 |----------|----------|----------|----------|----------|----------||----------||----------|
-| Inhalt 1 | Inhalt 2 | Inhalt 3 | Inhalt 1 | Inhalt 2 | Inhalt 3 |
-| Inhalt 4 | Inhalt 5 | Inhalt 6 | Inhalt 1 | Inhalt 2 | Inhalt 3 |
+| Muttern | Metall | Inhalt 3 | Inhalt 4| Inhalt 5 | Inhalt 6 | Inhalt 6 | Inhalt 6 |
+| Würfel | Kunststoff | Inhalt 6 | Inhalt 1 | Inhalt 2 | Inhalt 3 |
 
 
 ??Hierzu ggf. hilfreich, ein kurzes allgemeines Video zu erstellen?? 
