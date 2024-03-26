@@ -91,14 +91,21 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 
 <div style="margin-top: 3em;"></div> 
 
-📖 Das folgt in den nächsten sechs Physik-Stunden:
+📖 **Das ist wichtig, damit der Unterricht in den nächsten sechs Physik-Stunden für alle gut ablaufen kann:** <div style="margin-top: 2em;"></div> 
 
-<div style="margin-top: 2em;"></div> 
+- Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite. <div style="margin-top: 2em;"></div>
+- Euch werden immer wieder Lernvideos begegnen. Diese öffnet NUR EURE LEHRKRAFT vorne am Smartboard. <div style="margin-top: 2em;"></div>
+- Schreibt euch die Aufgabennummerierung immer mit auf, wenn ihr auf eurem Zettel eine Aufgabe bearbeitet.
+- ...
 
-- Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite. <div style="margin-top: 2em;"></div> 
+<div style="margin-top: 4em;"></div> 
+
+📖 **Das folgt in den nächsten sechs Physik-Stunden:** <div style="margin-top: 2em;"></div> 
+
 - 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen. <div style="margin-top: 2em;"></div> 
 - 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren / Ausprobieren zu begreifen. <div style="margin-top: 2em;"></div> 
-- 🌱🧠 In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren. <div style="margin-top: 2em;"></div> 
+- 🌱🧠 In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren. <div style="margin-top: 2em;"></div>
+
  
 
 ###  ... Fortsetzung Hinweise
@@ -125,6 +132,15 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 
 <div style="margin-top: 2em;"></div> 
 
+>> <span style="font-size: 2em;">🤔</span> Hier werden euch Fragen gestellt, über die ihr entweder alleine oder zu Zweit / in der Gruppe nachdenkt. 
+
+<div style="margin-top: 2em;"></div> 
+
+>> <span style="font-size: 2em;">💬</span> Hier findet eine Paar- oder Gruppenarbeit statt.
+
+<div style="margin-top: 2em;"></div> 
+
+
 ---
 
 Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedacht:
@@ -137,10 +153,6 @@ _**ENDE DER HINWEISE**_
 <div style="margin-top: 2em;"></div> 
 
 ---
-<div style="margin-top: 2em;"></div> 
-
-Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) Hinweise geben, was ihr bis jetzt an der Einführung im Unterricht schon gut fandet und was weniger. Das hilft uns, die Unterrichtsreihen weiter zu verbessern. 
-
 
 
 
@@ -172,7 +184,7 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 3 Min.) Aufgabe 1a: Paararbeit**
+>> **(⏰ 3 Min.) Aufgabe 1a: Paararbeit 💬**
 <div style="margin-top: 2em;"></div> 
 > _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
@@ -189,6 +201,14 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 - [ ] d) Der Luft-Ballon geht vor /  der Helium-Ballon geht zurück
 - [ ] e) Beide Ballons bleiben aufrecht
 
+<div style="margin-top: 4em;"></div> 
+
+---
+
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis an die Lehrkraft:** Halten Sie die Zeit im Blick und gehen Sie dann zur nächsten Seite, um zur Auswertung im Plenum zu gelangen.</span>
+
+---
+
 
 
 ### Vermutungen zur Lösung
@@ -199,12 +219,11 @@ Solltet ihr bereits vor den anderen fertig sein, könnt ihr uns [hier](www...) H
 
 <div style="margin-top: 2em;"></div> 
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit. <div style="margin-top: 2em;"></div> Wir glauben, die folgende Antwort ist richtig, weil... 
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit. <div style="margin-top: 2em;"></div> ... Wir glauben, die folgende Antwort ist richtig, weil... 
 
 <div style="margin-top: 4em;"></div>
----
 
-<div style="margin-top: 2em;"></div>
+---
 Für die Auflösung geht es auf der nächsten Seite weiter... 
 
 
@@ -212,7 +231,7 @@ Für die Auflösung geht es auf der nächsten Seite weiter...
 ### Auflösung Teil 1 und ein zweites Experiment...
 <div style="margin-top: 2em;"></div> 
 
-Hier seht ihr die Aufösung und eine neue Frage...
+Hier seht ihr die Aufösung und es folgt eine neue Frage...
 
 !?[Video 1 - Teil 2: Auflösung Teil I und ein zweites Experiment im Schwimmbad](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
 
@@ -226,11 +245,11 @@ Hier seht ihr die Aufösung und eine neue Frage...
 ### Aufgabenstellung zum Video 1 - Teil 2
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 5 Min.) Aufgabe 1b: Paararbeit**
+>> **(⏰ 5 Min.) Aufgabe 1b: Paararbeit 💬**
 
 <div style="margin-top: 2em;"></div> 
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? >> <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
 <div style="margin-top: 4em;"></div> 
 
@@ -262,7 +281,7 @@ Hier seht ihr die Aufösung und eine neue Frage...
 
 <div style="margin-top: 2em;"></div> 
  
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: Was denkt ihr, ist die richtige Antwort? Und warum? Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: <div style="margin-top: 2em;"></div>  Was denkt ihr, ist die richtige Antwort? Und warum? <div style="margin-top: 2em;"></div> Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
 
 
 
@@ -279,12 +298,13 @@ Hier seht ihr die Aufösung...
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
 </span>
 
+
 ## 1.2 Einstiegsfragen
 <div style="margin-top: 2em;"></div> 
 
 Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum Einstieg in das Thema starten wir mal mit der folgenden Aufgabe:
 
->> **Aufgabe 1c (⏰ 7 Min.): Paararbeit**
+>> **(⏰ 7 Min.) Aufgabe 1c: Paararbeit 💬**
 
 <div style="margin-top: 2em;"></div>
 
@@ -334,11 +354,21 @@ Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Se
 <div style="margin-top: 2em;"></div>
 
 
->>> 📖 Zusammenfassung: Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
+>>> 📖 **Zusammenfassung:** Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
 
- <div style="margin-top: 4em;"></div> 
 
->> **(⏰ 4 Min.) Aufgabe 1d: Einzelarbeit**
+ 
+
+ ### OPTIONAL: Beschreibung des Begriffs Dichte 
+ <div style="margin-top: 2em;"></div>
+
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis an die Lehrkraft:** Diese Aufgabe können Sie einbinden, wenn zu dem jetztigen Zeitpunkt noch mehr als 10 Minuten Zeit übrig sind. Ansonsten endet die erste Unterrichtsstunde an dieser Stelle und Sie können direkt zu 2. Unterrichtsstunde weiterspringen. </span> 
+
+
+
+ <div style="margin-top: 2em;"></div>
+ 
+>> **(⏰ 4 Min.) Aufgabe 1d: Einzelarbeit 📝**
 
 <div style="margin-top: 2em;"></div> 
 
@@ -362,7 +392,7 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 
 
 
-### Auswertung Begriff Dichte
+### OPTIONAL: Auswertung zur Beschreibung des Begriffs Dichte 
 
 <div style="margin-top: 2em;"></div> 
 
@@ -378,7 +408,6 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 
 <div style="margin-top: 2em;"></div>
 
->> An dieser Stelle endet die erste Unterrichtsstunde. 
 
 
 # 2. Unterrichtsstunde - Wissen erweitern und anwenden 📚
@@ -390,12 +419,14 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 
 Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berechnet, zeigt euch Simon im folgenden Video.
 
+<div style="margin-top: 2em;"></div> 
+
 >> 📝 **Aufgabe 2a:** Schreibt euch bei Bedarf die wichtigsten Informationen aus dem folgenden Video auf. 
 
 !?[Was ist Dichte?](https://cloud.die-kinderwelt.com/s/MadwJJs4iNNKA3n/download)
 
 <div style="margin-top: 2em;"></div> 
-Nach Ende des Videos klickt weiter zur nächsten Seite. Ihr werdet euch in eurem eigenen Tempo durch die nächsten drei Seiten klicken. 
+❗ Nach Ende des Videos klickt weiter zur nächsten Seite. Ihr werdet euch in eurem eigenen Tempo durch die nächsten drei Seiten klicken. 
 
 ---
 
@@ -407,7 +438,9 @@ Nach Ende des Videos klickt weiter zur nächsten Seite. Ihr werdet euch in eurem
 ### Zusammenfassung Dichte 
 <div style="margin-top: 2em;"></div> 
 
-📖 Lest den folgenden Text in Einzelarbeit (⏰ 3 Min.).
+>> **(⏰ 10 Min.für die nächsten Seiten (18-20)) Auswertung der Ergebnisse zum Begriff Dichte im Plenum**
+
+📖 Lest den folgenden Text in Einzelarbeit.
 
 >>> 💡 Die Dichte ist also definiert als: <div style="margin-top:1em;"></div> **rho= m / V** <div style="margin-top:1em;"></div> Sie beschreibt, **wie viel Masse in einem bestimmten Volumen** vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, **wie dicht diese kleinsten Teilchen zusammengedrängt sind**. <div style="margin-top:1em;"></div>
 
@@ -423,7 +456,7 @@ Nach Ende des Videos klickt weiter zur nächsten Seite. Ihr werdet euch in eurem
 
 <div style="margin-top: 2em;"></div> 
 
-📖 Lest den folgenden Text in Einzelarbeit (⏰ 3 Min.).
+📖 Lest den folgenden Text in Einzelarbeit.
 
 >>> 💡 Je nachdem, wie groß die Masse und das Volumen eines Gegenstandes sind, kommen unterschiedliche Einheiten zum Einsatz. Es wäre ja nicht sinnvoll, das Volumen eines U-Boots in mm³ anzugeben oder die Masse eines Golfballs in Tonnen. Wenn du die Einheiten der Dichte umrechnen musst, gilt Folgendes: <div style="margin-top:1em;"></div> Umrechnung der Masse-Einheiten:  1t = 1000kg, 1kg = 1000g, 1g = 1000mg <div style="margin-top:1em;"></div> Umrechnung der Volumen-Einheiten: 1L = 1000ml, 1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³ <div style="margin-top:1em;"></div> 1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml <div style="margin-top:1em;"></div> Umrechnung der Dichte-Einheiten: 1 g/cm³ = 1 g/ml = 1 kg/L
 
