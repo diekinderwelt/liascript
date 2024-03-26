@@ -740,16 +740,16 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier:
 
 | Gegenstand | Material | Buchstabe | Menge | Masse in g | Volumen in ml bzw. cm³ | Dichte in g/cm³ bzw. g/ml |
 |----------|----------|----------|----------|----------|----------||----------||----------|
-| Muttern | Metall | Inhalt 3 | Inhalt 4| Inhalt 5 | Inhalt 6 | Inhalt 6 | Inhalt 6 |
-| Würfel | Kunststoff | Inhalt 6 | Inhalt 1 | Inhalt 2 | Inhalt 3 |
+| Muttern | Metall | S |  |  |  |   |   |
+| Würfel | Kunststoff | I |   |  |  |
 | Stein	| Stein	| D |||||
-Quader lila	| Holz	| H|||||
-Zylinder blau | Holz | R||||
-Würfel grün	|Holz | C||||
-Quader braun |Holz | M||||
-Stößel	|Keramik |E||||
-Murmeln	|Glas |E||||
-Geschlossenes Schraubglas mit Luft darin| Glas+Metall+Luft|A||||
+|Quader lila	| Holz	| H|||||
+|Zylinder blau | Holz | R||||
+|Würfel grün	|Holz | C||||
+|Quader braun |Holz | M||||
+|Stößel	|Keramik |E||||
+|Murmeln	|Glas |E||||
+|Geschlossenes Schraubglas mit Luft darin| Glas+Metall+Luft|A||||
 
 	A
 
