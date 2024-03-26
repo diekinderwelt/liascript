@@ -66,6 +66,7 @@ details[open] > *:not(summary) {
 <div style="margin-top: 4em;"></div> 
 
 Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div> 
+
 - [ ] 📱 Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
 <div style="margin-top: 2em;"></div> 
 - [ ] 📝 Zettel, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten hineinschreiben könnt. 
