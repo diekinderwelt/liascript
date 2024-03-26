@@ -63,11 +63,11 @@ details[open] > *:not(summary) {
 
 > 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Nachdem ihr die folgenden Hinweise gelesen habt und euch alles besorgt habt, was ihr braucht, werdet ihr Simon in einem ersten Video kennenlernen.
 
-<div style="margin-top: 4em;"></div> 
+<div style="margin-top: 2em;"></div> 
 
-> ⏰ (5 Min.) Lest die folgenden Hinweise und bereitet euch auf den Unterricht vor. 
+> ⏰ (5 Min.) Lest nun die folgenden Hinweise und bereitet euch auf den Unterricht vor. 
 
-<div style="margin-top: 4em;"></div> 
+<div style="margin-top: 2em;"></div> 
 
 Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div> 
 
@@ -84,10 +84,12 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 
 <div style="margin-top: 2em;"></div> 
 
-> Navigiert euch von hier aus weiter, bis euch _"ENDE DER HINWEISE"_ begegnet. Wenn ihr Fragen haben solltet, meldet euch.
+> ❗ Navigiert euch von hier aus weiter, bis euch _"ENDE DER HINWEISE"_ begegnet. <div style="margin-top: 2em;"></div> Wenn ihr Fragen haben solltet, meldet euch.
 
 
 ## Hinweise 
+
+<div style="margin-top: 3em;"></div> 
 
 📖 Das folgt in den nächsten sechs Physik-Stunden:
 
@@ -95,37 +97,44 @@ Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div>
 
 - Eure begleitende Lehrkraft führt euch durch die nächsten 6 Physikstunden und steht euch unterstützend zur Seite. <div style="margin-top: 2em;"></div> 
 - 🔍📚 In den ersten beiden Stunden geht es darum, das Thema kennenzulernen. <div style="margin-top: 2em;"></div> 
-- 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren zu vertiefen. <div style="margin-top: 2em;"></div> 
-- In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren. <div style="margin-top: 2em;"></div> 
+- 🧪 In den nächsten beiden Stunden geht es darum, das Thema über Experimentieren / Ausprobieren zu begreifen. <div style="margin-top: 2em;"></div> 
+- 🌱🧠 In den letzten beiden Stunden geht es darum, das Gelernte zu übertragen und den eigenen Lernprozess zu reflektieren. <div style="margin-top: 2em;"></div> 
  
 
 ###  ... Fortsetzung Hinweise
+
+<div style="margin-top: 2em;"></div> 
 
 📖Folgende wichtige Symbole werden euch begegnen, die Hinweise zu Arbeitsaufgaben oder Arbeitsformen geben: 
 
 <div style="margin-top: 2em;"></div>  
 
-> <span style="font-size:2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft.
+>> <span style="font-size:2em;">⏰</span> Hinter der Uhr steht die Zeit, die für eine Aufgabe zur Verfügung steht. Eure Lehrkraft hat die Zeit im Blick. Sollte euch aber auffallen, dass die Zeit schon längst um ist, erinnert eure Lehrkraft. 
 
 <div style="margin-top: 2em;"></div>
 
-> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben.  <div style="margin-top:2em;"></div>
+>> <span style="font-size: 2em;">📝</span> Hier sollt ihr zusätzlich auch etwas aufschreiben.
+
 <div style="margin-top: 2em;"></div>
 
-> < span <style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+>> <span style="font-size: 2em;">🙋</span> Hier werden Antworten / Ideen / Vermutungen in der Klasse geteilt.
+
  <div style="margin-top:2em;"></div>
 
-> <span style="font-size: 2em;">>📖</span> Hier lest ihr den Text eigenständig. 
+>> <span style="font-size: 2em;">📖</span> Hier lest ihr den Text eigenständig. 
 
 <div style="margin-top: 2em;"></div> 
 
-> Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedacht:
+---
+
+Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedacht:
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
 
-<div style="margin-top: 2em;"></div> 
+<div style="margin-top: 4em;"></div> 
 
 _**ENDE DER HINWEISE**_
+<div style="margin-top: 2em;"></div> 
 
 ---
 <div style="margin-top: 2em;"></div> 
