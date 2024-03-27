@@ -69,7 +69,7 @@ details[open] > *:not(summary) {
 
 <div style="margin-top: 2em;"></div>
 
-<iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
 
 >> MACHT JETZT FOLGENDES:
 
