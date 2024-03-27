@@ -701,7 +701,7 @@ _Kleine Erinnerung:_ Das waren die **Hausaufgaben**:
 3. Sucht euch zuhause oder aus der Natur Gegenstände heraus, wiegt sie in eurer Hand und ratet, ob ihre Dichte größer oder kleiner als die von Wasser ist, sprich ob diese in Wasser schwimmen oder nicht. Danach setzt sie ins Wasser und überprüft eure Vermutung.
 
 
-### ...Fortsetzung Wiederholung 
+### ...OPTIONAL: Fortsetzung Wiederholung (bei Bedarf noch einmal kurz durchgehen oder durchlesen lassen)
 <div style="margin-top: 2em;"></div>
 
 Zusammenfassung - Das haben wir letzte Woche erfahren:
@@ -718,7 +718,7 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 
 <div style="margin-top: 2em;"></div>
 
-🧪 Dieses Wissen wenden wir heute beim Experimentieren an. Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Anschließend versuchen wir Boote zu bauen, die schwere Ladungen tragen können. 
+🧪 Dieses Wissen wenden wir heute beim Experimentieren an. Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Anschließend versuchen wir, Knete zum Schwimmen zu bringen und sie dazu noch besonders schwere Ladungen auf dem Wasser tragen zu lassen. 
 
 
 
@@ -727,11 +727,20 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 <div style="margin-top: 2em;"></div>
 
 <span style="font-size: 3em;">❓</span> Ich habe eure Fragen erhalten und werde sie euch nun beantworten... <span style="font-size: 3em;">❓</span>
-
                          
 
 
-## 3.2 Experiment 1 zur Dichtebestimmung 
+## 3.2 Nun wollen wir ausprobieren und forschen... 
+
+<div style="margin-top: 2em;"></div>
+
+Wozu forschen wir denn heute?
+
+<div style="margin-top: 2em;"></div>
+
+Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Hierzu lernen wir ein **Verfahren zur Dichtebestimmung** kennen. 
+
+Anschließend machen wir ein kleines **Experiment** und versuchen, Knete zum Schwimmen zu bringen und sie dazu noch besonders schwere Ladungen auf dem Wasser tragen zu lassen. 
 
 <div style="margin-top: 2em;"></div>
 
@@ -739,30 +748,60 @@ LOS GEHT ES...
 
 <div style="margin-top: 2em;"></div>
 
+
+### Verfahren zur Dichtebestimmung - Planung und Vorbereitung
+
+<div style="margin-top: 2em;"></div>
+
 >> **(⏰ 5 Min.) Planung und Vorbereitung**
+
+<div style="margin-top: 2em;"></div>
+
+> _Aufgabenbeschreibung:_ Geht die folgenden Schritte nacheinander durch. 
 
 - [ ] Schritt 1: Nehmt euch **euer Geodreieck, eure Taschenrechner, einen Stift und Zettel**.
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 2: Findet euch zum Experimentieren in **4-er Gruppen an einem Tisch** zusammen.
+- [ ] Schritt 2: Findet euch zum Forschen in **4-er Gruppen an einem Tisch** zusammen.
+- [ ] Schritt 2: Verteilt innerhalb eurer Gruppe die folgenden Rollen:
+
+<div style="margin-top: 2em;"></div>
+
+-  **Vorleser / Vorleserin:** Ich leite meine Forschungsgruppe durch das Verfahren und achte darauf, dass alle Schritte gegangen werden.
+
+<div style="margin-top: 2em;"></div>
+
+- **Schreibführerin / Schreibführer:** Ich achte darauf, dass jede und jeder von unserem Forschungsteam die Tabelle ausfüllt.
+
+<div style="margin-top: 2em;"></div>
+
+- **Materialmanager / Materialmanagerin x2:** Wir achten darauf dass die Materialien, die benötigt werden, geholt werden und dass die Materialien nach dem Verfahren wieder zum Materialtisch zurückgebracht werden und alles aufgeräumt ist.
+
+<div style="margin-top: 2em;"></div>
       
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 3: Holt euch vorne bei der Lernbegleitung einen **Aufgabenzettel, eine Waage, einen kleinen Messbecher (250ml) und ein Handtuch**. Zudem braucht ihr noch einen mittleren **Messbecher (1000ml)** und füllt diesen etwa zur Hälfte mit Wasser.
+- [ ] Schritt 3: Ein Materialmanger / eine Materialmanagerin holt  vorne bei der Lernbegleitung einen **Aufgabenzettel, eine Waage, einen kleinen Messbecher (250ml) und ein Handtuch**. Der oder die andere holt einen mittleren **Messbecher (1000ml)** und füllt diesen etwa zur Hälfte mit Wasser.
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 4: Sobald alle die Materialien haben, werde ich euch durch das Experimentieren leiten & eure begleitende Lehrkraft unterstützt euch, wenn ihr Hilfe benötigt. 
+- [ ] Schritt 4: Sobald alle die Materialien haben, leitet euch Simon durch das Verfahren zur Dichtebestimmung leiten & eure begleitende Lehrkraft unterstützt euch, wenn ihr Hilfe benötigt. 
 
 
 
 
-### Experiment 1 zur Dichtebestimmung - Durchführung
+### ... Fortsetzung Dichtebestimmung: Durchführung
+
+<div style="margin-top: 2em;"></div>
 
 >> **(⏰ 3 Min.) Beschreibung der Durchführung und Hinweise**
 
-> _Aufgabe:_ Vorn liegen verschiedene **Gegenstände aus verschiedenen Materialien (Metall, Holz, Glas etc.)**. **Bestimmt die Dichte** dieser Gegenstände. Messt dazu das **Volumen** und das **Gewicht** und berechnet daraus die Dichte. Tragt eure Ergebnisse in die folgende **Tabelle** ein. Die ausgerechneten Dichten sollen in **g/cm³** angegeben werden (1cm³ = 1ml) und **auf zwei Nachkommastellen gerundet** werden. Jedem Gegenstand ist ein Buchstabe zugeordnet. Wenn ihr alle Gegenstände **nach aufsteigender Dichte** sortiert, ergibt sich ein **Lösungswort**.
+📖 Jeder und jede liest in Ruhe den folgenden Text - ihr seht den Text auch auf dem Ausdruck mit der Tabelle. 
+
+<div style="margin-top: 2em;"></div>
+
+> _Aufgabe:_ Vorne liegen verschiedene **Gegenstände aus verschiedenen Materialien (Metall, Holz, Glas etc.)**. **Bestimmt die Dichte** dieser Gegenstände. Messt dazu das **Volumen** und das **Gewicht** und berechnet daraus die Dichte. Tragt eure Ergebnisse in die folgende **Tabelle** ein. Die ausgerechneten Dichten sollen in **g/cm³** angegeben werden (1cm³ = 1ml) und **auf zwei Nachkommastellen gerundet** werden. Jedem Gegenstand ist ein Buchstabe zugeordnet. Wenn ihr alle Gegenstände **nach aufsteigender Dichte** sortiert, ergibt sich ein **Lösungswort**.
 
 <div style="margin-top: 2em;"></div>
 
@@ -808,27 +847,29 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier _ODER_ nehmt den Ausdr
 ❗ Um die Tabelle mit den korrekten Dichten auf dem Smartboard anzeigen zu können, öffnen Sie den Moodle-Link zu Aufgabe xy. Das Passwort hatten Sie in Ihren "FAQ's". Die SuS sollen ihre Werte mit denen auf dem Smartboard vergleichen.
 </span> 
 
-### Experiment 1 zur Dichtebestimmung - Untersuchungsergebnis 
+### ... Fortsetzung Dichtebestimmung: Auswertung 
+<div style="margin-top: 2em;"></div>
 
->> **(⏰ 3 Min.) Beschreibung der Durchführung und Hinweise**
+>> **(⏰ 5 Min.) Auswertung des Verfahrens**
+
+<div style="margin-top: 2em;"></div>
 
 > _Aufgabenbeschreibung:_ 🙋 Sammelt im Plenum zu den folgenden Fragen:
 
 <div style="margin-top: 2em;"></div>
 
-> Was ist das Lösungswort?
+- [ ] ❓ Was ist das Lösungswort?
 
 <div style="margin-top: 2em;"></div>
 
-> Was hat euch erstaunt oder überrascht?
+- [ ] ❓ Was hat euch erstaunt oder überrascht?
 
 <div style="margin-top: 2em;"></div>
 
-> Wie hat das, was ihr nun gemacht habt, mit dem zu tun, was ihr vergangene Woche gelernt habt? 
+- [ ] ❓ Wie hat das, was ihr nun gemacht habt, mit dem zu tun, was ihr vergangene Woche gelernt habt? 
 
-<div style="margin-top: 2em;"></div>
+<div style="margin-top: 4em;"></div>
 
-[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=placeholder)](placeholder)
 
 ---
 
@@ -836,7 +877,7 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier _ODER_ nehmt den Ausdr
 - [ ] Bringt nun alle Gegenstände, Messbecher und Waagen zurück auf den Tisch und packt Taschenrechner, Geodreieck, Papier und Stift ein. Dies braucht ihr nun nicht mehr. 
 
 
-## Experiment 2 - Knete zum Schwimmen bringen: Fragestellung 
+## Experiment - Kann Knete schwimmen?
 
 <div style="margin-top: 2em;"></div>
 
@@ -844,60 +885,180 @@ Jetzt haben wir die Dichte experimentell bestimmt.
 Im nächsten Experiment schauen wir uns das Archimedische Prinzip an, welches besagt:
 Der Auftrieb eines Körpers in Wasser ist genauso groß wie die Gewichtskraft des vom Körper verdrängten Wassers.
 
-Eure Lehrkraft hält drei Gegenstände hoch, sodass alle sie sehen können: Einen Stein, eine Holzkugel, eine Knetkugel. Die sind alle etwa gleich groß.
+<div style="margin-top: 2em;"></div>
 
-❓ Was davon geht unter, was nicht?
-
-Nach dem Raten einfach mal testen: Die Lernbegleitung legt die drei Dinge nacheinander ins Wasser. Ergebnis: Der Stein geht unter, die Holzkugel schwimmt und die Knete geht unter wie der Stein.
-
-Aber anders als einen Stein kann man Knete verformen.
-
-Fragestellung: Wie können wir die Knete zum Schwimmen bringen? _ODER_ Hypothese: Knete kann schwimmen.
-
-
-### Experiment 2 - Boote bauen: Planung & Untersuchungsaufbau
+🧪 Eure Lehrkraft hält drei Gegenstände hoch, sodass alle sie sehen können: Einen Stein, eine Holzkugel, eine Knetkugel. Die sind alle etwa gleich groß.
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 1: Bringt alle Gegenstände, Messbecher und Waagen zurück auf den Tisch und packt Taschenrechner, Geodreieck, Papier und Stift ein.
+❓ Was davon geht unter, was nicht? Ratet mal & lasst es eure Lehrkraft dann einmal ausprobieren. Die Lernbegleitung legt die drei Dinge nacheinander ins Wasser. 
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 2: Findet euch zum Experimentieren in 2-er Gruppen an einem Tisch zusammen.
+❓ Was ist das Ergebnis? 
+
+
+### ... Fortsetzung Experiment: 1. Fragestellung
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 3: Einer von euch holt vorne bei der Lernbegleitung eine Plastikbox und füllt diese etwa zur Hälfte mit Wasser. Ein anderer holt zwei Knetkugeln, für jeden von euch eine.
+Ihr habt gesehen: Der Stein geht unter, die Holzkugel schwimmt und die Knete geht unter wie der Stein. Was wollen wir nun untersuchen? 
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 4: Sobald alle die Materialien an ihrem Tisch haben, beginnt ihr: Wie könnt ihr die Knete zum Schwimmen bringen? Probiert es aus... 
+Meine **Fragestellung** an euch, die ihr in den nächsten Minuten testen sollt, folgende: **Ist es möglich, Knete zum Schwimmen zu bringen?**
 
 
-### Experiment 2 - Boote bauen: Durchführung
 
-Hinweis für die Lernbegleitung:
-Wenn die ersten Kneteformen schwimmen (vermutlich nach etwa 3min), kommt eine weitere Aufgabe hinzu.
+
+### ... Fortsetzung Experiment: 2. Hypothese 
+
+<div style="margin-top: 2em;"></div>
+
+Was glaubt ihr? Was ist eure **Hypothese** zu der Fragestellung? 
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Die Knete kann schwimmen.
+- [ ] Die Knete kann nicht schwimmen.
+      
+<div style="margin-top: 2em;"></div>
+
+Das wollen wir nun herausfinden... 
+
+
+
+### ... Fortsetzung Experiment: 3. Untersuchungsplanung & 4. Untersuchungsaufbau
+
+<div style="margin-top: 2em;"></div>
+
+Wir planen nun das Experiment und bereiten den Untersuchungsaufbau vor. Wie wollt ihr eure Hypothese, dass die Knete schwimmen kann bzw. dass sie es nicht kann, prüfen? 
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 1a: Findet euch zum Experimentieren in 3-er Gruppen an einem Tisch zusammen.
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 1b: Teilt die folgenden Rollen auf und merkt euch, welche Rolle eure ist.
+
+<div style="margin-top: 2em;"></div>
+
+- **Vorleser / Vorleserin:** Ich leite meine Forschungsgruppe durch das Experiment und achte darauf, dass alle Schritte gegangen werden.
+
+<div style="margin-top: 2em;"></div>
+
+- **Schreibführerin / Schreibführer:** Ich achte darauf, dass jede und jeder von unserem Forschungsteam das Protokoll aufschreibt.
+
+<div style="margin-top: 2em;"></div>
+
+- **Materialmanager / Materialmanagerin:** Ich achte darauf, dass die Materialien nach dem Experimentieren wieder auf dem Materialtisch sind und alles aufgeräumt ist.
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 2: Der Materialmanager / die Materialmanagerin holt vorne bei der Lernbegleitung eine Plastikbox und füllt diese etwa zur Hälfte mit Wasser. Ein anderer holt eine Knetkugel. Ihr überlegt gemeinsam, wie ihr die Knetkugel zum Schwimmen bringen könnt. 
+
+
+<div style="margin-top: 2em;"></div>
+
+### ... Fortsetzung Experiment: 4. Untersuchungsaufbau 
+<div style="margin-top: 2em;"></div>
+
+Ihr habt nun folgendes vor euch stehen: 
+ - [ ] Die zur Hälfte gefüllte Plastikbox.
+ - [ ] Drei Knetkugeln
+
+<div style="margin-top: 2em;"></div>
+
+Nun geht es auf der nächsten Seite weiter mit der Durchführung des Experimentes. 
+
+
+
+### ... Fortsetzung Experiment: 5. Durchführung
+
+<div style="margin-top: 2em;"></div>
+
+>> (⏰ 4 Min.) Erste Durchführung
+
+> _Aufgabebeschreibung:_ Nun kann es losgehen:  Wie könnt ihr die Knete zum Schwimmen bringen? Probiert es aus... 
+
+<div style="margin-top: 2em;"></div>
+
 	
-Aufgabe: Beladet euer Gefährt mit Matrosen (Metallmuttern) und zählt wie viele Matrosen eure Knete tragen kann. Die Matrosen sollen einzeln nach der anderen reingesetzt und gezählt werden. Der Matrose, der das Schiff untergehen lässt, zählt nicht mit dazu. 
+---
 
-Ihr habt 10min Zeit, das Gefährt immer weiter zu optimieren, sodass es mehr Matrosen halten kann. 
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Wenn die ersten Kneteformen schwimmen (vermutlich nach etwa 3min), kommt eine weitere Aufgabe hinzu (s.u.).
+</span> 
+
+<div style="margin-top: 2em;"></div>
+
+>> (⏰ 10 Min.) Erweiterte Aufgabe zur Durchführung
+
+<div style="margin-top: 2em;"></div>
+
+> _Aufgabenbeschreibung:_ Beladet euer Gefährt mit Matrosen (Metallmuttern) und zählt wie viele Matrosen eure Knete tragen kann. Die Matrosen sollen einzeln nach der anderen reingesetzt und gezählt werden. Der Matrose, der das Schiff untergehen lässt, zählt nicht mit dazu. <div style="margin-top: 2em;"></div> Optimiert das Gefährt immer weiter, so dass es mehr Matrosen halten kann. 
+
+<div style="margin-top: 2em;"></div>
+
+---
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Nach ein paar Minuten können Tipps gegeben werden. Diese Tipps finden Sie auf Ihren Lösungszetteln.
+</span> 
 	
-Hinweis für die Lernbegleitung:
-	Nach ein paar Minuten können folgende Tipps gegeben werden:
--	Auf Schwachstellen an der Reling achten, an denen das Wasser zuerst in das Gefährt eindringt, und diese ausbessern.
--	Die Schale möglichst groß machen.
--	Auf eine gleichmäßige Beladung achten.
-
-Nach ca. 10-15min abbrechen. Zu diesem Zeitpunkt können manche Boote vermutlich schon über 10 Matrosen tragen.
-
-
-<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Sobald die letzte Gruppe die Tabelle vollständig ausgefüllt und das Lösungswort herausgefunden hat, wird gemeinsam ausgewertet. Dann sollten auch die SuS, die sich der Zusatzaufgabe angenommen haben, diese abbrechen und gerne zuhause weiterrechnen.
-❗ Um die Tabelle mit den korrekten Dichten auf dem Smartboard anzeigen zu können, öffnen Sie den Moodle-Link zu Aufgabe xy. Das Passwort hatten Sie in Ihren "FAQ's". Die SuS sollen ihre Werte mit denen auf dem Smartboard vergleichen.
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Nach ca. 10-15min abbrechen. Zu diesem Zeitpunkt können manche Boote vermutlich schon über 10 Matrosen tragen..
 </span> 
 
 
-## Das Forschungsprotokoll: Schreibt euch die folgende Struktur für das Forschungsprotokoll in euren Hefter. Dieses braucht ihr, während ihr das Experiment durchführt. 
+### ... Fortsetzung Experiment: 6. Untersuchungsergebnis 
+
+<div style="margin-top: 2em;"></div>
+
+---
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Sammeln Sie alles Material ein (Knete ausgebreitet trocknen lassen), während die SuS folgende Fragen schriftlich beantworten sollen:
+</span> 
+
+---
+
+<div style="margin-top: 2em;"></div>
+
+>> **(⏰ 5 Min.) Paaraustausch**
+
+> _Aufgabenbeschreibung_: Tauscht euch mit eurem Nachbarn über die folgenden Fragen aus und schreibt eure Antworten auf:
+
+1. Wurde eure Hypothese bestätigt?
+2. Vermutung über das Warum: Warum geht die Knetkugel unter aber eine Schale aus Knete nicht?
+3. Was denkt ihr: Wie sollte die Knete geformt sein, damit sie die meisten Matrosen tragen kann?
+
+<div style="margin-top: 2em;"></div>
+
+
+
+### OPTIONAL - ... Fortsetzung Experiment: Expertenfrage zum Untersuchungsergebnis
+
+<div style="margin-top: 2em;"></div>
+
+Und nun zum Abschluss noch eine Expertenfrage:
+Ein richtig gutes Kneteboot kann 20 oder 30 Muttern tragen. Voll beladen sitzt es tief im Wasser. Jetzt markierst du die Höhe der Wasseroberfläche an der Box. Anschließend nimmst du alle Muttern aus dem Boot heraus und wirfst sie neben das nun leere Boot ins Wasser. Was passiert mit der Wasseroberfläche, steigt sie, fällt sie oder bleibt sie gleich? 
+
+Tauscht euch zunächst wieder mit eurem Nachbar aus. Diskutiert anschließend eure Vermutung zur dritten Frage mit der ganzen Klasse. Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+
+Die Lernbegleitung führt das entsprechende Experiment vor:
+Einer der großen Messbecher (2000ml) wird zu etwa dreiviertel mit Wasser gefüllt. Eine Glasschüssel wird auf das Wasser gesetzt und mit ca 100 (??) Muttern befüllt. Der Wasserstand wird abgelesen und aufgeschrieben. Dann werden die Muttern aus der Schüssel ins Wasser gekippt und die leere Schüssel wieder ins Wasser gesetzt. Der Wasserstand wird erneut abgelesen und mit dem vorherigen Wert verglichen.
+
+### Zusammenfassung zur heutigen Doppelstunde
+
+<div style="margin-top: 2em;"></div>
+
+
+
+
+
+
+
+## Zusammenfassung - Das Forschungsprotokoll
+
+Ein Forschungsprotokoll ist wie folgt strukturiert: 
 
 1. (**Fragestellung**) Formulierung der	naturwissenschaftlichen Frage  
 2. (**Hypothese**) basierend auf der naturwissenschaftlichen Frage eine Hypothese aufstellen 
@@ -906,8 +1067,6 @@ Nach ca. 10-15min abbrechen. Zu diesem Zeitpunkt können manche Boote vermutlich
 5. (**Untersuchungsergebnis**) Beschreibung des Untersuchungsergebnisses unter Rückbezug auf die Hypothese
 
    
-
-## ... Fortsetzung Vorbereitung für das Experimentieren - Fragen
 
 
 
