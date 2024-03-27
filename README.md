@@ -180,7 +180,12 @@ _**ENDE DER HINWEISE**_
 
 <div style="margin-top: 2em;"></div> 
 
-> Es geht heute um... <span style="font-size: 4em;">❓</span> Lasst es uns gemeinsam herausfinden... 
+> Es geht heute um... <span style="font-size: 3em;">❓</span> Lasst es uns gemeinsam herausfinden... 
+
+<div style="margin-top: 2em;"></div> 
+
+> Gibt es noch Fragen zu den Hinweisen?
+
 
 
 ## 1.1 Einstieg in das Thema - ein erstes Experiment...
@@ -206,7 +211,7 @@ _**ENDE DER HINWEISE**_
 
 <div style="margin-top: 2em;"></div> 
 
->> **Aufgabe 1a: Paararbeit 💬** <div style="margin-top: 2em;"></div> **⏰ 3 Minuten** <div style="margin-top: 2em;"></div>
+>> **Aufgabe 1a: Paaraustausch 💬** <div style="margin-top: 2em;"></div> **⏰ 2 Minuten** <div style="margin-top: 2em;"></div>
 
 > **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
@@ -237,11 +242,11 @@ _**ENDE DER HINWEISE**_
 
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 5 Min.) Auswertung zur Aufgabe 1a im Plenum:**
+>> **⏰ 3 Minuten - Auswertung zur Aufgabe 1a im Plenum**
 
 <div style="margin-top: 2em;"></div> 
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt eure Vermutungen der Klasse mit. <div style="margin-top: 2em;"></div> ... Wir glauben, die folgende Antwort ist richtig, weil... 
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 🙋🙋‍♂️ Teilt eure Vermutungen der Klasse mit: <div style="margin-top: 2em;"></div> _... Wir glauben, die folgende Antwort ist richtig, weil..._ 
 
 <div style="margin-top: 4em;"></div>
 
@@ -258,20 +263,22 @@ Hier seht ihr die Aufösung und es folgt eine neue Frage...
 !?[Video 1 - Teil 2: Auflösung Teil I und ein zweites Experiment im Schwimmbad](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
 
 <div style="margin-top: 3em;"></div> 
+
 ---
-<div style="margin-top: 3em;"></div> 
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Das Video sollte im Großformat gezeigt werden. Nach Ende des Videos klicken Sie eine Seite weiter - es folgt wieder eine Fragestellung.</span>
+
+---
 
 
 ### Aufgabenstellung zum Video 1 - Teil 2
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 5 Min.) Aufgabe 1b: Paararbeit 💬**
+>> **⏰ 2 Minuten - Aufgabe 1b: Paaraustausch 💬**
 
 <div style="margin-top: 2em;"></div> 
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zu den folgenden Fragen (❓) mit eurem Sitznachbarn / eurer Sitznachbarin aus: Was glaubt ihr, was ist die **richtige Antwort** und was ist **eure Erklärung** dafür? <div style="margin-top: 2em;"></div> 📝 2. Schreibt eure richtigen Antworten und die dazugehörige Erklärung auf. 
 
 <div style="margin-top: 4em;"></div> 
 
@@ -292,18 +299,41 @@ Hier seht ihr die Aufösung und es folgt eine neue Frage...
 <div style="margin-top: 4em;"></div> 
 
 ---
+
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
 </span>
+
+---
 
 
 ### Vermutungen zur Lösung
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 5 Min.) Auswertung zur Aufgabe 1b im Plenum:**
+>> **(⏰ 3 Min.) Auswertung zur Aufgabe 1b im Plenum:**
 
 <div style="margin-top: 2em;"></div> 
  
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt nun eure Vermutungen in der Klasse: <div style="margin-top: 2em;"></div>  Was denkt ihr, ist die richtige Antwort? Und warum? <div style="margin-top: 2em;"></div> Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 🙋‍♂️🙋 Teilt nun eure Vermutungen in der Klasse: <div style="margin-top: 2em;"></div>
+- Was denkt ihr, ist die richtige Antwort zu 1. und zu 2.? Und warum? <div style="margin-top: 2em;"></div>
+- Kann die Erklärung eines anderen euch überzeugen, eure Vermutung nochmal zu ändern?
+
+<div style="margin-top: 2em;"></div>
+
+❓ 1. Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
+
+- [ ] a) gehockt, weil...
+- [ ] b) gestreckt, weil...
+- [ ] c) egal, weil...
+
+<div style="margin-top: 4em;"></div> 
+
+❓ 2. Welche Körperposition muss ich einnehmen, damit ich untergehe? 
+
+- [ ] a) gehockt, weil...
+- [ ] b) gestreckt, weil...
+- [ ] c) egal, weil...
+
+<div style="margin-top: 4em;"></div> 
 
 
 
@@ -315,22 +345,25 @@ Hier seht ihr die Aufösung...
 !?[Video 1 - Teil 3: Auflösung Teil 2](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
 
 <div style="margin-top: 4em;"></div> 
+
 ---
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
 </span>
 
+---
+
 
 ## 1.2 Einstiegsfragen
 <div style="margin-top: 2em;"></div> 
 
-Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum Einstieg in das Thema starten wir mal mit der folgenden Aufgabe:
+Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum Einstieg in das Thema starten wir mal mit einer Aufgabe:
 
->> **(⏰ 7 Min.) Aufgabe 1c: Paararbeit 💬**
+>> **⏰ 8 Minuten - Aufgabe 1c: Paararbeit 💬**
 
 <div style="margin-top: 2em;"></div>
 
-> Aufgabenbeschreibung: <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 2em;"></div> 2. Benutzt dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 1. Tut euch zuerst zu zweit zusammen. <div style="margin-top: 2em;"></div> 2. Benutzt dann zu Zweit ein Tablet und öffnet den folgenden [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320). Sammelt hier nacheinander eure Ideen zu den folgenden Fragen: 
 
 - Welche Dinge kennt ihr, die in Wasser schwimmen können? Nennt 4-5 Beispiele.
 - Welche Dinge schwimmen in Wasser nicht? Nennt 4-5 Beispiele
@@ -339,25 +372,29 @@ Du hast gerade Simon im Wasser gesehen, wie er untergeht aber auch schwimmt. Zum
 
 <div style="margin-top: 4em;"></div>
 
-Hinweis: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 7 Minuten wieder hierhin zurück. Es geht dann auf der "nächsten Seite" weiter.
+---
+
+❗ **HINWEIS**: Bei Unsicherheiten fragt eure Lehrkraft. Kommt nach den 7 Minuten wieder hierhin zurück. Es geht dann auf der "nächsten Seite" weiter.
 
 <div style="margin-top: 4em;"></div>
 
 
 ---
-<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Für eine 📖🖋️**nicht-digitale Variante**📖🖋️ lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </span> 
 
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Für eine 📖🖋️**nicht-digitale Variante** lassen Sie die SuS das Brainstorming in ihrem Hefter zu den oben benannten Fragen erstellen und sammeln Sie dann die Antworten im Plenum. </span> 
+
+---
 
 
 
 ### Auswertung zu den Einstiegsfragen 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 5 Min.) Auswertung der Einstiegsfragen im Plenum**
+>> **⏰ 5 Minuten - Auswertung der Einstiegsfragen im Plenum**
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> Eure Lehrkraft öffnet nun diesen [Link](https://map.kits.blog/map/43613d17-9020-49fa-a15c-49e14225c8eb#17d241c2-5c40-4b02-b8bc-d7468ea63320), um die Auswertung zu den Fragen zu sehen! <div style="margin-top: 2em;"></div> 🙋‍♂️🙋 Berichtet noch einmal zusammenfassend, was ihr zu den einzelnen Fragen benannt habt habt. Besonders wichtig ist die dritte Frage:
 
 <div style="margin-top: 2em;"></div>
 
@@ -374,27 +411,34 @@ Abschließend wollen wir noch einmal zusammenfassen - geht dazu zur nächsten Se
 
 ## 1.3 Worum geht es?
 
-<div style="margin-top: 2em;"></div>
-
->>> 📖 **Zusammenfassung:** Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
+>> **⏰ 2 Minuten - 📖 Lest die folgende Zusammenfassung.**
 
 <div style="margin-top: 2em;"></div>
+
+>>> **Zusammenfassung:** Wie du durch deine eigenen Beispiele vielleicht gemerkt hast, das Gewicht alleine kann nicht die Ursache sein, denn ein schwerer Baumstamm geht nicht unter, doch eine sehr viel leichtere 1-cent-Münze schon. <div style="margin-top: 2em;"></div> Wenn es ums Schwimmen und Tauchen geht, kommt man um einen Begriff nicht herum: Die Dichte. <div style="margin-top: 2em;"></div> All die Dinge, die im Wasser schwimmen, haben eines gemeinsam. Ihre Dichte ist geringer als die von Wasser. Körper, deren Dichte größer ist als die von Wasser, gehen unter.
+
+<div style="margin-top: 2em;"></div>
+
+❓ Frage dich selbst: Hast du bis hierhin alles verstanden? Falls nein, dann schreibe dir auf dein Blatt 2 auf, was du noch nicht verstanden hast. 
  
 
 ### OPTIONAL: Beschreibung des Begriffs Dichte 
  
 <div style="margin-top: 2em;"></div>
 
+---
+
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis an die Lehrkraft:** Diese Aufgabe können Sie einbinden, wenn zu dem jetztigen Zeitpunkt noch mehr als 10 Minuten Zeit übrig sind. Ansonsten endet die erste Unterrichtsstunde an dieser Stelle und Sie können direkt zu 2. Unterrichtsstunde weiterspringen. </span> 
 
+---
 
  <div style="margin-top: 2em;"></div>
  
->> **(⏰ 4 Min.) Aufgabe 1d: Einzelarbeit 📝**
+>> **⏰ 4 Minuten - Aufgabe 1d: Einzelarbeit 📝**
 
 <div style="margin-top: 2em;"></div> 
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Beschreibe den Begriff Dichte in Einzelarbeit in maximal drei Sätzen - nutze dafür dein Blatt Papier.
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> Beschreibe den Begriff Dichte in Einzelarbeit in maximal drei Sätzen - nutze dafür dein Blatt Papier.
 
 <div style="margin-top: 2em;"></div> 
 
@@ -419,17 +463,14 @@ Wenn alle fertig sind, geht es für die Auswertung auf die nächste Seite..
 <div style="margin-top: 2em;"></div> 
 
 
->> **(⏰ 5 Min.) Auswertung der Ergebnisse zum Begriff Dichte im Plenum**
+>> **⏰ 3 Minuten - Auswertung der Ergebnisse zum Begriff Dichte im Plenum**
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Für die 📱**digitale Variante**: Die Lehrkraft öffnet den [Link](für das kollaborative Whiteboard).  🙋 Die Klasse fasst nochmal zusammen, wie sie Dichte beschreiben. </div> <div style="margin-top: 2em;"></div> Für die 📖🖋️**nicht-digitale Variante**: 🙋 Die Klasse fasst auch hier nochmal zusammen, wie sie Dichte beschreiben.  
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> Für die 📱**digitale Variante**: Die Lehrkraft öffnet den [Link](für das kollaborative Whiteboard). 🙋‍♂️🙋 Die Klasse fasst nochmal zusammen, wie sie Dichte beschreiben. <div style="margin-top: 2em;"></div> Für die 📖🖋️**nicht-digitale Variante**: 🙋🙋‍♂️ Die Klasse fasst auch hier nochmal zusammen, wie sie Dichte beschreiben.  
 
 <div style="margin-top: 2em;"></div>
 
----
-
-<div style="margin-top: 2em;"></div>
 
 
 
@@ -462,14 +503,14 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 12 Min.für die nächsten Seiten 18-20) Einzelarbeit**
+>> **⏰ 12 Min.für die nächsten Seiten 18-20 - Einzelarbeit**
 
 <div style="margin-top: 2em;"></div> 
 
 
 📖 Lese den folgenden Text:
 
->>> 💡 Die Dichte ist also definiert als: <div style="margin-top:1em;"></div> **rho= m / V** <div style="margin-top:1em;"></div> Sie beschreibt, **wie viel Masse in einem bestimmten Volumen** vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, **wie dicht diese kleinsten Teilchen zusammengedrängt sind**. <div style="margin-top:1em;"></div>
+>>> 💡 Die Dichte ist also definiert als: **rho= m / V** <div style="margin-top:1em;"></div> Sie beschreibt, **wie viel Masse in einem bestimmten Volumen** vorhanden ist. Wenn man sich vorstellt, dass alles in der Welt aus kleinsten Teilchen aufgebaut ist, aus Atomen und Molekülen, kann man auch sagen, dass die Dichte beschreibt, **wie dicht diese kleinsten Teilchen zusammengedrängt sind**. <div style="margin-top:1em;"></div>
 
 <div style="margin-top: 2em;"></div> 
 
@@ -485,7 +526,7 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 📖 Lese den folgenden Text:
 
->>> 💡 Je nachdem, wie groß die Masse und das Volumen eines Gegenstandes sind, kommen unterschiedliche Einheiten zum Einsatz. Es wäre ja nicht sinnvoll, das Volumen eines U-Boots in mm³ anzugeben oder die Masse eines Golfballs in Tonnen. Wenn du die Einheiten der Dichte umrechnen musst, gilt Folgendes: <div style="margin-top:1em;"></div> Umrechnung der Masse-Einheiten:  1t = 1000kg, 1kg = 1000g, 1g = 1000mg <div style="margin-top:1em;"></div> Umrechnung der Volumen-Einheiten: 1L = 1000ml, 1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³ <div style="margin-top:1em;"></div> 1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml <div style="margin-top:1em;"></div> Umrechnung der Dichte-Einheiten: 1 g/cm³ = 1 g/ml = 1 kg/L
+>>> 💡 Je nachdem, wie groß die Masse und das Volumen eines Gegenstandes sind, kommen unterschiedliche Einheiten zum Einsatz. Es wäre ja nicht sinnvoll, das Volumen eines U-Boots in mm³ anzugeben oder die Masse eines Golfballs in Tonnen. Wenn du die Einheiten der Dichte umrechnen musst, gilt Folgendes: <div style="margin-top:1em;"></div> **Umrechnung der Masse-Einheiten:**  1t = 1000kg, 1kg = 1000g, 1g = 1000mg <div style="margin-top:1em;"></div> **Umrechnung der Volumen-Einheiten:** 1L = 1000ml, 1m³ = 1000dm³, 1dm³ =1000cm³, 1cm³ = 1000mm³ <div style="margin-top:1em;"></div> 1m³ = 1000L, 1dm³ = 1L, 1cm³ = 1ml <div style="margin-top:1em;"></div> **Umrechnung der Dichte-Einheiten:** 1 g/cm³ = 1 g/ml = 1 kg/L
 
 <div style="margin-top: 2em;"></div> 
 
@@ -498,11 +539,11 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 ### EINZELARBEIT: Dichte berechnen
 <div style="margin-top: 2em;"></div>
 
->> 📝 **Aufgabe 2b: Einzelarbeit** <div style="margin-top: 2em;"></div> Hinweis: Beginne mit dieser Aufgabe, wenn du bis hierhin alles verstanden hast. Brauchst du noch Hilfestellung, so wende dich an deine Lehrkraft oder an einen Mitschüler / eine Mitschülerin, die dir helfen kann. 
+>> 📝 **Aufgabe 2b: Einzelarbeit** <div style="margin-top: 2em;"></div> Hinweis: Beginne mit dieser Aufgabe, wenn du bis hierhin alles verstanden hast. Brauchst du noch Hilfestellung, so wende dich an deine Lehrkraft oder an einen Mitschüler / eine Mitschülerin, die dir helfen kann. Oder lies dir die Texte nochmal durch, bis du es verstanden hast.
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Berechnet nun die Dichte in den folgenden Aufgaben. Schreibt euch die Antwort zu den folgenden Aufgaben in euer Heft / auf einen Zettel: <div style="margin-top:1em;"></div>
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> Berechnet nun die Dichte in den folgenden Aufgaben. Schreibt euch die Antwort zu den folgenden Aufgaben auf euer Blatt 1 auf: <div style="margin-top:1em;"></div>
 
 1.	Du hast eine Glaskugel, die 500g wiegt. Ihr Volumen beträgt 200cm³. Wie groß ist die Dichte der Glaskugel? <div style="margin-top:1em;"></div>
 2.	Die Dichte von Öl beträgt 0,9kg/L. Wie viel Gramm wiegen 100ml Öl? <div style="margin-top:1em;"></div>
@@ -514,7 +555,7 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div>
 
-> 💡 Ihr seht hier nochmal zwei Beispiele zur Berechnung: <div style="margin-top:2em;"></div> **Beispiele:**  <div style="margin-top: 1em;"></div> Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³ <div style="margin-top: 1em;"></div> Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
+> 💡 Ihr seht hier nochmal zwei **Beispiele zur Berechnung:** <div style="margin-top:2em;"></div> Ein kleiner Holzwürfel mit der Kantenlänge 1cm wiegt 0,7g. Er hat also das Volumen von 1cm³ und eine Masse von 0,7g. Dann beträgt seine Dichte rho = 0,7g/1cm³ = 0,7 g/cm³ <div style="margin-top: 1em;"></div> Ein Liter Leitungswasser wiegt 1kg. Die Dichte von Wasser ist also rho =  1kg/1L = 1 kg/L
 
 
 
@@ -522,12 +563,16 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 3 Min.) Auswertung der Aufgaben im Plenum**
+>> **⏰ 3 Minuten - Auswertung der Aufgaben im Plenum**
 
 <div style="margin-top:2em;"></div>
 
-> _Aufgabenbeschreibung:_ <div style="margin-top:2em;"></div> 🙋 Was sind die richtigen Antworten?
+> **Aufgabenbeschreibung:** <div style="margin-top:2em;"></div> 🙋‍♂️🙋 Sammelt im Plenum - Was sind die richtigen Antworten?
 
+
+---
+
+Dann geht es auf der nächsten Seite weiter mit einem Video zu der Frage, wie sich Dichte experimentell bestimmen lässt... 
 
 
 ## 2.3 Dichte experimentell bestimmen 
@@ -549,11 +594,11 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div>
 
-📖 Lest den folgenden Text in Einzelarbeit (⏰ 3 Min.). 
+>> ⏰ 3 Minuten - Lest nun den folgenden Text in Einzelarbeit 📖. 
 
 <div style="margin-top: 2em;"></div>
 
->>> Die Dichte ist eine Stoffeigenschaft. Z.B. haben Stoffe wie Eisen, Glas, Alkohol oder Luft eine spezifische Dichte. <div style="margin-top: 1em;"></div> Tabelle mit Dichten (in g/cm³): <div style="margin-top: 1em;"></div> Luft 0,0013 <div style="margin-top: 1em;"></div> Styropor 0,017<div style="margin-top: 1em;"></div>  Buchenholz 0,7 <div style="margin-top: 1em;"></div> Speiseöl 0,8-0,9 <div style="margin-top: 1em;"></div> Aluminium 2,7 <div style="margin-top: 1em;"></div> Eisen 7,9 <div style="margin-top: 1em;"></div> Gold 19,3 <div style="margin-top: 2em;"></div> Hier sieht man z.B. dass Gold eine sehr hohe Dichte hat. In Gold ist viel Masse auf kleinem Raum verteilt. Styropor hingegen hat eine sehr kleine Dichte. Während eine 1kg schwere Kugel Gold sehr gut in eine Hand passt (die Kugel hat einen Durchmesser von 4,6 cm, also ein bisschen größer als ein Golfball), müsstet du 1.135 solcher Golfbälle aus Styropor in deinen Händen halten, um 1kg Gewicht zu tragen. <div style="margin-top: 2em;"></div> ❓ Frage: Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
+>>> Die Dichte ist eine Stoffeigenschaft. Z.B. haben Stoffe wie Eisen, Glas, Alkohol oder Luft eine spezifische Dichte. <div style="margin-top: 1em;"></div> Tabelle mit Dichten (in g/cm³): <div style="margin-top: 1em;"></div> Luft 0,0013 <div style="margin-top: 1em;"></div> Styropor 0,017<div style="margin-top: 1em;"></div>  Buchenholz 0,7 <div style="margin-top: 1em;"></div> Speiseöl 0,8-0,9 <div style="margin-top: 1em;"></div> Aluminium 2,7 <div style="margin-top: 1em;"></div> Eisen 7,9 <div style="margin-top: 1em;"></div> Gold 19,3 <div style="margin-top: 2em;"></div> Hier sieht man z.B. dass *Gold eine sehr hohe Dichte** hat. In Gold ist **viel Masse auf kleinem Raum** verteilt. **Styropor** hingegen hat eine **sehr kleine Dichte**. Während eine 1kg schwere Kugel Gold sehr gut in eine Hand passt (die Kugel hat einen Durchmesser von 4,6 cm, also ein bisschen größer als ein Golfball), müsstet du 1.135 solcher Golfbälle aus Styropor in deinen Händen halten, um 1kg Gewicht zu tragen. <div style="margin-top: 2em;"></div> ❓ Frage: Wenn du nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
 
 <div style="margin-top: 2em;"></div>
 
@@ -566,7 +611,7 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 <div style="margin-top: 2em;"></div>
 
 
->> **(⏰ 5 Min.) Sammlung von Ideen im Plenum**
+>> **⏰ 3 Minuten - Sammlung von Ideen im Plenum**
 
 <div style="margin-top: 2em;"></div>
 
@@ -574,7 +619,7 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div>
 
- > _Aufgabenbeschreibung_: <div style="margin-top: 2em;"></div> 🙋Wie erklärt ihr euch, dass Metall untergeht, aber nicht ein Schiff? Sammelt Erklärungen / Vermutungen im Plenum.
+ > **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 🙋🙋‍♂️ Wie erklärt ihr euch, dass Metall untergeht, aber nicht ein Schiff? Sammelt Erklärungen / Vermutungen im Plenum.
 
 
 
@@ -602,7 +647,7 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div>
 
->>> 📖 DIE WICHTIGSTEN INFORMATIONEN DER LETZTEN BEIDEN STUNDEN....
+>>> 📖 **DIE WICHTIGSTEN INFORMATIONEN DER LETZTEN BEIDEN STUNDEN...**
 
 >> 📌 Die Dichte ist definiert als <div style="margin-top: 2em;"></div> **rho= m / V** <div style="margin-top: 2em;"></div> und beschreibt, wie viel Masse m in einem bestimmten Volumen V vorhanden ist.
 
@@ -614,13 +659,14 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 >> 📌 **Archimedisches Prinzip:** Die Auftriebskraft, die Wasser auf einen Körper ausübt, ist umso größer, je mehr Wasser dieser Körper verdrängt. Sie ist gleich der Gewichtskraft des verdrängten Wassers und ist der Gewichtskraft auf den Körper entgegengesetzt. <div style="margin-top: 2em;"></div> Ein schwimmender Körper verdrängt so viel Wasser, wie er selbst wiegt (also entsprechend seiner Masse). Hier ist die Auftriebskraft so groß wie die Gewichtskraft des Körpers. <div style="margin-top: 2em;"></div> Ein nicht-schwimmfähiger Körper verdrängt so viel Wasser, wie er selbst groß ist (also entsprechend seines Volumens). Hier ist die Auftriebskraft so groß wie die Gewichtskraft des verdrängten Wassers.
 
->> 📌 Jetzt haben wir alles Wissen, das wir benötigen, um die Schwimmbad-Frage vom ersten Video zu beantworten. Denn aus der Gleichung 
-**rho = m/V** wird klar: Wenn ich meine Dichte vergrößern will, sodass ich in Wasser untergehe, muss ich entweder meine Masse erhöhen (z.B. Steine essen) oder mein Volumen kleiner machen. Und Steine gegessen habe ich natürlich nicht. Auf der nächsten Seite folgt die Erklärung...
+>>> 💡 Jetzt haben wir alles Wissen, das wir benötigen, um die Schwimmbad-Frage vom ersten Video zu beantworten. Denn aus der Gleichung **rho = m/V** wird klar: Wenn ich meine Dichte vergrößern will, sodass ich in Wasser untergehe, muss ich entweder meine Masse erhöhen (z.B. Steine essen) oder mein Volumen kleiner machen. Und Steine gegessen habe ich natürlich nicht. Auf der nächsten Seite folgt die Erklärung...
 
 
-### Fortsetzung Zusammenfassung und Auflösung der Anfangsfrage
+### ... Fortsetzung Zusammenfassung und Auflösung der Anfangsfrage
 
 <div style="margin-top: 2em;"></div>
+
+Und hier ist die Lösung...
 
 !?[Auflösung Anfangsfrage](https://cloud.die-kinderwelt.com/s/MdHi8zzWoiXHYfW/download)
 
@@ -628,15 +674,18 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 
 
-### Fortsetzung Zusammenfassung und Ausblick - Fragen, Lernreflexion und Feedback an Simon
+### ... Fortsetzung Zusammenfassung und Ausblick - Fragen, Lernreflexion und Feedback an Simon
 
 <div style="margin-top: 2em;"></div>
 
 >> **(⏰ 5 Min.) Fragen und Feedback an Simon**
 
-Nächste Woche wird Simon euch eure Fragen beantworten. Wenn ihr zum Beispiel etwas nicht verstanden habt oder ihr andere Fragen habt, dann nutzt nun noch die letzten fünf Minuten den folgenden [Link](https://cloud.die-kinderwelt.com/call/nk5g2cqt): 
+Nächste Woche wird Simon euch eure Fragen beantworten. 
 
-Hier könnt ihr folgendes aufschreiben: 
+> **Aufgabenbeschreibung:** Wenn ihr zum Beispiel etwas nicht verstanden habt oder ihr andere Fragen habt, dann nutzt nun noch die letzten fünf Minuten den folgenden [Link](https://cloud.die-kinderwelt.com/call/nk5g2cqt). Hier könnt ihr folgendes aufschreiben: 
+
+<div style="margin-top: 2em;"></div>
+
 1. Diese Frage habe ich noch...
 2. Das habe ich gar nicht verstanden...
 3. Das fand ich in dieser Unterrichtseinheit total toll...
@@ -644,9 +693,8 @@ Hier könnt ihr folgendes aufschreiben:
 
    
 
-<div style="margin-top: 2em;"></div>
 
-### Fortsetzung Zusammenfassung und Ausblick 
+### ... Fortsetzung Zusammenfassung und Ausblick 
 
 <div style="margin-top: 2em;"></div>
 
@@ -654,13 +702,13 @@ Hier könnt ihr folgendes aufschreiben:
 
 <div style="margin-top: 2em;"></div>
 
-> In zwei Wochen: <div style="margin-top: 2em;"></div> Wenn es um das Schwimmen oder Sinken geht, haben wir bisher nur das Medium Wasser betrachtet. <div style="margin-top: 2em;"></div> In zwei Wochen werden wir uns auch noch andere Medien wie Öl, Salzwasser und Luft anschauen und sehen, dass die o.g. Merksätze auch dort gelten: 
+> **In zwei Wochen:** <div style="margin-top: 2em;"></div> Wenn es um das Schwimmen oder Sinken geht, haben wir bisher nur das Medium Wasser betrachtet. In zwei Wochen werden wir uns auch noch andere Medien wie Öl, Salzwasser und Luft anschauen und sehen, dass die o.g. Merksätze auch dort gelten: 
 -	Ein Körper schwimmt in einem Medium, wenn seine Dichte kleiner ist als die des Mediums, in dem es sich befindet.
 -	Die Auftriebskraft ist gleich der Gewichtskraft des verdrängten Mediums.
 
 <div style="margin-top: 2em;"></div>
 
-> Dichte in eurem Alltag **(„Hausaufgabe“)** <div style="margin-top: 2em;"></div> Bis zur nächsten Stunde könnt ihr zuhause mal folgendes ausprobieren: 
+> **Dichte in eurem Alltag („Hausaufgabe“)** - Bis zur nächsten Stunde könnt ihr zuhause mal folgendes ausprobieren: 
 
 1. Versucht doch mal in der Badewanne verschieden große Luftballons unter Wasser zu drücken und spürt, wie die Auftriebskraft größer wird, je mehr Wasser verdrängt wird.
 2. Bleibt nach dem Baden in der Badewanne liegen, während das Wasser abfließt. Liegt dabei ganz still und reglos bis die Wanne komplett leer ist und spürt, wie die Auftriebskraft nach und nach kleiner wird und die Gewichtskraft euch immer stärker auf den Wannenboden drückt.
@@ -673,23 +721,29 @@ Hier könnt ihr folgendes aufschreiben:
 
 <div style="margin-top: 2em;"></div>
 
-❗ HINWEIS 1: für diese Physikeinheit braucht ihr kein eigenes Tablet. Ihr werdet experimentieren und Simon navigiert euch am Smartboard durch die zwei Stunden. 
+❗ **HINWEIS 1:** für diese Physikeinheit braucht ihr kein eigenes Tablet. Ihr werdet experimentieren und Simon navigiert euch am Smartboard durch die zwei Stunden. 
 
 
 <div style="margin-top: 2em;"></div>
 
 
-❗ HINWEIS 2: Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann sie in den [Videochat](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon weiterleiten.
+❗ **HINWEIS 2:** Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann sie in den [Videochat](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon weiterleiten.
 
+
+<div style="margin-top: 2em;"></div>
+
+---
 
 <span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Öffnen Sie bitte den Videochat auch auf einem Tablet, mit dem eine Videokoferenz möglich ist. Nutzen Sie Ihr Tablet, um Fragen aus der Klasse direkt an Simon weiterzugeben. </span> 
 
+---
 
->> **(⏰ 5 Min.) Beginnende Einzelarbeit - JETZT**
+
+>> **⏰ 5 Minuten - Beginnende Einzelarbeit (JETZT)**
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> Beantwortet die folgende Fragen: <div style="margin-top: 1em;"></div>
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> Beantwortet die folgende Fragen und schreibt euch eure Antworten auf: <div style="margin-top: 1em;"></div>
 1. Was waren die Wichtigsten Dinge der letzten Physikstunde waren, die ihr dazugelernt habt. Schreibt euch auf einem Zettel drei Punkte dazu auf. <div style="margin-top: 1em;"></div>
 2. Sind euch noch neue Fragen gekommen, die ihr an Simon habt?
 3. Falls ihr **Hausaufgabe** der vergangenen Woche ausprobiert habt, was ist euch aufgefallen?
@@ -700,11 +754,11 @@ Hier könnt ihr folgendes aufschreiben:
 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 3 Min.) Auswertung der Einzelarbeit im Plenum**
+>> **⏰ 3 Minuten - Auswertung der Einzelarbeit im Plenum**
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🙋 Teilt euren Mitschülern und Mitschülerinnen mit:
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 🙋‍♂️🙋 Teilt euren Mitschülern und Mitschülerinnen mit:
 1. ... was für euch die wichtigsten Dinge waren, die ihr gelernt habt.
 2. ... welche Fragen ihr noch habt.
 3. ... was euch bei dem Ausprobieren der Hausaufgaben aufgefallen ist.
@@ -712,9 +766,13 @@ Hier könnt ihr folgendes aufschreiben:
 
 <div style="margin-top: 2em;"></div>
 
-_Kleine Erinnerung:_ Das waren die **Hausaufgaben**: 
+_Kleine Erinnerung:_ 
+<div style="margin-top: 2em;"></div> Das waren die **Hausaufgaben**: 
+
 1. Versucht doch mal in der Badewanne verschieden große Luftballons unter Wasser zu drücken und spürt, wie die Auftriebskraft größer wird, je mehr Wasser verdrängt wird.
+   
 2. Bleibt nach dem Baden in der Badewanne liegen, während das Wasser abfließt. Liegt dabei ganz still und reglos bis die Wanne komplett leer ist und spürt, wie die Auftriebskraft nach und nach kleiner wird und die Gewichtskraft euch immer stärker auf den Wannenboden drückt.
+   
 3. Sucht euch zuhause oder aus der Natur Gegenstände heraus, wiegt sie in eurer Hand und ratet, ob ihre Dichte größer oder kleiner als die von Wasser ist, sprich ob diese in Wasser schwimmen oder nicht. Danach setzt sie ins Wasser und überprüft eure Vermutung.
 
 
@@ -727,6 +785,12 @@ _Kleine Erinnerung:_ Das waren die **Hausaufgaben**:
 
 ### ...OPTIONAL: Fortsetzung Wiederholung (bei Bedarf noch einmal kurz durchgehen oder durchlesen lassen)
 <div style="margin-top: 2em;"></div>
+
+---
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Wenn Sie den Eindruck haben, dass die SuS die Inhalte bisher gut verstanden haben, dann verweisen Sie lediglich darauf, dass sich die SuS die Wiederholung bei Bedarf nochmal durchlesen können. </span> 
+
+---
 
 Zusammenfassung - Das haben wir letzte Woche erfahren:
 
@@ -748,9 +812,13 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 
 🧪 Das Wissen, welches ihr letzte Woche erworben habt, wenden wir heute an.
 
-Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Hierzu lernen wir ein **Verfahren zur Dichtebestimmung** kennen. 
+<div style="margin-top: 2em;"></div>
 
-Anschließend machen wir ein kleines **Experiment** und versuchen, Knete zum Schwimmen zu bringen und sie dazu noch besonders schwere Ladungen auf dem Wasser tragen zu lassen. 
+> Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Hierzu lernen wir ein **Verfahren zur Dichtebestimmung** kennen. 
+
+<div style="margin-top: 2em;"></div>
+
+> Anschließend machen wir ein kleines **Experiment** und versuchen, Knete zum Schwimmen zu bringen und sie dazu noch besonders schwere Ladungen auf dem Wasser tragen zu lassen. 
 
 <div style="margin-top: 2em;"></div>
 
@@ -764,18 +832,21 @@ LOS GEHT ES...
 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 5 Min.) Planung und Vorbereitung**
+>> **⏰ 5 Minuten - Planung und Vorbereitung**
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ Geht die folgenden Schritte nacheinander durch. 
+> **Aufgabenbeschreibung:** Geht die folgenden Schritte nacheinander durch. 
 
-- [ ] Schritt 1: Nehmt euch **euer Geodreieck, eure Taschenrechner, einen Stift und Zettel**.
+- [ ] **Schritt 1:** Nehmt euch **euer Geodreieck, eure Taschenrechner, einen Stift und Zettel**.
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 2: Findet euch zum Forschen in **4-er Gruppen an einem Tisch** zusammen.
-- [ ] Schritt 2: Verteilt innerhalb eurer Gruppe die folgenden Rollen:
+- [ ] **Schritt 2:** Findet euch zum Forschen in **4-er Gruppen an einem Tisch** zusammen.
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] **Schritt 3:** Verteilt dann innerhalb eurer Gruppe die folgenden Rollen:
 
 <div style="margin-top: 2em;"></div>
 
@@ -793,11 +864,11 @@ LOS GEHT ES...
       
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 3: Ein Materialmanger / eine Materialmanagerin holt  vorne bei der Lernbegleitung einen **Aufgabenzettel, eine Waage, einen kleinen Messbecher (250ml) und ein Handtuch**. Der oder die andere holt einen mittleren **Messbecher (1000ml)** und füllt diesen etwa zur Hälfte mit Wasser.
+- [ ] **Schritt 4:** Ein Materialmanger / eine Materialmanagerin holt  vorne bei der Lernbegleitung einen **Aufgabenzettel, eine Waage, einen kleinen Messbecher (250ml) und ein Handtuch**. Der oder die andere holt einen mittleren **Messbecher (1000ml)** und füllt diesen etwa zur Hälfte mit Wasser.
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 4: Sobald alle die Materialien haben, leitet euch Simon durch das Verfahren zur Dichtebestimmung leiten & eure begleitende Lehrkraft unterstützt euch, wenn ihr Hilfe benötigt. 
+- [ ] **Schritt 5:** Sobald alle die Materialien haben, leitet euch Simon durch das Verfahren zur Dichtebestimmung leiten & eure begleitende Lehrkraft unterstützt euch, wenn ihr Hilfe benötigt. 
 
 
 
@@ -806,13 +877,15 @@ LOS GEHT ES...
 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 3 Min.) Beschreibung der Durchführung und Hinweise**
+>> **⏰ 3 Minuten - Beschreibung der Durchführung und Hinweise**
+
+<div style="margin-top: 2em;"></div>
 
 📖 Jeder und jede liest in Ruhe den folgenden Text - ihr seht den Text auch auf dem Ausdruck mit der Tabelle. 
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabe:_ Vorne liegen verschiedene **Gegenstände aus verschiedenen Materialien (Metall, Holz, Glas etc.)**. **Bestimmt die Dichte** dieser Gegenstände. Messt dazu das **Volumen** und das **Gewicht** und berechnet daraus die Dichte. Tragt eure Ergebnisse in die folgende **Tabelle** ein. Die ausgerechneten Dichten sollen in **g/cm³** angegeben werden (1cm³ = 1ml) und **auf zwei Nachkommastellen gerundet** werden. Jedem Gegenstand ist ein Buchstabe zugeordnet. Wenn ihr alle Gegenstände **nach aufsteigender Dichte** sortiert, ergibt sich ein **Lösungswort**.
+> **Aufgabe:** <div style="margin-top: 2em;"></div> Vorne liegen verschiedene **Gegenstände aus verschiedenen Materialien (Metall, Holz, Glas etc.)**. **Bestimmt die Dichte** dieser Gegenstände. Messt dazu das **Volumen** und das **Gewicht** und berechnet daraus die Dichte. Tragt eure Ergebnisse in die folgende **Tabelle** ein. Die ausgerechneten Dichten sollen in **g/cm³** angegeben werden (1cm³ = 1ml) und **auf zwei Nachkommastellen gerundet** werden. Jedem Gegenstand ist ein Buchstabe zugeordnet. Wenn ihr alle Gegenstände **nach aufsteigender Dichte** sortiert, ergibt sich ein **Lösungswort**.
 
 <div style="margin-top: 2em;"></div>
 
@@ -858,14 +931,16 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier _ODER_ nehmt den Ausdr
 ❗ Um die Tabelle mit den korrekten Dichten auf dem Smartboard anzeigen zu können, öffnen Sie den Moodle-Link zu Aufgabe xy. Das Passwort hatten Sie in Ihren "FAQ's". Die SuS sollen ihre Werte mit denen auf dem Smartboard vergleichen.
 </span> 
 
+---
+
 ### ... Fortsetzung Verfahren zur Dichtebestimmung: Auswertung 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 5 Min.) Auswertung des Verfahrens**
+>> **⏰ 5 Minuten - Auswertung des Verfahrens**
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ 🙋 Sammelt im Plenum zu den folgenden Fragen:
+> **Aufgabenbeschreibung:** 🙋🙋‍♂️ Sammelt im Plenum zu den folgenden Fragen:
 
 <div style="margin-top: 2em;"></div>
 
@@ -892,13 +967,11 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier _ODER_ nehmt den Ausdr
 
 <div style="margin-top: 2em;"></div>
 
-Jetzt haben wir die Dichte experimentell bestimmt. 
-Im nächsten Experiment schauen wir uns das Archimedische Prinzip an, welches besagt:
-Der Auftrieb eines Körpers in Wasser ist genauso groß wie die Gewichtskraft des vom Körper verdrängten Wassers.
+> Jetzt haben wir die Dichte experimentell bestimmt. <div style="margin-top: 2em;"></div> Im nächsten Experiment schauen wir uns das Archimedische Prinzip an, welches besagt: **Der Auftrieb eines Körpers in Wasser ist genauso groß wie die Gewichtskraft des vom Körper verdrängten Wassers.**
 
 <div style="margin-top: 2em;"></div>
 
-🧪 Eure Lehrkraft hält drei Gegenstände hoch, sodass alle sie sehen können: Einen Stein, eine Holzkugel, eine Knetkugel. Die sind alle etwa gleich groß.
+> 🧪 Eure Lehrkraft hält drei Gegenstände hoch, sodass alle sie sehen können: Einen Stein, eine Holzkugel, eine Knetkugel. Die sind alle etwa gleich groß.
 
 <div style="margin-top: 2em;"></div>
 
@@ -917,7 +990,7 @@ Ihr habt gesehen: Der Stein geht unter, die Holzkugel schwimmt und die Knete geh
 
 <div style="margin-top: 2em;"></div>
 
-Meine **Fragestellung** an euch, die ihr in den nächsten Minuten testen sollt, folgende: **Ist es möglich, Knete zum Schwimmen zu bringen?**
+>>> Meine **Fragestellung** an euch, die ihr in den nächsten Minuten testen sollt, folgende: **Ist es möglich, Knete zum Schwimmen zu bringen?**
 
 
 
@@ -926,7 +999,7 @@ Meine **Fragestellung** an euch, die ihr in den nächsten Minuten testen sollt, 
 
 <div style="margin-top: 2em;"></div>
 
-Was glaubt ihr? Was ist eure **Hypothese** zu der Fragestellung? 
+❓ Was glaubt ihr? Was ist eure **Hypothese** zu der Fragestellung? 
 
 <div style="margin-top: 2em;"></div>
 
@@ -935,7 +1008,7 @@ Was glaubt ihr? Was ist eure **Hypothese** zu der Fragestellung?
       
 <div style="margin-top: 2em;"></div>
 
-Das wollen wir nun herausfinden... 
+Das wollen wir nun herausfinden... 🔍
 
 
 
@@ -947,11 +1020,11 @@ Wir planen nun das Experiment und bereiten den Untersuchungsaufbau vor. Wie woll
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 1a: Findet euch zum Experimentieren in 3-er Gruppen an einem Tisch zusammen.
+- [ ] **Schritt 1:** Findet euch zum Experimentieren in 3-er Gruppen an einem Tisch zusammen.
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 1b: Teilt die folgenden Rollen auf und merkt euch, welche Rolle eure ist.
+- [ ] **Schritt 2:** Teilt die folgenden Rollen auf und merkt euch, welche Rolle eure ist.
 
 <div style="margin-top: 2em;"></div>
 
@@ -967,7 +1040,7 @@ Wir planen nun das Experiment und bereiten den Untersuchungsaufbau vor. Wie woll
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Schritt 2: Der Materialmanager / die Materialmanagerin holt vorne bei der Lernbegleitung eine Plastikbox und füllt diese etwa zur Hälfte mit Wasser. Ein anderer holt eine Knetkugel. Ihr überlegt gemeinsam, wie ihr die Knetkugel zum Schwimmen bringen könnt. 
+- [ ] **Schritt 3:** Der Materialmanager / die Materialmanagerin holt vorne bei der Lernbegleitung eine Plastikbox und füllt diese etwa zur Hälfte mit Wasser. Ein anderer holt eine Knetkugel. Ihr überlegt gemeinsam, wie ihr die Knetkugel zum Schwimmen bringen könnt. 
 
 
 <div style="margin-top: 2em;"></div>
@@ -989,9 +1062,9 @@ Nun geht es auf der nächsten Seite weiter mit der Durchführung des Experimente
 
 <div style="margin-top: 2em;"></div>
 
->> (⏰ 4 Min.) Erste Durchführung
+>> **⏰ 4 Minuten - Erste Durchführung**
 
-> _Aufgabebeschreibung:_ Nun kann es losgehen:  Wie könnt ihr die Knete zum Schwimmen bringen? Probiert es aus... 
+> **Aufgabebeschreibung:** Nun kann es losgehen:  Wie könnt ihr die Knete zum Schwimmen bringen? Probiert es aus... 
 
 <div style="margin-top: 2em;"></div>
 
@@ -1003,11 +1076,11 @@ Nun geht es auf der nächsten Seite weiter mit der Durchführung des Experimente
 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 10 Min.) Erweiterte Aufgabe zur Durchführung**
+>> **⏰ 10 Minuten - Erweiterte Aufgabe zur Durchführung**
 
 <div style="margin-top: 2em;"></div>
 
-> _Aufgabenbeschreibung:_ Beladet euer Gefährt mit Matrosen (Metallmuttern) und zählt wie viele Matrosen eure Knete tragen kann. Die Matrosen sollen einzeln nach der anderen reingesetzt und gezählt werden. Der Matrose, der das Schiff untergehen lässt, zählt nicht mit dazu. <div style="margin-top: 2em;"></div> Optimiert das Gefährt immer weiter, so dass es mehr Matrosen halten kann. 
+> **Aufgabenbeschreibung:** Beladet euer Gefährt mit Matrosen (Metallmuttern) und zählt wie viele Matrosen eure Knete tragen kann. Die Matrosen sollen einzeln nach der anderen reingesetzt und gezählt werden. Der Matrose, der das Schiff untergehen lässt, zählt nicht mit dazu. <div style="margin-top: 2em;"></div> Optimiert das Gefährt immer weiter, so dass es mehr Matrosen halten kann. 
 
 <div style="margin-top: 2em;"></div>
 
@@ -1033,7 +1106,7 @@ Nun geht es auf der nächsten Seite weiter mit der Durchführung des Experimente
 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 5 Min.) Paaraustausch**
+>> **⏰ 5 Minuten - Paaraustausch 💬**
 
 > _Aufgabenbeschreibung_: Tauscht euch mit eurem Nachbarn über die folgenden Fragen aus und schreibt eure Antworten auf:
 
