@@ -668,6 +668,9 @@ Hier könnt ihr folgendes aufschreiben:
 ❗ HINWEIS 2: Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann sie in den [Videochat](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon weiterleiten.
 
 
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Öffnen Sie bitte den Videochat auch auf einem Tablet, mit dem eine Videokoferenz möglich ist. Nutzen Sie Ihr Tablet, um Fragen aus der Klasse direkt an Simon weiterzugeben. </span> 
+
+
 >> **(⏰ 5 Min.) Beginnende Einzelarbeit - JETZT**
 
 <div style="margin-top: 2em;"></div>
@@ -701,6 +704,13 @@ _Kleine Erinnerung:_ Das waren die **Hausaufgaben**:
 3. Sucht euch zuhause oder aus der Natur Gegenstände heraus, wiegt sie in eurer Hand und ratet, ob ihre Dichte größer oder kleiner als die von Wasser ist, sprich ob diese in Wasser schwimmen oder nicht. Danach setzt sie ins Wasser und überprüft eure Vermutung.
 
 
+### ...Fortsetzung Wiederholung & Fragensammlung 
+
+<div style="margin-top: 2em;"></div>
+
+<span style="font-size: 3em;">❓</span> Ich habe eure Fragen erhalten und werde sie euch nun beantworten... <span style="font-size: 3em;">❓</span>
+
+
 ### ...OPTIONAL: Fortsetzung Wiederholung (bei Bedarf noch einmal kurz durchgehen oder durchlesen lassen)
 <div style="margin-top: 2em;"></div>
 
@@ -716,27 +726,13 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 
 >> 📌 **Archimedisches Prinzip:** Die Auftriebskraft, die Wasser auf einen Körper ausübt, ist umso größer, je mehr Wasser dieser Körper verdrängt. Sie ist gleich der Gewichtskraft des verdrängten Wassers und ist der Gewichtskraft auf den Körper entgegengesetzt. <div style="margin-top: 2em;"></div> Ein schwimmender Körper verdrängt so viel Wasser, wie er selbst wiegt (also entsprechend seiner Masse). Hier ist die Auftriebskraft so groß wie die Gewichtskraft des Körpers. <div style="margin-top: 2em;"></div> Ein nicht-schwimmfähiger Körper verdrängt so viel Wasser, wie er selbst groß ist (also entsprechend seines Volumens). Hier ist die Auftriebskraft so groß wie die Gewichtskraft des verdrängten Wassers.
 
-<div style="margin-top: 2em;"></div>
-
-🧪 Dieses Wissen wenden wir heute beim Experimentieren an. Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Anschließend versuchen wir, Knete zum Schwimmen zu bringen und sie dazu noch besonders schwere Ladungen auf dem Wasser tragen zu lassen. 
 
 
-
-### ...Fortsetzung Wiederholung & Fragensammlung 
+### 3.2 Wozu forschen wir heute? 
 
 <div style="margin-top: 2em;"></div>
 
-<span style="font-size: 3em;">❓</span> Ich habe eure Fragen erhalten und werde sie euch nun beantworten... <span style="font-size: 3em;">❓</span>
-                         
-
-
-## 3.2 Nun wollen wir ausprobieren und forschen... 
-
-<div style="margin-top: 2em;"></div>
-
-Wozu forschen wir denn heute?
-
-<div style="margin-top: 2em;"></div>
+🧪 Das Wissen, welches ihr letzte Woche erworben habt, wenden wir heute an.
 
 Zunächst wollen wir die Dichte von verschiedenen Gegenständen und Stoffen bestimmen. Hierzu lernen wir ein **Verfahren zur Dichtebestimmung** kennen. 
 
@@ -749,7 +745,8 @@ LOS GEHT ES...
 <div style="margin-top: 2em;"></div>
 
 
-### Verfahren zur Dichtebestimmung - Planung und Vorbereitung
+
+### 3.3 Verfahren zur Dichtebestimmung
 
 <div style="margin-top: 2em;"></div>
 
@@ -791,7 +788,7 @@ LOS GEHT ES...
 
 
 
-### ... Fortsetzung Dichtebestimmung: Durchführung
+### ... Fortsetzung Verfahren zur Dichtebestimmung: Durchführung
 
 <div style="margin-top: 2em;"></div>
 
@@ -847,7 +844,7 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier _ODER_ nehmt den Ausdr
 ❗ Um die Tabelle mit den korrekten Dichten auf dem Smartboard anzeigen zu können, öffnen Sie den Moodle-Link zu Aufgabe xy. Das Passwort hatten Sie in Ihren "FAQ's". Die SuS sollen ihre Werte mit denen auf dem Smartboard vergleichen.
 </span> 
 
-### ... Fortsetzung Dichtebestimmung: Auswertung 
+### ... Fortsetzung Verfahren zur Dichtebestimmung: Auswertung 
 <div style="margin-top: 2em;"></div>
 
 >> **(⏰ 5 Min.) Auswertung des Verfahrens**
@@ -877,7 +874,7 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier _ODER_ nehmt den Ausdr
 - [ ] Bringt nun alle Gegenstände, Messbecher und Waagen zurück auf den Tisch und packt Taschenrechner, Geodreieck, Papier und Stift ein. Dies braucht ihr nun nicht mehr. 
 
 
-## Experiment - Kann Knete schwimmen?
+## 3.4 Experiment - Kann Knete schwimmen?
 
 <div style="margin-top: 2em;"></div>
 
@@ -992,7 +989,7 @@ Nun geht es auf der nächsten Seite weiter mit der Durchführung des Experimente
 
 <div style="margin-top: 2em;"></div>
 
->> (⏰ 10 Min.) Erweiterte Aufgabe zur Durchführung
+>> **(⏰ 10 Min.) Erweiterte Aufgabe zur Durchführung**
 
 <div style="margin-top: 2em;"></div>
 
@@ -1046,17 +1043,60 @@ Tauscht euch zunächst wieder mit eurem Nachbar aus. Diskutiert anschließend eu
 Die Lernbegleitung führt das entsprechende Experiment vor:
 Einer der großen Messbecher (2000ml) wird zu etwa dreiviertel mit Wasser gefüllt. Eine Glasschüssel wird auf das Wasser gesetzt und mit ca 100 (??) Muttern befüllt. Der Wasserstand wird abgelesen und aufgeschrieben. Dann werden die Muttern aus der Schüssel ins Wasser gekippt und die leere Schüssel wieder ins Wasser gesetzt. Der Wasserstand wird erneut abgelesen und mit dem vorherigen Wert verglichen.
 
-### Zusammenfassung zur heutigen Doppelstunde
+## 3.5 Lernreflexion, Zusammenfassung, Ausblick
+
+<div style="margin-top: 2em;"></div>
+
+Nun wollen wir uns noch einmal anschauen, was ihr nun bereits gelernt habt und was noch folgt.
+
+
+
+### Lernreflexion und Feedback
+
+<div style="margin-top: 2em;"></div>
+
+>> **(⏰ 5 Min.) Lernreflexion und Feedback im Plenum**
 
 <div style="margin-top: 2em;"></div>
 
 
+> 🙋‍♂️🙋 Berichtet zu den folgenden Fragen:
+
+<div style="margin-top: 2em;"></div>
+
+1. Das war heute besonders spannend...
+2. Das habe ich gelernt...
+3. Das...
 
 
+### ... Zusammenfassung zur heutigen Doppelstunde
+
+<div style="margin-top: 2em;"></div>
+
+>> 💡 Wir haben heute das Wissen aus der letzten Doppelstunde genutzt und mithilfe der Gleichung **Dichte rho= Masse m / Volumen V** die Dichte von verschiedenen Gegenständen bestimmt und gesehen, dass verschiedene Stoffe (Glas, Kunststoff, Holz, Metall) unterschiedliche Dichten haben.
+
+>> 💡 Wir haben das Archimedische Prinzip genutzt, um Boote zu bauen, die möglichst viel Last über Wasser halten können. Dazu mussten Boote konstruiert werden, die viel Wasser verdrängen und damit eine große Auftriebskraft erhalten.
 
 
+## ... Ausblick auf die nächste Woche
 
-## Zusammenfassung - Das Forschungsprotokoll
+Nächste Woche werden wir dann sehen, was passiert, wenn wir ein anderes Medium als Wasser wählen. In Flüssigkeiten, die eine andere Dichte als Wasser haben, gelten dieselben Gesetze, aber der Auftrieb ist größer oder kleiner als im Wasser. Selbst die Luft, die uns umgibt, ist ein Medium, das Auftrieb verleiht. Und genau wie im Wasser auch, gilt: Wenn ihr es schafft, dass eure Dichte kleiner als die von Luft ist, könnt ihr auf der Luft schwimmen… das nennt man dann auch Schweben. Probiert’s doch mal aus ;)
+Bis nächste Woche!
+ 
+
+
+### OPTIONAL: Zusammenfassung - Das Forschungsprotokoll
+
+<div style="margin-top: 2em;"></div>
+
+---
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Sie können hier, falls noch Zeit zur Verfügung steht, das Forschungsprotokoll noch einmal zusammenfassend vorlesen lassen.
+</span> 
+
+---
+
+<div style="margin-top: 2em;"></div>
 
 Ein Forschungsprotokoll ist wie folgt strukturiert: 
 
@@ -1066,87 +1106,154 @@ Ein Forschungsprotokoll ist wie folgt strukturiert:
 4. (**Durchführung**) Beschreibung der Durchführung des Experimentes, also der einzelnen Schritte, um die Hypothese zu überprüfen 
 5. (**Untersuchungsergebnis**) Beschreibung des Untersuchungsergebnisses unter Rückbezug auf die Hypothese
 
-   
-
-
-
-
-
-## 3.3 Wozu forschen wir denn heute? 
-
-
-... zu der Frage, wie wir die Dichte von Gegenständen und Stoffen experimentell bestimmen können... 
-
-
-## 3.4 Teil I - Fragestellung 
-Formuliert die naturwissenschaftliche Frage, zu der ihr heute „forscht“.
-
-Schreibt euch diese auf.
-
-
-
-## 3.5 Teil II - Hypothese basierend auf der naturwissenschaftlichen Frage 
-Stellt eine Hypothese basierend auf der naturwissenschaftlichen Frage auf. Das geht so… 
-
-
-## 3.6 Teil III - Planung / Untersuchungsaufbau
-
-Beschreibung der Planung des Experimentes, um die Hypothese zu überprüfen 
-
-
-<div style="margin-top: 3em;"></div>
->> Schritt 1: Nehmt euch zunächst euer Geodreieck einen Taschenrechner. Das braucht ihr etwas später.
-<div style="margin-top: 3em;"></div>
-
->> Schritt 2: Zum Experimentieren tut euch in 3-er Gruppen zusammen. Einer von euch holt dann die Materialien. Sobald alle die Materialien haben, wird eure begleitende Lehrkraft euch durch das Experimentieren begleiten.  
-<div style="margin-top: 3em;"></div>
-
->> Schritt 3: benötigte Materialien für das Experimentieren
-Muttern (Metall) 
-Würfel (Kunststoff)
-Klinkersteine (Stein)
-Verschiedene Holzquader (Holz)
-Stößel (Keramik)
-Murmeln (Glas)
-Geschlossenes Schraubglas mit Luft darin (Kombination Glas+Luft)
 
 
 
 
 
 
+# 5. Unterrichtsstunde - Übertragung des bisher Gelernten 🕵️‍♀️ 🕵️
+
+<div style="margin-top: 2em;"></div>
+
+>> **(⏰ 5 Min.) Vorbereitung auf die Unterrichtsstunde und Einlesen**
+
+> _Aufgabenbeschreibung:_ Bereitet euch selbstständig vor: 
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Jeder holt sich ein Tablet von vorne.
+- [ ] Legt euch wieder Zettel und Stift vor euch. 
+- [ ] Es wird wieder der folgende QR-Code gescannt:
+- [ ] Ihr beginnt dann bereits, euch durch die folgenden drei Seiten zu klicken. 
+
+<div style="margin-top: 2em;"></div>
 
 
 
+## 5.1 Rückblick, Wiederholung und Zusammenfassung 
+
+<div style="margin-top: 2em;"></div>
+
+>> **(⏰ 5 Min.) Rückblick**
+
+<div style="margin-top: 2em;"></div>
+
+> _Aufgabenbeschreibung:_ Beantworte die folgenden Fragen:
+
+1. Was habe ich mir aus den letzten vier Physikstunden gemerkt? Schreibe die vier für dich prägsamsten Dinge auf.
+
+<div style="margin-top: 2em;"></div>
+
+2. Was möchte ich nochmal zuhause wiederholen, um es noch besser zu verstehen? Wie kann und werde ich das tun? 
 
 
+<div style="margin-top: 2em;"></div>
+
+---
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Beenden Sie nach 5 Minuten die Aufgabe. 
+</span> 
+
+---
 
 
-# 5. Unterrichtsstunde - Übertragung des bisher Gelernten 🕵️‍♀️
+### Wiederholung und Zusammenfassung 
 
->> Beginnt schon einmal in Einzelarbeit mit der Beantwortung der folgenden Fragen:
->> ...
+<div style="margin-top: 2em;"></div>
+
+> 📌 Die Dichte ist definiert als **rho= m / V** und beschreibt, wie viel Masse m in einem bestimmten Volumen V vorhanden ist.
+
+<div style="margin-top: 2em;"></div>
+
+> 📌 Ein Körper schwimmt in Wasser, wenn seine Dichte kleiner ist als die des Wassers. Ein Körper sinkt, wenn seine Dichte größer ist als die des Wassers.
+
+<div style="margin-top: 2em;"></div>
+
+> 📌 Archimedisches Prinzip: <div style="margin-top: 2em;"></div> Die Auftriebskraft, die Wasser auf einen Körper ausübt, ist umso größer, je mehr Wasser dieser Körper verdrängt. Sie ist gleich der Gewichtskraft des verdrängten Wassers und ist der Gewichtskraft auf den Körper entgegengesetzt.
+
+<div style="margin-top: 2em;"></div>
+
+> 📌 Ein schwimmender Körper verdrängt Wasser entsprechend seiner Masse. Hier ist die Auftriebskraft so groß wie die Gewichtskraft des Körpers. <div style="margin-top: 2em;"></div> Ein nicht-schwimmfähiger Körper verdrängt Wasser entsprechend seines Volumens. Hier ist die Auftriebskraft so groß wie die Gewichtskraft des verdrängten Wassers.
 
 
+## 5.2 Andere Flüssigkeiten - Öl und Salzwasser
 
-## 5.1 Transferaufgabe 1️⃣
-> Aufgabe 1: ....
+VIDEO 4.1
 
-> Aufgabe 1a: ....
 
-> Aufgabe 2: ....
-## 5.2 Transferaufgabe 2️⃣
-> Aufgabe 1: ....
+## 5.3. Das Medium Luft 
+<div style="margin-top: 2em;"></div>
 
-> Aufgabe 1a: ....
+>> **(⏰ 5 Min.) Fragen und Feedback an Simon**
 
-> Aufgabe 2: ....
-## 5.3 Transferaufgabe 3️⃣
-> Aufgabe 1: ....
+<div style="margin-top: 2em;"></div>
 
-> Aufgabe 1a: ....
+> _Aufgabenbeschreibung_: Lest den folgenden Text 📖.
 
-> Aufgabe 2: ....
+> Wir wissen schon, dass 1L Wasser 1kg wiegt, aber wie viel wiegt eigentlich die Luft? Hat die Luft ein Gewicht? Ja, hat sie. Wenn du eine 1L Wasserflasche auskippst, wiegt die Luft, die anschließend in der Flasche ist, etwa 1,3g. 
+
+> Luft hat also eine Dichte von etwa 1,3 g/L bzw. 1,3 kg/m³. Die Dichte von Luft ist ungefähr 770 mal kleiner als die unseres menschlichen Körpers. Deswegen laufen wir auch am Meeresgrund dieses Luftozeans umher und können nicht durch die Luft schwimmen. Nichtsdestotrotz wirkt auf unsere Körper auch in der Luft ein kleiner Auftrieb, denn die Luft hat auch Masse, wenn auch eine sehr kleine. Das archimedische Prinzip besagt, dass die Auftriebskraft so groß ist wie die, die auf die Masse des verdrängten Mediums wirkt. Dies gilt auch im Medium Luft.
+
+> Tatsächlich würden wir uns ohne Luft etwa 1/770tel schwerer fühlen, denn die Luft übt eine - wenn auch kleine – Auftriebskraft auf uns aus. Die Luft macht uns also das Leben ein bisschen leichter ;) Wie viel leichter? Wenn ihr 50kg wiegt, hat euer Körper ein Volumen von etwa 50L. Ihr verdrängt also 50L Luft, die ca. 65g wiegen. Diese 65g spürt ihr dann als Auftriebskraft. 
+Im Wasser ist der Effekt natürlich viel stärker, da Wasser eine viel höhere Dichte hat als Luft. Da verdrängt der Körper 50L Wasser, die 50kg wiegen und die Gewichtskraft ziemlich genau aufheben.
+
+
+Tauscht euch danach kurz mit eurem Sitznachbarn / eurer Sitznachbarin aus: 
+
+## 5.4 Dichte von Gasen / Schweben und Fliegen
+
+<div style="margin-top: 2em;"></div>
+
+VIDEO 4.2 Heliumballon und CO2-Aquarium und Auflösung Ballon im Auto
+
+
+## 5.5 Was haben wir gelernt? 
+
+<div style="margin-top: 2em;"></div>
+
+>> **(⏰ 3 Min.) Einzelarbeit**
+
+<div style="margin-top: 2em;"></div>
+
+> _Aufgabenbeschreibung:_ Lese den folgenden Text 📖.
+
+<div style="margin-top: 2em;"></div>
+
+Die wichtigsten Merksätze der letzten Stunden können also von Wasser auf andere Medien verallgemeinert werden:
+
+<div style="margin-top: 2em;"></div>
+
+>> 📌 1. Die Dichte ist definiert als **rho= m / V** und beschreibt, wie viel Masse m in einem bestimmten Volumen V vorhanden ist.
+
+<div style="margin-top: 2em;"></div>
+
+>> 📌 2. Ein Körper schwimmt in einem Medium, wenn seine Dichte kleiner ist als die des Mediums. Ein Körper sinkt, wenn seine Dichte größer ist als die des Mediums.
+
+<div style="margin-top: 2em;"></div>
+
+>> 📌 3. Die Auftriebskraft, die ein Medium auf einen Körper ausübt, ist umso größer, je mehr dieser Körper das ihn umgebende Medium verdrängt. Sie ist gleich der Gewichtskraft des verdrängten Mediums und ist der Gewichtskraft auf den Körper entgegengesetzt.
+
+<div style="margin-top: 2em;"></div>
+
+>> 📌 4. Ein schwimmender oder schwebender Körper verdrängt so viel des Mediums, wie er selbst wiegt, also entsprechend seiner Masse. Hier ist die Auftriebskraft so groß wie die Gewichtskraft des Körpers.
+Ein Körper, der in einem Medium nicht schwimmt/schwebt, verdrängt so viel des Mediums, wie er selbst groß ist, also entsprechend seines Volumens. Hier ist die Auftriebskraft so groß wie die Gewichtskraft des verdrängten Mediums.
+
+<div style="margin-top: 2em;"></div>
+
+
+Und mit diesen 4 Sätzen kannst du jetzt versuchen, die folgenden Quiz-Fragen zu beantworten… Gehe dazu auf die nächste Seite. 
+
+---
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Lassen Sie die Merksätze vorne an der Tafel geöffnet, während die SuS die Fragen auf der nächsten Seite beantworten. 
+</span> 
+
+---
+
+
+## 5.6 Fragensammlung 
+
 
 
 ## OPTIONAL
