@@ -659,7 +659,14 @@ Hier könnt ihr folgendes aufschreiben:
 
 <div style="margin-top: 2em;"></div>
 
-❗ HINWEIS: für diese Physikeinheit braucht ihr kein eigenes Tablet. Ihr werdet experimentieren und Simon navigiert euch am Smartboard durch die zwei Stunden. 
+❗ HINWEIS 1: für diese Physikeinheit braucht ihr kein eigenes Tablet. Ihr werdet experimentieren und Simon navigiert euch am Smartboard durch die zwei Stunden. 
+
+
+<div style="margin-top: 2em;"></div>
+
+
+❗ HINWEIS 2: Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann sie in den [Videochat](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon weiterleiten.
+
 
 >> **(⏰ 5 Min.) Beginnende Einzelarbeit - JETZT**
 
@@ -728,21 +735,32 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 
 <div style="margin-top: 2em;"></div>
 
->> **(⏰ 5 Min.) Vorbereitung**
+LOS GEHT ES...
 
--[] Schritt 1: Ihr braucht euer Geodreieck, eure Taschenrechner, einen Stift und Zettel. 
-<div style="margin-top: 2em;"></div>
--[] Schritt 2: Findet euch zum Experimentieren in 4-er Gruppen an einem Tisch zusammen. 
-<div style="margin-top: 2em;"></div>
--[] Schritt 3: Holt euch vorne bei der Lernbegleitung einen **Aufgabenzettel, eine Waage, einen kleinen Messbecher (250ml) und ein Handtuch**. Zudem braucht ihr noch einen mittleren Messbecher (1000ml) und füllt diesen etwa zur Hälfte mit Wasser.
-<div style="margin-top: 2em;"></div>
--[] Schritt 4: Sobald alle die Materialien haben, wird eure begleitende Lehrkraft euch durch das Experimentieren begleiten. 
 <div style="margin-top: 2em;"></div>
 
-## Experiment 1 zur Dichtebestimmung - Aufgabenbeschreibung
+>> **(⏰ 5 Min.) Planung und Vorbereitung**
 
->> **(⏰ 5 Min.) Vorbereitung**
+- [ ] Schritt 1: Nehmt euch **euer Geodreieck, eure Taschenrechner, einen Stift und Zettel**.
 
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 2: Findet euch zum Experimentieren in **4-er Gruppen an einem Tisch** zusammen.
+      
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 3: Holt euch vorne bei der Lernbegleitung einen **Aufgabenzettel, eine Waage, einen kleinen Messbecher (250ml) und ein Handtuch**. Zudem braucht ihr noch einen mittleren **Messbecher (1000ml)** und füllt diesen etwa zur Hälfte mit Wasser.
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 4: Sobald alle die Materialien haben, werde ich euch durch das Experimentieren leiten & eure begleitende Lehrkraft unterstützt euch, wenn ihr Hilfe benötigt. 
+
+
+
+
+### Experiment 1 zur Dichtebestimmung - Durchführung
+
+>> **(⏰ 3 Min.) Beschreibung der Durchführung und Hinweise**
 
 > _Aufgabe:_ Vorn liegen verschiedene **Gegenstände aus verschiedenen Materialien (Metall, Holz, Glas etc.)**. **Bestimmt die Dichte** dieser Gegenstände. Messt dazu das **Volumen** und das **Gewicht** und berechnet daraus die Dichte. Tragt eure Ergebnisse in die folgende **Tabelle** ein. Die ausgerechneten Dichten sollen in **g/cm³** angegeben werden (1cm³ = 1ml) und **auf zwei Nachkommastellen gerundet** werden. Jedem Gegenstand ist ein Buchstabe zugeordnet. Wenn ihr alle Gegenstände **nach aufsteigender Dichte** sortiert, ergibt sich ein **Lösungswort**.
 
@@ -760,9 +778,13 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 - Bei **kleinen Gegenständen** ist es hilfreich, nicht nur einen zu messen sondern **mehrere** zu nehmen, z.B. 50 Muttern oder 20 Würfel. Dann wird die Messung genauer. Tragt dann in der Spalte „Menge“ ein, wie viele ihr gemessen habt. <div style="margin-top: 2em;"></div>
 - Wiegt die Gegenstände möglichst **trocken**, da das Gewicht des Wassers die Messung verfälscht.
 
+<div style="margin-top: 2em;"></div>
+
 ---
 
-Schreibt euch die Tabelle wie folgt auf euer Blatt Papier: 
+<div style="margin-top: 2em;"></div>
+
+Schreibt euch die Tabelle wie folgt auf euer Blatt Papier _ODER_ nehmt den Ausdruck: 
 
 
 | Gegenstand | Material | Buchstabe | Menge | Masse in g | Volumen in ml bzw. cm³ | Dichte in g/cm³ bzw. g/ml |
@@ -780,7 +802,99 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier:
 
 <div style="margin-top: 3em;"></div>
 
+---
 
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Sobald die letzte Gruppe die Tabelle vollständig ausgefüllt und das Lösungswort herausgefunden hat, wird gemeinsam ausgewertet. Dann sollten auch die SuS, die sich der Zusatzaufgabe angenommen haben, diese abbrechen und gerne zuhause weiterrechnen.
+❗ Um die Tabelle mit den korrekten Dichten auf dem Smartboard anzeigen zu können, öffnen Sie den Moodle-Link zu Aufgabe xy. Das Passwort hatten Sie in Ihren "FAQ's". Die SuS sollen ihre Werte mit denen auf dem Smartboard vergleichen.
+</span> 
+
+### Experiment 1 zur Dichtebestimmung - Untersuchungsergebnis 
+
+>> **(⏰ 3 Min.) Beschreibung der Durchführung und Hinweise**
+
+> _Aufgabenbeschreibung:_ 🙋 Sammelt im Plenum zu den folgenden Fragen:
+
+<div style="margin-top: 2em;"></div>
+
+> Was ist das Lösungswort?
+
+<div style="margin-top: 2em;"></div>
+
+> Was hat euch erstaunt oder überrascht?
+
+<div style="margin-top: 2em;"></div>
+
+> Wie hat das, was ihr nun gemacht habt, mit dem zu tun, was ihr vergangene Woche gelernt habt? 
+
+<div style="margin-top: 2em;"></div>
+
+[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=placeholder)](placeholder)
+
+---
+
+
+- [ ] Bringt nun alle Gegenstände, Messbecher und Waagen zurück auf den Tisch und packt Taschenrechner, Geodreieck, Papier und Stift ein. Dies braucht ihr nun nicht mehr. 
+
+
+## Experiment 2 - Knete zum Schwimmen bringen: Fragestellung 
+
+<div style="margin-top: 2em;"></div>
+
+Jetzt haben wir die Dichte experimentell bestimmt. 
+Im nächsten Experiment schauen wir uns das Archimedische Prinzip an, welches besagt:
+Der Auftrieb eines Körpers in Wasser ist genauso groß wie die Gewichtskraft des vom Körper verdrängten Wassers.
+
+Eure Lehrkraft hält drei Gegenstände hoch, sodass alle sie sehen können: Einen Stein, eine Holzkugel, eine Knetkugel. Die sind alle etwa gleich groß.
+
+❓ Was davon geht unter, was nicht?
+
+Nach dem Raten einfach mal testen: Die Lernbegleitung legt die drei Dinge nacheinander ins Wasser. Ergebnis: Der Stein geht unter, die Holzkugel schwimmt und die Knete geht unter wie der Stein.
+
+Aber anders als einen Stein kann man Knete verformen.
+
+Fragestellung: Wie können wir die Knete zum Schwimmen bringen? _ODER_ Hypothese: Knete kann schwimmen.
+
+
+### Experiment 2 - Boote bauen: Planung & Untersuchungsaufbau
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 1: Bringt alle Gegenstände, Messbecher und Waagen zurück auf den Tisch und packt Taschenrechner, Geodreieck, Papier und Stift ein.
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 2: Findet euch zum Experimentieren in 2-er Gruppen an einem Tisch zusammen.
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 3: Einer von euch holt vorne bei der Lernbegleitung eine Plastikbox und füllt diese etwa zur Hälfte mit Wasser. Ein anderer holt zwei Knetkugeln, für jeden von euch eine.
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Schritt 4: Sobald alle die Materialien an ihrem Tisch haben, beginnt ihr: Wie könnt ihr die Knete zum Schwimmen bringen? Probiert es aus... 
+
+
+### Experiment 2 - Boote bauen: Durchführung
+
+Hinweis für die Lernbegleitung:
+Wenn die ersten Kneteformen schwimmen (vermutlich nach etwa 3min), kommt eine weitere Aufgabe hinzu.
+	
+Aufgabe: Beladet euer Gefährt mit Matrosen (Metallmuttern) und zählt wie viele Matrosen eure Knete tragen kann. Die Matrosen sollen einzeln nach der anderen reingesetzt und gezählt werden. Der Matrose, der das Schiff untergehen lässt, zählt nicht mit dazu. 
+
+Ihr habt 10min Zeit, das Gefährt immer weiter zu optimieren, sodass es mehr Matrosen halten kann. 
+	
+Hinweis für die Lernbegleitung:
+	Nach ein paar Minuten können folgende Tipps gegeben werden:
+-	Auf Schwachstellen an der Reling achten, an denen das Wasser zuerst in das Gefährt eindringt, und diese ausbessern.
+-	Die Schale möglichst groß machen.
+-	Auf eine gleichmäßige Beladung achten.
+
+Nach ca. 10-15min abbrechen. Zu diesem Zeitpunkt können manche Boote vermutlich schon über 10 Matrosen tragen.
+
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Sobald die letzte Gruppe die Tabelle vollständig ausgefüllt und das Lösungswort herausgefunden hat, wird gemeinsam ausgewertet. Dann sollten auch die SuS, die sich der Zusatzaufgabe angenommen haben, diese abbrechen und gerne zuhause weiterrechnen.
+❗ Um die Tabelle mit den korrekten Dichten auf dem Smartboard anzeigen zu können, öffnen Sie den Moodle-Link zu Aufgabe xy. Das Passwort hatten Sie in Ihren "FAQ's". Die SuS sollen ihre Werte mit denen auf dem Smartboard vergleichen.
+</span> 
 
 
 ## Das Forschungsprotokoll: Schreibt euch die folgende Struktur für das Forschungsprotokoll in euren Hefter. Dieses braucht ihr, während ihr das Experiment durchführt. 
@@ -795,7 +909,7 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier:
 
 ## ... Fortsetzung Vorbereitung für das Experimentieren - Fragen
 
->> # ❗ Wendet euch bei Fragen an eure begleitende Lehrkraft. Sollte diese keine Antwort haben, kann sie in den [Videochat](https://cloud.die-kinderwelt.com/call/nk5g2cqt) die Frage an Simon weiterleiten.
+
 
 
 
