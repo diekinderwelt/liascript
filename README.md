@@ -206,13 +206,13 @@ _**ENDE DER HINWEISE**_
 
 <div style="margin-top: 2em;"></div> 
 
->> **(⏰ 3 Min.) Aufgabe 1a: Paararbeit 💬**
+>> **⏰ 3 Minuten - Aufgabe 1a: Paararbeit 💬**
 
 <div style="margin-top: 2em;"></div> 
 
-> __**Aufgabenbeschreibung:**__ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+> __**Aufgabenbeschreibung:**__ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
-<div style="margin-top: 4em;"></div> 
+<div style="margin-top: 3em;"></div> 
 
 
 <span style="font-size: 2em;">❓</span> Was passiert mit den beiden Ballons, wenn man während der Fahrt stark abbremst? Gehen die Ballons nach vorne oder nach hinten oder bleiben sie aufrecht?
