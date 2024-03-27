@@ -87,25 +87,22 @@ details[open] > *:not(summary) {
 
 --- 
 
-<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis an die Lehrkraft:** Sie stehen hier unterstützend zur Seite und schauen, ob alle SuS langsam ankommen und der Aufgabe nachgehen. Unterstützen Sie bei Bedarf. 
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis an die Lehrkraft:** Die SuS lesen sich eigenständig durch die nächsten Seiten. Sie stehen hier unterstützend zur Seite und schauen, ob alle SuS langsam ankommen und der Aufgabe nachgehen. Unterstützen Sie bei Bedarf. 
 </span>
 
 ---
 
 ## Einführung Hinweise
 
-Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div> 
+Ihr braucht nun noch Folgendes:  <div style="margin-top: 2em;"></div> 
 
 - [ ] 📝 mind. zwei Blatt Papier, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten zu Aufgabenstellungen oder Notizen (Blatt 1) und Fragen (Blatt 2) aufschreiben könnt.
 
 <div style="margin-top: 2em;"></div> 
 
-<span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hinweis an die Lehrkraft: Die Schüler und Schülerinnen können diesen Part schon lesen, sich bereits die Tablets abholen und alles vobereiten. 
-</span>
 
-<div style="margin-top: 2em;"></div> 
+> ❗ Navigiert euch weiter, bis euch _"ENDE DER HINWEISE"_ begegnet. <div style="margin-top: 2em;"></div> 
 
-> ❗ Navigiert euch von hier aus weiter, bis euch _"ENDE DER HINWEISE"_ begegnet. <div style="margin-top: 2em;"></div> Wenn ihr Fragen haben solltet, meldet euch.
 
 
 ## ... Fortsetzung Hinweise 
@@ -168,10 +165,12 @@ Diese Symbole sind nur für die Orientierung eurer begleitenden Lehrkraft gedach
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ Hierbei handelt es sich um Hinweise für eure Lehrkraft - diese betreffen euch nicht.</span>
 
+---
+
 <div style="margin-top: 4em;"></div> 
 
 _**ENDE DER HINWEISE**_
-<div style="margin-top: 2em;"></div> 
+
 
 ---
 
@@ -179,8 +178,7 @@ _**ENDE DER HINWEISE**_
 
 # 1. Unterrichtsstunde - Einstieg 🔍
 
-<iframe src="https://giphy.com/embed/l2JecCAExsqUC4HDy" width="100%" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-13-the-simpsons-13x7-l2JecCAExsqUC4HDy">via GIPHY</a></p>
-
+<div style="margin-top: 2em;"></div> 
 
 > Es geht heute um... <span style="font-size: 4em;">❓</span> Lasst es uns gemeinsam herausfinden... 
 
@@ -196,18 +194,23 @@ _**ENDE DER HINWEISE**_
 !?[Video 1 - Teil 1: Begrüßung & Ballons im Auto](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download)
 
 <div style="margin-top: 3em;"></div> 
+
 ---
-<div style="margin-top: 3em;"></div> 
 
 <span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Das Video sollte im Großformat gezeigt werden. Wenn während des Videos ein Fragezeichen kommt, stoppen Sie kurz und lassen Sie die gestellte Frage im Plenum max. 2 Minuten beantworten. Nach Ende des Videos klicken Sie eine Seite weiter - es folgt eine Fragestellung.</span>
+
+---
+
 
 ### Aufgabenstellung zum Video 1 - Teil 1
 
 <div style="margin-top: 2em;"></div> 
 
 >> **(⏰ 3 Min.) Aufgabe 1a: Paararbeit 💬**
+
 <div style="margin-top: 2em;"></div> 
-> _Aufgabenbeschreibung:_ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+
+> **__Aufgabenbeschreibung:__** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch zwei Minuten mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
 <div style="margin-top: 4em;"></div> 
 
