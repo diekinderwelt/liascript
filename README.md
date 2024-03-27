@@ -261,7 +261,7 @@ Hier seht ihr die Aufösung und es folgt eine neue Frage...
 
 <div style="margin-top: 4em;"></div> 
 
-❓ Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
+❓ 1. Welche Körperposition muss ich einnehmen, damit ich an der Wasseroberfläche bleibe? 
 
 - [ ] a) gehockt, weil...
 - [ ] b) gestreckt, weil...
@@ -269,7 +269,7 @@ Hier seht ihr die Aufösung und es folgt eine neue Frage...
 
 <div style="margin-top: 4em;"></div> 
 
-❓ Welche Körperposition muss ich einnehmen, damit ich untergehe? 
+❓ 2. Welche Körperposition muss ich einnehmen, damit ich untergehe? 
 
 - [ ] a) gehockt, weil...
 - [ ] b) gestreckt, weil...
@@ -724,16 +724,34 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
                          
 
 
-## 3.2 Experiment zur Dichtebestimmung 
+## 3.2 Experiment 1 zur Dichtebestimmung 
 
 <div style="margin-top: 2em;"></div>
 
 >> **(⏰ 5 Min.) Vorbereitung**
 
-> _Aufgabe:_ Vorn liegen verschiedene Gegenstände aus verschiedenen Materialien (Metall, Holz, Glas etc.). Bestimmt die Dichte dieser Gegenstände. Messt dazu das Volumen und das Gewicht und berechnet daraus die Dichte. Tragt eure Ergebnisse in die folgende Tabelle ein. Die ausgerechneten Dichten sollen in g/cm³ angegeben werden (1cm³ = 1ml) und auf zwei Nachkommastellen gerundet werden. Jedem Gegenstand ist ein Buchstabe zugeordnet. Wenn ihr alle Gegenstände nach aufsteigender Dichte sortiert, ergibt sich ein Lösungswort.
+-[] Schritt 1: Ihr braucht euer Geodreieck, eure Taschenrechner, einen Stift und Zettel. 
+<div style="margin-top: 2em;"></div>
+-[] Schritt 2: Findet euch zum Experimentieren in 4-er Gruppen an einem Tisch zusammen. 
+<div style="margin-top: 2em;"></div>
+-[] Schritt 3: Holt euch vorne bei der Lernbegleitung einen **Aufgabenzettel, eine Waage, einen kleinen Messbecher (250ml) und ein Handtuch**. Zudem braucht ihr noch einen mittleren Messbecher (1000ml) und füllt diesen etwa zur Hälfte mit Wasser.
+<div style="margin-top: 2em;"></div>
+-[] Schritt 4: Sobald alle die Materialien haben, wird eure begleitende Lehrkraft euch durch das Experimentieren begleiten. 
+<div style="margin-top: 2em;"></div>
+
+## Experiment 1 zur Dichtebestimmung - Aufgabenbeschreibung
+
+>> **(⏰ 5 Min.) Vorbereitung**
+
+
+> _Aufgabe:_ Vorn liegen verschiedene **Gegenstände aus verschiedenen Materialien (Metall, Holz, Glas etc.)**. **Bestimmt die Dichte** dieser Gegenstände. Messt dazu das **Volumen** und das **Gewicht** und berechnet daraus die Dichte. Tragt eure Ergebnisse in die folgende **Tabelle** ein. Die ausgerechneten Dichten sollen in **g/cm³** angegeben werden (1cm³ = 1ml) und **auf zwei Nachkommastellen gerundet** werden. Jedem Gegenstand ist ein Buchstabe zugeordnet. Wenn ihr alle Gegenstände **nach aufsteigender Dichte** sortiert, ergibt sich ein **Lösungswort**.
+
+<div style="margin-top: 2em;"></div>
 
 
 > ❗ Lest euch auch die folgenden Hinweise genau durch bevor ihr loslegt:
+
+<div style="margin-top: 2em;"></div>
 
 - Nehmt euch pro Gruppe immer **nur einen Gegenstand zu eurem Tisch** und bringt ihn zurück, wenn ihr mit ihm fertig seid. <div style="margin-top: 2em;"></div>
 - Das **Volumen der Holzformen** solltet ihr mit dem **Geodreieck** bestimmen. Dass die Ecken abgerundet sind, könnt ihr vernachlässigen. Messt von einer Fläche zur gegenüberliegenden Fläche. Volumen eines Quaders: Breite x Länge x Höhe. Volumen eines Zylinders: (1/2 x Durchmesser)^2 x π x Höhe <div style="margin-top: 2em;"></div>
@@ -742,6 +760,7 @@ Zusammenfassung - Das haben wir letzte Woche erfahren:
 - Bei **kleinen Gegenständen** ist es hilfreich, nicht nur einen zu messen sondern **mehrere** zu nehmen, z.B. 50 Muttern oder 20 Würfel. Dann wird die Messung genauer. Tragt dann in der Spalte „Menge“ ein, wie viele ihr gemessen habt. <div style="margin-top: 2em;"></div>
 - Wiegt die Gegenstände möglichst **trocken**, da das Gewicht des Wassers die Messung verfälscht.
 
+---
 
 Schreibt euch die Tabelle wie folgt auf euer Blatt Papier: 
 
@@ -758,11 +777,6 @@ Schreibt euch die Tabelle wie folgt auf euer Blatt Papier:
 |Murmeln	|Glas |E |  |  |  |   |
 |Geschlossenes Schraubglas mit Luft darin| Glas+Metall+Luft|A |  |  |  |   |
 
-	A
-
-??Hierzu ggf. hilfreich, ein kurzes allgemeines Video zu erstellen?? 
-
-ggf. Frage an die SuS - Wofür ist es sinnvoll, dass wir ein Forschungsprotokoll schreiben? Wer hat eine Idee? 
 
 <div style="margin-top: 3em;"></div>
 
