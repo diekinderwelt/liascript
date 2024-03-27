@@ -69,8 +69,6 @@ details[open] > *:not(summary) {
 
 <div style="margin-top: 2em;"></div>
 
-<iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
-
 >> MACHT JETZT FOLGENDES:
 
 <div style="margin-top: 2em;"></div>
@@ -83,7 +81,7 @@ details[open] > *:not(summary) {
 
 <div style="margin-top: 2em;"></div>
 
-- [ ] Beginnt dann selbstständig, die Hinweise durchzulesen und euch vorzubereiten. Dafür klickt ihr unten den Pfeil nach rechts. Wenn ihr Unterstützung benötigt, fragt eure Mitschüler / Mitschülerinnen oder eure Lehrkraft.
+- [ ] 📖 Beginnt dann selbstständig, die Hinweise durchzulesen und euch vorzubereiten. Dafür klickt ihr unten den Pfeil nach rechts. Wenn ihr Unterstützung benötigt, fragt eure Mitschüler / Mitschülerinnen oder eure Lehrkraft.
 
 <div style="margin-top: 2em;"></div>
 
