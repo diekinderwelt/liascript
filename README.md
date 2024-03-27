@@ -61,29 +61,44 @@ details[open] > *:not(summary) {
 
 <div style="margin-top: 2em;"></div> 
 
-> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium. Nachdem ihr die folgenden Hinweise gelesen habt und euch alles besorgt habt, was ihr braucht, werdet ihr Simon in einem ersten Video kennenlernen.
+> ⏰ (5 Min.) Lest nun schon einmal die folgenden Hinweise durch und bereitet euch auf den Unterricht vor. 
+
+<div style="margin-top: 2em;"></div> 
+
+> 📖 Heute und die nächsten sechs Physik-Unterrichtsstunden begleitet euch Simon Steffens aus dem Extavium, bald Nano. Nachdem ihr die folgenden Hinweise gelesen habt und euch alles besorgt habt, was ihr braucht, werdet ihr Simon in einem ersten Video kennenlernen.
 
 <div style="margin-top: 2em;"></div>
 
 <iframe src="https://giphy.com/embed/cJSDRt8csBx0A7YFfh" width="100%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-penguin-swerk-cJSDRt8csBx0A7YFfh">via GIPHY</a></p>
 
+>> MACHT JETZT FOLGENDES:
 
+<div style="margin-top: 2em;"></div>
+
+- [ ] 📱 Holt euch ein Tablet von der Lehrkraft. Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines.
+
+<div style="margin-top: 2em;"></div> 
+
+- [ ] 📷 Sobald ihr das Tablet vor euch liegen habt, scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. (QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt)
+
+<div style="margin-top: 2em;"></div>
+
+- [ ] Beginnt dann selbstständig, die Hinweise durchzulesen und euch vorzubereiten. Dafür klickt ihr unten den Pfeil nach rechts. Wenn ihr Unterstützung benötigt, fragt eure Mitschüler / Mitschülerinnen oder eure Lehrkraft.
+
+<div style="margin-top: 2em;"></div>
+
+--- 
+
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis an die Lehrkraft:** Sie stehen hier unterstützend zur Seite und schauen, ob alle SuS langsam ankommen und der Aufgabe nachgehen. Unterstützen Sie bei Bedarf. 
+</span>
+
+---
 
 ## Einführung Hinweise
 
-<div style="margin-top: 2em;"></div> 
-
-> ⏰ (5 Min.) Lest nun die folgenden Hinweise und bereitet euch auf den Unterricht vor. 
-
-<div style="margin-top: 2em;"></div> 
-
 Ihr braucht _nun als erstes_ folgendes:  <div style="margin-top: 2em;"></div> 
 
-- [ ] 📱 Jede und jeder von euch benötigt für die ersten beiden Unterrichtsstunden ein eigenes Tablet. Sollten nicht ausreichend Tablets zur Verfügung stehen, so teilt ihr euch eines. Holt euch ein Tablet von der Lehrkraft.
-<div style="margin-top: 2em;"></div> 
-- [ ] 📝 mind. zwei Blatt Papier, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten zu Aufgabenstellungen oder Notizen (Blatt 1) und Fragen (Blatt 2) aufschreiben könnt. 
-<div style="margin-top: 2em;"></div> 
-- [ ] 📷 Sobald ihr das Tablet vor euch liegen habt, dann scannt den folgenden QR-Code vom Smartboard. Wenn ihr dabei Hilfe braucht, fragt einen Mitschüler / eine Mitschülerin, der oder die bereits fertig ist. (QR Code einfügen bzw. Link zum QR Code, den dann die Lehrkraft ggf. gesondert öffnen muss / Alternative 1: Lehrkraft druckt QR Code aus und verteilt je Reihe bzw. Tisch / Alternative 2 (ungünstig): Lehrkraft hat QR Codes für alle SuS im Vorfeld gescannt) 
+- [ ] 📝 mind. zwei Blatt Papier, die ihr anschließend in eure Hefter heften könnt oder ein Arbeitsheft, in das ihr z.B. Antworten zu Aufgabenstellungen oder Notizen (Blatt 1) und Fragen (Blatt 2) aufschreiben könnt.
 
 <div style="margin-top: 2em;"></div> 
 
