@@ -206,11 +206,7 @@ _**ENDE DER HINWEISE**_
 
 <div style="margin-top: 2em;"></div> 
 
->> **⏰ 3 Minuten - Aufgabe 1a: Paararbeit 💬**
-
-<div style="margin-top: 2em;"></div> 
-
-> __**Aufgabenbeschreibung:**__ <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
+>> **⏰ 3 Minuten** <div style="margin-top: 2em;"></div> **Aufgabe 1a: Paararbeit 💬** <div style="margin-top: 2em;"></div> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
 <div style="margin-top: 3em;"></div> 
 
