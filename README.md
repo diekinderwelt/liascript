@@ -57,7 +57,7 @@ details[open] > *:not(summary) {
 ![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 
 
-# Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte
+# 1. Unterrichtsstunde - Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte 
 
 <div style="margin-top: 2em;"></div> 
 
@@ -176,7 +176,7 @@ _**ENDE DER HINWEISE**_
 
 
 
-# 1. Unterrichtsstunde - Einstieg 🔍
+## 1.1 Einstieg in das Thema 🔍
 
 <div style="margin-top: 2em;"></div> 
 
@@ -184,19 +184,11 @@ _**ENDE DER HINWEISE**_
 
 <div style="margin-top: 2em;"></div> 
 
-> Gibt es noch Fragen zu den Hinweisen?
-
-
-
-## 1.1 Einstieg in das Thema - ein erstes Experiment...
+>> ❗ ACHTUNG: Dieses und alle noch kommenden Videos werden nur von der Lehrkraft vorne am Smartboard geöffnet und gezeigt. 
 
 <div style="margin-top: 2em;"></div> 
 
->> ❗ ACHTUNG: Alle noch kommenden Videos werden nur von der Lehrkraft vorne am Smartboard geöffnet und gezeigt. 
-
-<div style="margin-top: 2em;"></div> 
-
-!?[Video 1 - Teil 1: Begrüßung & Ballons im Auto](https://cloud.die-kinderwelt.com/s/gkfsxMbZPiKApRE/download)
+!?[Video 1 - Teil 1: Begrüßung & Ballons im Auto](https://cloud.die-kinderwelt.com/s/GZGpNBBpTn4MLjB/download)
 
 <div style="margin-top: 3em;"></div> 
 
@@ -260,7 +252,7 @@ Für die Auflösung geht es auf der nächsten Seite weiter...
 
 Hier seht ihr die Aufösung und es folgt eine neue Frage...
 
-!?[Video 1 - Teil 2: Auflösung Teil I und ein zweites Experiment im Schwimmbad](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
+!?[Video 1 - Teil 2: Auflösung Teil I und ein zweites Experiment im Schwimmbad](https://cloud.die-kinderwelt.com/s/E64MEAyYsWSd66C/download)
 
 <div style="margin-top: 3em;"></div> 
 
@@ -340,15 +332,16 @@ Hier seht ihr die Aufösung und es folgt eine neue Frage...
 ### Auflösung Teil 2
 <div style="margin-top: 2em;"></div> 
 
-Hier seht ihr die Aufösung...
+Hier seht ihr die Aufösung, die Erklärung folgt am Ende der Doppelstunde...
 
-!?[Video 1 - Teil 3: Auflösung Teil 2](https://cloud.die-kinderwelt.com/s/6c3rLySeBWs3icR/download)
+!?[Video 1 - Teil 3: Auflösung Teil 2](https://cloud.die-kinderwelt.com/s/FoqQPF47PGxPcTK/download)
 
 <div style="margin-top: 4em;"></div> 
 
 ---
 
-<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Sie können die Schülerinnen und Schüler für diese Aufgabe auch ein kollaboratives Whiteboard nutzen lassen. Sollten Sie sich für diese Variante entscheiden, dann können die SuS die Aufgabe unter folgendem [Link](https://example.com) bearbeiten. Abschließend können Sie denselben Link auf dem Whiteboard aufrufen, um die Ergebnisse sehen und kurz besprechen zu können. 
+
+<span style="color: darkgreen; background-color: lightblue;"> 🗝️ **Hinweis für die Lehrkraft:** Gehen Sie nochmal sicher, dass für den Beginn keine Fragen mehr offen sind. Sollte es noch Fragen geben, auf die Sie keine Antwort haben, sammeln Sie diese und geben Sie dann an Simon weiter. Auf der nächsten Seite geht es mit einer Aufgabe weiter.
 </span>
 
 ---
@@ -487,7 +480,7 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 >> 📝 **Aufgabe 2a:** Schreibt euch bei Bedarf die wichtigsten Informationen aus dem folgenden Video auf. 
 
-!?[Was ist Dichte?](https://cloud.die-kinderwelt.com/s/MadwJJs4iNNKA3n/download)
+!?[Was ist Dichte?](https://cloud.die-kinderwelt.com/s/ziqGn9aknweAjpk/download)
 
 <div style="margin-top: 2em;"></div> 
 ❗ Nach Ende des Videos klickt weiter zur nächsten Seite. Ihr werdet euch in eurem eigenen Tempo durch die nächsten drei Seiten klicken. 
@@ -514,9 +507,16 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div> 
 
+🖋️ Schreibe nochmal in eigenen Worten auf: Was beschreibt die Dichte? 
+- [ ] Text field: [______]
+
+<div style="margin-top: 2em;"></div> 
+
+---
+
 ❓ Hast du noch Fragen? Schreibe alle deine Fragen auf dein Blatt 2 für Fragen auf - auch die, die vielleicht noch kommen. Diese kannst du später im Chat an Simon richten, falls sie nicht in der Zwischenzeit aufgelöst worden sind. Simon wird sie dann in der nächsten Doppelstunde beantworten. 
 
-
+--- 
 
 
 
@@ -539,19 +539,19 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 ### EINZELARBEIT: Dichte berechnen
 <div style="margin-top: 2em;"></div>
 
->> 📝 **Aufgabe 2b: Einzelarbeit** <div style="margin-top: 2em;"></div> Hinweis: Beginne mit dieser Aufgabe, wenn du bis hierhin alles verstanden hast. Brauchst du noch Hilfestellung, so wende dich an deine Lehrkraft oder an einen Mitschüler / eine Mitschülerin, die dir helfen kann. Oder lies dir die Texte nochmal durch, bis du es verstanden hast.
+>> 📝 **Aufgabe 2b: Einzelarbeit** <div style="margin-top: 2em;"></div> Hinweis: Beginne mit dieser Aufgabe, wenn du bis hierhin alles verstanden hast. Brauchst du noch Unterstützung, so wende dich an deine Lehrkraft oder an einen Mitschüler / eine Mitschülerin, die oder der dir helfen kann. Oder lies dir die Texte nochmal durch, bis du es verstanden hast.
 
 <div style="margin-top: 2em;"></div>
 
-> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> Berechnet nun die Dichte in den folgenden Aufgaben. Schreibt euch die Antwort zu den folgenden Aufgaben auf euer Blatt 1 auf: <div style="margin-top:1em;"></div>
+> **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> Berechne nun die Dichte in den folgenden Aufgaben. Schreibe dir die Antwort zu den folgenden Aufgaben auf euer Blatt 1 auf: <div style="margin-top: 2em;"></div>
 
-1.	Du hast eine Glaskugel, die 500g wiegt. Ihr Volumen beträgt 200cm³. Wie groß ist die Dichte der Glaskugel? <div style="margin-top:1em;"></div>
-2.	Die Dichte von Öl beträgt 0,9kg/L. Wie viel Gramm wiegen 100ml Öl? <div style="margin-top:1em;"></div>
+1.	Du hast eine Glaskugel, die 500g wiegt. Ihr Volumen beträgt 200cm³. Wie groß ist die Dichte der Glaskugel? <div style="margin-top:2em;"></div>
+2.	Die Dichte von Öl beträgt 0,9kg/L. Wie viel Gramm wiegen 100ml Öl? <div style="margin-top:2em;"></div>
 3.	Du hast einen Pool, der 10m lang und 10m breit ist. Mit Lkws werden 100t Wasser (Dichte 1 kg/L) angeliefert und in den Pool gefüllt. Wie hoch ist der Pool anschließend mit Wasser gefüllt? 
 
 <div style="margin-top: 2em;"></div>
 
-🌱 Solltet ihr bereits früher fertig seid, überlegt euch noch eigene Beispiele und schreibt diese in euer Heft. 
+🌱 Solltet ihr bereits früher fertig seid, könnt ihr eure Mitschüler und Mitschülerinnen unterstützen. 
 
 <div style="margin-top: 2em;"></div>
 
@@ -581,12 +581,12 @@ Dann geht es auf der nächsten Seite weiter mit einem Video zu der Frage, wie si
 
 >> 📝 **Aufgabe 2c:** Schreibt euch bei Bedarf die wichtigsten Informationen aus dem folgenden Video auf.
 
-!?[Dichte experimentell bestimmen ](https://cloud.die-kinderwelt.com/s/qK4Hq8z5ZzSPcFj/download)
+!?[Dichte experimentell bestimmen ](https://cloud.die-kinderwelt.com/s/aLMbQoJrLNEkC4g/download)
 
 
 ---
 
-<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Fragen Sie die SuS, ob alles verstanden wurde. Sollten Fragen entstehen, die Sie nicht beantworten können, sammeln Sie diese für Simon. </span> 
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Fragen Sie die SuS, ob alles verstanden wurde. Sollten Fragen entstehen, die Sie nicht beantworten können, sollen sich die SuS diese aufschreiben und diese am Ende der Stunde direkt an Simon stellen. </span> 
 
 --- 
 
@@ -594,7 +594,7 @@ Dann geht es auf der nächsten Seite weiter mit einem Video zu der Frage, wie si
 
 <div style="margin-top: 2em;"></div>
 
->> ⏰ 3 Minuten - Lest nun den folgenden Text in Einzelarbeit 📖. 
+>> **⏰ 3 Minuten - Lest nun den folgenden Text in Einzelarbeit 📖.** 
 
 <div style="margin-top: 2em;"></div>
 
@@ -629,14 +629,42 @@ Dann geht es auf der nächsten Seite weiter mit einem Video zu der Frage, wie si
 
 <div style="margin-top: 2em;"></div>
 
->> 📝 **Aufgabe 2d:** Schreibt euch bei Bedarf die wichtigsten Informationen aus dem folgenden Video auf.
+>>> ❓ Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
 
-!?[Verdrängung und Auftrieb - Archimedisches Prinzip](https://cloud.die-kinderwelt.com/s/iQMb5ggQ6WQbpPw/download)
+>> **⏰ 3 Minuten - TEIL 1: Lese nun den folgenden Text in Einzelarbeit 📖**. <div style="margin-top: 2em;"></div> **⏰ 5 Minuten - TEIL 2: Paaraustausch 💬** Sobald ihr mit dem Lesen fertig seid, geht nochmal mit eurem Sitznachbarn / eurer Sitznachbarin zusammen und fasst zusammen: **Erklärt euch gegenseitig**, was ihr verstanden habt und wie das nun ganz konkret **die obenstehende Frage beantwortet**. Wenn ihr etwas noch nicht verstanden habt, dann **schreibt die Frage für Simon auf** - er wird sie euch dann kommende Woche beantworten. <div style="margin-top: 2em;"></div> **⏰ 2 Minuten - TEIL 3: Zusammenfassung im Plenum 🙋‍♂️🙋** Teilt eure wichtigsten Antworten im Plenum mit.
+
+<div style="margin-top: 2em;"></div>
+
+> 💡 **ANTWORT:** Das liegt **an der Luft im Innern** des Schiffs. Hier wird **nicht nur die Dichte des Stahls** betrachtet, aus dem das Schiff gebaut ist, sondern **zusätzlich, wie viel Luft im Schiff eingeschlossen ist**. Ein solches Schiff **schwimmt nur dann**, wenn die **Kombination aus Luft und Stahl** zusammen eine **kleinere Dichte als Wasser** hat. <div style="margin-top: 2em;"></div> Was so ein schweres Schiff letztlich oben hält, ist eine **Kraft, die das Wasser auf das Schiff** ausübt. Die sogenannte **Auftriebskraft**. <div style="margin-top: 2em;"></div> **ALS BEISPIEL:** Ihr habt die Auftriebskraft alle schon selbst erlebt. Wenn ihr im Schwimmbad ins Wasser geht, z.B. eine Treppe heruntersteigt, fühlt ihr euch mit jedem Schritt leichter. Je tiefer ihr ins Wasser steigt, desto weniger spürt ihr euer eigenes Gewicht.
+
+<div style="margin-top: 2em;"></div>
+
+> 📌 **Dabei gilt:** Die **Auftriebskraft** auf einen Körper ist **umso größer**, **je mehr Wasser er verdrängt**. Und zwar ist sie genauso groß wie die Gewichtskraft des Wassers, das verdrängt wurde.
+Die Auftriebskraft ist der Gewichtskraft entgegengesetzt.
+
+<div style="margin-top: 2em;"></div>
+
+> 📌 Dies ist das **Archimedische Prinzip**: Die Auftriebskraft auf einen Körper ist gleich der Gewichtskraft des von diesem Körper verdrängten Wassers. <div style="margin-top: 2em;"></div> **ALS BEISPIEL:** Wenn du versuchst, einen Fußball unter Wasser zu drücken, musst du gegen diese Auftriebskraft drücken. Je tiefer du den Ball herunterdrückst, umso mehr Wasser wird verdrängt, umso mehr Kraft musst du aufwenden.
+
+<div style="margin-top: 2em;"></div>
+
+> **HIER NOCHMAL ZWEI BEISPIELE:**
+
+<div style="margin-top: 2em;"></div>
+
+-	Eine Metallkugel mit einem Volumen von 1L verdrängt unter Wasser ja genau 1L Wasser. Die Auftriebskraft, die diese Kugel erfährt, ist gleich der Gewichtskraft von 1L (und damit 1kg) Wasser. Diese Metallkugel fühlt sich unter Wasser also 1kg leichter an.
+
+-	Eine Holzkugel von 1kg Gewicht und einem Volumen von 1,4L schwimmt auf dem Wasser. Dabei tauchen 1L des Kugelvolumens ins Wasser ein. 0,4L des Holzkugelvolumens schauen oben aus der Wasseroberfläche heraus. Die schwimmende Kugel verdrängt nämlich genau 1kg (und damit 1L) Wasser. Ein schwimmfähiger Körper verdrängt genauso viel Wasser, wie er selbst wiegt. Dadurch erfährt er eine Auftriebskraft nach oben, die genauso groß ist wie die Gewichtskraft, die ihn nach unten zieht. Es herrscht ein Kräftegleichgewicht.
+
+<div style="margin-top: 2em;"></div>
+
+>> 💡 Für ein Stahlschiff bedeutet das: **Je mehr Wasser ein Schiff verdrängen kann, desto schwerer kann es beladen werden, ohne unterzugehen.** 
+
 
 
 ---
 
-<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Fragen Sie die SuS, ob alles verstanden wurde. Sollten Fragen entstehen, die Sie nicht beantworten können, sammeln Sie diese für Simon. </span> 
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Haben Sie im Blick, ob alle SuS den Text und die Aufgabe verstanden haben. Sollten Fragen aufkommen, die Sie nicht beantworten können, sammeln Sie diese für Simon. Nach 8 Minuten soll die Klasse nochmal in eine Zusammenfassung gehen (siehe Aufgabe oben - TEIL 3) </span> 
 
 --- 
 
@@ -644,6 +672,14 @@ Dann geht es auf der nächsten Seite weiter mit einem Video zu der Frage, wie si
 
 
 ## 2.5 Zusammenfassung
+
+<div style="margin-top: 2em;"></div>
+
+---
+
+<span style="color: darkgreen; background-color: lightblue;">  🗝️ **Hinweis für die Lehrkraft:** Lassen Sie die SuS die folgenden wichtigsten Informationen in eigenen Worten zusammenfassen. Halten Sie auch nochmal fest, falls den SuS noch nicht alles klar ist und geben Sie die Fragen dann an Simon weiter. </span> 
+
+---
 
 <div style="margin-top: 2em;"></div>
 
@@ -666,9 +702,9 @@ Dann geht es auf der nächsten Seite weiter mit einem Video zu der Frage, wie si
 
 <div style="margin-top: 2em;"></div>
 
-Und hier ist die Lösung...
+Und hier ist die noch versprochene Erklärung zur Schwimmbadfrage:
 
-!?[Auflösung Anfangsfrage](https://cloud.die-kinderwelt.com/s/MdHi8zzWoiXHYfW/download)
+!?[Auflösung Anfangsfrage](https://cloud.die-kinderwelt.com/s/gNzH5ecfwSzFnCd/download)
 
 
 
@@ -687,9 +723,9 @@ Nächste Woche wird Simon euch eure Fragen beantworten.
 <div style="margin-top: 2em;"></div>
 
 1. Diese Frage habe ich noch...
-2. Das habe ich gar nicht verstanden...
-3. Das fand ich in dieser Unterrichtseinheit total toll...
-4. Das fand ich in dieser Unterrichtseinheit gar nicht toll...
+3. Das habe ich gar nicht verstanden...
+4. Das fand ich in dieser Unterrichtseinheit toll...
+5. Das fand ich in dieser Unterrichtseinheit nicht toll...
 
    
 
@@ -698,13 +734,13 @@ Nächste Woche wird Simon euch eure Fragen beantworten.
 
 <div style="margin-top: 2em;"></div>
 
-📖 Wir werden das heute erlangte Wissen nutzen um Boote zu bauen und die Dichte von verschiedenen Gegenständen zu bestimmen. Bringt dazu bitte euer **Geodreieck oder Lineal** und euren **Taschenrechner** mit.
+📖 **Nächste Woche:** Wir werden das heute erlangte Wissen nutzen, um Boote zu bauen und die Dichte von verschiedenen Gegenständen zu bestimmen. Bringt dazu bitte euer **Geodreieck oder Lineal** und euren **Taschenrechner** mit.
 
 <div style="margin-top: 2em;"></div>
 
 > **In zwei Wochen:** <div style="margin-top: 2em;"></div> Wenn es um das Schwimmen oder Sinken geht, haben wir bisher nur das Medium Wasser betrachtet. In zwei Wochen werden wir uns auch noch andere Medien wie Öl, Salzwasser und Luft anschauen und sehen, dass die o.g. Merksätze auch dort gelten: 
--	Ein Körper schwimmt in einem Medium, wenn seine Dichte kleiner ist als die des Mediums, in dem es sich befindet.
--	Die Auftriebskraft ist gleich der Gewichtskraft des verdrängten Mediums.
+-	📌 Ein Körper schwimmt in einem Medium, wenn seine Dichte kleiner ist als die des Mediums, in dem es sich befindet.
+-	📌 Die Auftriebskraft ist gleich der Gewichtskraft des verdrängten Mediums.
 
 <div style="margin-top: 2em;"></div>
 
