@@ -54,7 +54,6 @@ details[open] > *:not(summary) {
 
 -->
 
-![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 
 
 # 1. Unterrichtsstunde - Hallo und herzlich Willkommen zur Unterrichtsreihe zum Thema Dichte 
