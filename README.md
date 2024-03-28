@@ -202,7 +202,7 @@ _**ENDE DER HINWEISE**_
 
 <div style="margin-top: 2em;"></div> 
 
->> **Aufgabe 1a: Paaraustausch 💬** <div style="margin-top: 2em;"></div> **⏰ 2 Minuten** <div style="margin-top: 2em;"></div>
+>> **⏰ 2 Minuten - Aufgabe 1a: Paaraustausch 💬** <div style="margin-top: 2em;"></div> 
 
 > **Aufgabenbeschreibung:** <div style="margin-top: 2em;"></div> 🤔 1. Tauscht euch mit eurem Sitznachbarn / eurer Sitznachbarin zu der untenstehenden Frage (❓) aus. <div style="margin-top: 2em;"></div> 📝 2. Entscheidet euch für die passende Antwort und stellt Vermutungen auf, weshalb es so sein könnte...
 
@@ -506,8 +506,8 @@ Was die Dichte genau ist, wie man sie sich vorstellen kann und wie man sie berec
 
 <div style="margin-top: 2em;"></div> 
 
-🖋️ Schreibe nochmal in eigenen Worten auf: Was beschreibt die Dichte? 
-- [ ] Text field: [______]
+📝 Schreibe es für dich nochmal in eigenen Worten auf: Was beschreibt die Dichte? 
+
 
 <div style="margin-top: 2em;"></div> 
 
@@ -630,7 +630,7 @@ Dann geht es auf der nächsten Seite weiter mit einem Video zu der Frage, wie si
 
 >>> ❓ Wenn nun aber Eisen eine höhere Dichte hat als Wasser, warum gehen dann große Containerschiffe nicht unter? Sie sind selbst aus schwerem Stahl gebaut, können schwere Lasten tragen und schwimmen trotzdem. Wenn ihr euren Schlüssel (der ja auch aus Metall ist) ins Wasser werft, geht er unter. Warum nicht die Schiffe?
 
->> **⏰ 3 Minuten - TEIL 1: Lese nun den folgenden Text in Einzelarbeit 📖**. <div style="margin-top: 2em;"></div> **⏰ 5 Minuten - TEIL 2: Paaraustausch 💬** Sobald ihr mit dem Lesen fertig seid, geht nochmal mit eurem Sitznachbarn / eurer Sitznachbarin zusammen und fasst zusammen: **Erklärt euch gegenseitig**, was ihr verstanden habt und wie das nun ganz konkret **die obenstehende Frage beantwortet**. Wenn ihr etwas noch nicht verstanden habt, dann **schreibt die Frage für Simon auf** - er wird sie euch dann kommende Woche beantworten. <div style="margin-top: 2em;"></div> **⏰ 2 Minuten - TEIL 3: Zusammenfassung im Plenum 🙋‍♂️🙋** Teilt eure wichtigsten Antworten im Plenum mit.
+>> **Aufgabe 2d:** <div style="margin-top: 2em;"></div> ⏰ 3 Minuten - TEIL 1: Lese nun den folgenden Text in Einzelarbeit 📖**. <div style="margin-top: 2em;"></div> **⏰ 5 Minuten - TEIL 2: Paaraustausch 💬** Sobald ihr mit dem Lesen fertig seid, geht nochmal mit eurem Sitznachbarn / eurer Sitznachbarin zusammen und fasst zusammen: **Erklärt euch gegenseitig**, was ihr verstanden habt und wie das nun ganz konkret **die obenstehende Frage beantwortet**. Wenn ihr etwas noch nicht verstanden habt, dann **schreibt die Frage für Simon auf** - er wird sie euch dann kommende Woche beantworten. <div style="margin-top: 2em;"></div> **⏰ 2 Minuten - TEIL 3: Zusammenfassung im Plenum 🙋‍♂️🙋** Teilt eure wichtigsten Antworten im Plenum mit.
 
 <div style="margin-top: 2em;"></div>
 
